@@ -11,13 +11,6 @@ from urllib.parse import urlencode
 import requests
 
 
-# In[2]:
-
-
-
-client_id = "6f2a7816998d4d7e992f1dba605ccd33"
-client_secret = "f1029bcc83634b4c9497ec0bcd701498"
-
 
 # In[11]:
 
@@ -113,11 +106,8 @@ class SpotifyAPI(object):
     def base_search(self, query_params):
         headers = self.get_resource_header()
         endpoint = "https://api.spotify.com/v1/search"
-
         lookup_url = f"{endpoint}?{query_params}"
-        print(lookup_url)
         r = requests.get(lookup_url, headers=headers)
-        print(r.status_code)
         if r.status_code not in range(200, 299):
             return {}
         return r.json()
@@ -128,6 +118,7 @@ class SpotifyAPI(object):
         if isinstance(query, dict):
             query = " ".join([f"{k}:{v}" for k,v in query.items()])
         query_params = urlencode({"q":query, "type":search_type.lower()})
-        print(query_params)
         return self.base_search(query_params)
 
+
+# %%
