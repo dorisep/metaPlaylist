@@ -12,10 +12,12 @@
 
 -spotify client - credit video guy
 
--Try catch update for metaScrape? -- Works, why fix?
+-Try catch update for metaScrape? -- check
 
 -Spotify playlist creating app needs update to automate auth key for playlist creation
     -selenium back in business
+    -week num feature added - can select current week according to date scraped
+    -need to add playlist client and run
 
 -Add album/track_ids to csv
 
