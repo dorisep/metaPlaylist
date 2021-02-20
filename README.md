@@ -1,14 +1,18 @@
 # metaPlaylist
- A webscrapping app to build playlists of new albums
+ A webscrapping app to build playlists of albums in the metacritic DB
 
 -historical scrape of previous years going back to 2000- check
 
 -need to update the scrape for early part of the year only 1 page till a hundred albums released - check
 
+-write out csv with week num during scrape - check
+
 -merge script for historical csv - check
-    -Pandas?
-    -parsing out weekly list after scrape
-    -coordinating scrapes from wikki and bandcamp
+    -Pandas?-sticking with straight python ATM
+    -parsing out weekly list after scrape: righ now parsing in playlist app
+    -append album_ids to csv file  - what to do with albums_not_found - used date and album name?
+    
+-coordinating scrapes from wikki and bandcamp
 
 -spotify client - credit video guy
 
@@ -19,8 +23,11 @@
     -week num feature added - can select current week according to date scraped
     -need to add playlist client and run
 
--Add album/track_ids to csv
-
+-Add album/track_ids to csv?
+-track_ids sql table
+-Pandas?-sticking with straight python ATM
+-parsing out weekly list after scrape: righ now parsing in playlist app
+-append album_ids to csv file  - what to do with albums_not_found - used date and album name?
 -Wikki?
 -Bandcamp?
 -need to make an automated script
