@@ -26,7 +26,6 @@
 -Add album/track_ids to csv?
 -track_ids sql table
 -Pandas?-sticking with straight python ATM
--parsing out weekly list after scrape: righ now parsing in playlist app
 -append album_ids to csv file  - what to do with albums_not_found - used date and album name?
 -Wikki?
 -Bandcamp?
@@ -38,3 +37,4 @@
 -Sql/MongoDB?
 -HTML?
 -JS?
+=need to change playlist token back to variable.
