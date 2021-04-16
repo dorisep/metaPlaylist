@@ -1,7 +1,10 @@
 artist,album,date,week_num,meta_score,user_score
-The Offspring,Let the Bad Times Roll,"April 16, 2021",15,56,0
-Greta Van Fleet,The Battle at Garden's Gate,"April 16, 2021",15,60,98
+The Offspring,Let the Bad Times Roll,"April 16, 2021",15,54,0
+Greta Van Fleet,The Battle at Garden's Gate,"April 16, 2021",15,60,93
 Paul McCartney,McCartney III Imagined,"April 16, 2021",15,84,0
+London Grammar,Californian Soil,"April 16, 2021",15,77,0
+The Armed,ULTRAPOP,"April 16, 2021",15,83,0
+Cannibal Corpse,Violence Unimagined,"April 16, 2021",15,81,0
 Cheap Trick,In Another World,"April 9, 2021",14,66,78
 Flyte,This Is Really Going To Hurt,"April 9, 2021",14,72,0
 Nick Waterhouse,Promenade Blue,"April 9, 2021",14,82,0
@@ -13,7 +16,7 @@ Spirit of the Beehive,"ENTERTAINMENT, DEATH","April 9, 2021",14,82,0
 Peggy Seeger,First Farewell,"April 9, 2021",14,86,0
 Benny Sings,Music,"April 9, 2021",14,78,0
 Clamm,Beseech Me,"April 9, 2021",14,76,0
-Rhiannon Giddens,They're Calling Me Home,"April 9, 2021",14,87,0
+Rhiannon Giddens,They're Calling Me Home,"April 9, 2021",14,90,0
 Godspeed You! Black Emperor,G_d's Pee AT STATE'S END!,"April 2, 2021",13,82,86
 Flock of Dimes,Head of Roses,"April 2, 2021",13,79,0
 Dry Cleaning,New Long Leg,"April 2, 2021",13,86,76
@@ -95,12 +98,12 @@ Pat Metheny,Pat Metheny: Road to the Sun,"March 5, 2021",9,80,0
 Adult Mom,Driver,"March 5, 2021",9,82,0
 Postdata,Twin Flames,"March 5, 2021",9,84,0
 Julien Baker,Little Oblivions,"February 26, 2021",8,80,83
-Architects,For Those That Wish to Exist,"February 26, 2021",8,72,67
-Alice Cooper,Detroit Stories,"February 26, 2021",8,77,73
-Cloud Nothings,The Shadow I Remember,"February 26, 2021",8,85,0
-The Offspring,Let the Bad Times Roll,"April 16, 2021",15,56,0
-Greta Van Fleet,The Battle at Garden's Gate,"April 16, 2021",15,60,98
+The Offspring,Let the Bad Times Roll,"April 16, 2021",15,54,0
+Greta Van Fleet,The Battle at Garden's Gate,"April 16, 2021",15,60,93
 Paul McCartney,McCartney III Imagined,"April 16, 2021",15,84,0
+London Grammar,Californian Soil,"April 16, 2021",15,77,0
+The Armed,ULTRAPOP,"April 16, 2021",15,83,0
+Cannibal Corpse,Violence Unimagined,"April 16, 2021",15,81,0
 Cheap Trick,In Another World,"April 9, 2021",14,66,78
 Flyte,This Is Really Going To Hurt,"April 9, 2021",14,72,0
 Nick Waterhouse,Promenade Blue,"April 9, 2021",14,82,0
@@ -112,7 +115,7 @@ Spirit of the Beehive,"ENTERTAINMENT, DEATH","April 9, 2021",14,82,0
 Peggy Seeger,First Farewell,"April 9, 2021",14,86,0
 Benny Sings,Music,"April 9, 2021",14,78,0
 Clamm,Beseech Me,"April 9, 2021",14,76,0
-Rhiannon Giddens,They're Calling Me Home,"April 9, 2021",14,87,0
+Rhiannon Giddens,They're Calling Me Home,"April 9, 2021",14,90,0
 Godspeed You! Black Emperor,G_d's Pee AT STATE'S END!,"April 2, 2021",13,82,86
 Flock of Dimes,Head of Roses,"April 2, 2021",13,79,0
 Dry Cleaning,New Long Leg,"April 2, 2021",13,86,76
@@ -194,6 +197,3 @@ Pat Metheny,Pat Metheny: Road to the Sun,"March 5, 2021",9,80,0
 Adult Mom,Driver,"March 5, 2021",9,82,0
 Postdata,Twin Flames,"March 5, 2021",9,84,0
 Julien Baker,Little Oblivions,"February 26, 2021",8,80,83
-Architects,For Those That Wish to Exist,"February 26, 2021",8,72,67
-Alice Cooper,Detroit Stories,"February 26, 2021",8,77,73
-Cloud Nothings,The Shadow I Remember,"February 26, 2021",8,85,0

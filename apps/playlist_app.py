@@ -47,7 +47,7 @@ def refresh_accesss_token():
 
 # def get_week_num():
 playlist_token = refresh_accesss_token()
-csv_path = os.path.join('..','..', 'data', 'test','test2.csv')
+csv_path = os.path.join('..', 'data', 'test','test2.csv')
 def get_week_num():
     my_date = datetime.date.today() 
     year, week_num, day_of_week = my_date.isocalendar()
