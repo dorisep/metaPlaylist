@@ -145,7 +145,7 @@ def create_playlist():
 
     return add_tracks_to_playlist(playlist_id)
 
-create_playlist()
+
 # In[ ]:
 
 

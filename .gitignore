@@ -1,0 +1,7 @@
+
+jupyter_notebooks/automation/config.py
+jupyter_notebooks/file_managment/config.py
+jupyter_notebooks/metacritic_scrape_files/config.py
+jupyter_notebooks/spotify_client_notbooks/config.py
+jupyter_notebooks/spotify_playlist_apps/config.py
+apps/config.py
