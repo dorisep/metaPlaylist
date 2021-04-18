@@ -12,29 +12,35 @@
     -parsing out weekly list after scrape: righ now parsing in playlist app
     -append album_ids to csv file  - what to do with albums_not_found - used date and album name?
     
--coordinating scrapes from wikki and bandcamp
-
 -spotify client - credit video guy
 
 -Try catch update for metaScrape? -- check
 
--Spotify playlist creating app needs update to automate auth key for playlist creation
-    -selenium back in business
-    -week num feature added - can select current week according to date scraped
-    -need to add playlist client and run
+-Spotify playlist creating app needs update to automate auth key for playlist creation - check - function added to 
+    -Auth works, need to set up to use ApotifyApi class(super()) - polish
+    -neew 
 
--Add album/track_ids to csv?
--track_ids sql table
--Pandas?-sticking with straight python ATM
--append album_ids to csv file  - what to do with albums_not_found - used date and album name?
+-append album_ids to csv file  - what to do with albums_not_found - used date and album name - regex?
 -Wikki?
 -Bandcamp?
--need to make an automated script
-    -scrape on schedule
+-created button 
+    -created flask app that runs metacritic scrape and spotify playlist apps.
+
     -send email with stats
     -weekly files
--spotify_track_attributes
+
 -Sql/MongoDB?
+    -spotify_track_attributes
+    -getting null values back - need to test early scrapes 
+    
 -HTML?
+    -table
+    -filter
+    -form
+    -map
 -JS?
+    -data
+    -sliders
+
 =need to change playlist token back to variable.
+
