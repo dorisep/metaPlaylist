@@ -30,7 +30,8 @@
     -weekly files
 
 -Sql/MongoDB?
-    -spotify_track_attributes
+    -have funtion for audio features, I had to go back to add_tracks function. I know believe it can be split into three functions. the first returns the json search object for albums. the second two parse out the required id for features and the required uri for playlist tracks. - Just need to refactor code.
+
     -getting null values back - need to test early scrapes 
     
 -HTML?
