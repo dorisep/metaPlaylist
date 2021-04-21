@@ -21,7 +21,6 @@ def index():
 def scrape():
     # mars = mongo.db.mars
     meta_scrape.metaScorePages()
-    
     # mars.update({}, mars_data, upsert=True)
     return redirect('/', code=302)
 
