@@ -102,9 +102,6 @@ class SpotifyAPI(object):
     def get_artist(self, _id):
         return self.get_resource(_id, resource_type = "artists")
 
-    def get_track_feature(self, _id):
-        return self.get_resource(_id, resource_type = "audio_features")
-
     
     def base_search(self, query_params):
         headers = self.get_resource_header()
