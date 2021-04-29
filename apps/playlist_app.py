@@ -84,7 +84,7 @@ def search_for_albums(csv_path):
         reader = csv.DictReader(csvfile)
         for row in reader:
 #         filter for artists and albums from current week
-            if int(row['week_num'])==get_week_num():
+            if int(row['week_num'])==16:
                 artists.append(row['artist'])
                 albums.append(row['album'])
 #   initialize spotify client
