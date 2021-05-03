@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[12]:
-
-
 import requests
 import os
 import base64
@@ -25,7 +19,7 @@ def refresh_accesss_token():
     refresh_url =  'https://accounts.spotify.com/api/token'
     refresh_params = {
         'grant_type': 'refresh_token',
-        'refresh_token': 'AQA92cE5oL-fTQvG1_objGmNUVNQ_6AseJUqjsNC2ujDEFeMTOPxBpLqQ6Ct2tkmLIp79RT6deD3WjdPRYDlhnU2YgautBPNYw5aGMjYVD-y35lz5_n1L88yxG2UA-7nd58'
+        'refresh_token': f'{refresh_token}'
         
     }
 
@@ -84,7 +78,7 @@ def search_for_albums(csv_path):
         reader = csv.DictReader(csvfile)
         for row in reader:
 #         filter for artists and albums from current week
-            if int(row['week_num'])==16:
+            if int(row['week_num'])==get_week_num():
                 artists.append(row['artist'])
                 albums.append(row['album'])
 #   initialize spotify client
@@ -144,10 +138,5 @@ def create_playlist():
     playlist_id = (response_json['id'])
 
     return add_tracks_to_playlist(playlist_id)
-
-
-# In[ ]:
-
-
 
 
