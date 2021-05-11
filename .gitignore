@@ -6,27 +6,3 @@ jupyter_notebooks/spotify_client_notbooks/config.py
 jupyter_notebooks/spotify_playlist_apps/config.py
 apps/config.py
 jupyter_notebooks/spotify_client_notebooks/config.py
-Test/.DS_Store
-Test/.ipynb_checkpoints/1 - Auth-checkpoint.ipynb
-Test/.ipynb_checkpoints/3 - Use access token-checkpoint.ipynb
-Test/.ipynb_checkpoints/2 -Base API Client Class-checkpoint.ipynb
-Test/.ipynb_checkpoints/4 - Resource-Enabled Client-checkpoint.ipynb
-Test/.ipynb_checkpoints/5 - Robust Query Search-checkpoint.ipynb
-Test/.ipynb_checkpoints/5 - Robust Query Search-Copy1-checkpoint.ipynb
-Test/.ipynb_checkpoints/concat_csv_files_pandas-checkpoint.ipynb
-Test/.ipynb_checkpoints/divide_metaScrape_by_scores-checkpoint.ipynb
-Test/.ipynb_checkpoints/File_merge_os-checkpoint.ipynb
-Test/.ipynb_checkpoints/historic_metaPlaylist-checkpoint.ipynb
-Test/.ipynb_checkpoints/meta_mail-checkpoint.ipynb
-Test/.ipynb_checkpoints/metaScrape-Copy1-checkpoint.ipynb
-Test/.ipynb_checkpoints/metaScrape-Copy2-checkpoint.ipynb
-*.ipynb
-Test/automation/config.py
-Test/file_managment/config.py
-Test/file_managment/spotify_client-Copy1.py
-Test/metacritic_scrape_files/config.py
-Test/spotify_client_notebooks/auth.py
-Test/spotify_client_notebooks/config.py
-Test/spotify_client_notebooks/spotify_client.py
-Test/spotify_playlist_apps/config.py
-Test/spotify_playlist_apps/spotify_client.py
