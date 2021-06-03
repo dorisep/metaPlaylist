@@ -39,7 +39,7 @@ def refresh_accesss_token():
 
 
 
-# def get_week_num():
+
 playlist_token = refresh_accesss_token()
 csv_path = os.path.join('..', 'data', 'test','test2.csv')
 def get_week_num():
@@ -47,6 +47,28 @@ def get_week_num():
     year, week_num, day_of_week = my_date.isocalendar()
     this_week = week_num
     return this_week
+
+def get_track_features():
+    playlist_token = refresh_accesss_token()
+#     track_ids = [track[14:] for track in search_for_albums(csv_path)]
+    track_limit = 100 
+    # using list comprehension 
+    batched_tracks = [track_ids[i * track_limit:(i + 1) * track_limit] for i in range((len(track_ids) + track_limit - 1) // track_limit)]  
+#     url = f'https://api.spotify.com/v1/audio-features?ids='
+#     =7ouMYWpwJ422jRcDASZB7P%2C4VqPOruhp5EdPBeR92t6lQ%2C2takcwOaAZWiXQijPHIx7B'
+    for batch in batched_tracks:
+        request_data =  "%2C".join(batch)
+        url = f'https://api.spotify.com/v1/audio-features?ids={request_data}'
+        response = requests.get(
+            url,
+            headers = {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json',
+            'Authorization': f'Bearer {playlist_token}'
+            })
+        print(response.url)
+        b = response.json()
+        print(b["audio_features"])
 
 def get_album_tracks(album_ids):
     track_ids = []
@@ -69,6 +91,9 @@ def get_album_tracks(album_ids):
 def search_for_albums(csv_path):
     artists=[]
     albums=[]
+    meta_score=[]
+    user_score=[]
+
     albums_not_found = {'artist': [], 'album': []}
     album_ids = set()
     
@@ -78,9 +103,11 @@ def search_for_albums(csv_path):
         reader = csv.DictReader(csvfile)
         for row in reader:
 #         filter for artists and albums from current week
-            if int(row['week_num'])==18:
+            if int(row['week_num'])==get_week_num():
                 artists.append(row['artist'])
                 albums.append(row['album'])
+                meta_score.append(row['meta_score'])
+                user_score.append(row['user_score'])
 #   initialize spotify client
     spotify = SpotifyAPI(client_id, client_secret)
     for al, ar in zip(albums, artists):
