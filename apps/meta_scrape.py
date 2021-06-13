@@ -95,7 +95,7 @@ def metaScrape(url_for_scrape, page_num):
             writer = csv.writer(csvfile)
             for d in data:
                 writer.writerow(d)
-    return playlist_app.create_playlist()
+    return print(page_num)
 
 def metaScorePages():    
     # find number of pages for albums 2020
@@ -118,7 +118,7 @@ def metaScorePages():
         for page_num in range(pages):
             url_for_scrape = f'{url_pages}&page={page_num}'
             metaScrape(url_for_scrape, page_num)
-    
+    playlist_app.create_playlist()
 
 
 
