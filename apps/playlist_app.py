@@ -7,6 +7,8 @@ from datetime import datetime, date
 from spotify_client import *
 from config import *
 
+
+
 def refresh_accesss_token():
     client_creds = f'{client_id}:{client_secret}'
     client_creds_b64 = base64.b64encode(client_creds.encode())
@@ -41,7 +43,7 @@ def refresh_accesss_token():
 
 
 playlist_token = refresh_accesss_token()
-csv_path = os.path.join('..', 'data', 'test','test2.csv')
+csv_path = os.path.join('..', 'data', 'test', 'test2.csv')
 def get_week_num():
     my_date = datetime.date.today() 
     year, week_num, day_of_week = my_date.isocalendar()
@@ -111,6 +113,7 @@ def search_for_albums(csv_path):
 #   initialize spotify client
     spotify = SpotifyAPI(client_id, client_secret)
     for al, ar in zip(albums, artists):
+        print(al)
 #   search for album ids 
         temp = spotify.search({"album":al, "artist":ar}, search_type="album")
         try:
@@ -140,7 +143,7 @@ def add_tracks_to_playlist(playlist_id):
             'Content-Type': 'application/json',
             'Authorization': f'Bearer {playlist_token}'
             })
-        return(response.json())
+    return
 
 def create_playlist():
     week_num = get_week_num()
