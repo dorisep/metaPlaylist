@@ -9,3 +9,7 @@ jupyter_notebooks/spotify_client_notebooks/config.py
 jupyter_notebooks/spotify_playlist_apps/__pycache__/config.cpython-38.pyc
 apps/credentials.json
 apps/token.json
+apps/credentials/config.py
+apps/credentials/credentials.json
+apps/credentials/token-1.json
+apps/credentials/token.json
