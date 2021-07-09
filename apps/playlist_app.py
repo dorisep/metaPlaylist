@@ -5,7 +5,7 @@ import csv
 import json
 from datetime import datetime, date
 from spotify_client import *
-from config import *
+from credentials.config import *
 
 
 
