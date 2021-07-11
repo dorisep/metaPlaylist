@@ -19,6 +19,7 @@ def metaScrape(url_for_scrape, page_num):
     response_score = requests.get(url_for_scrape, headers = user_agent)
     # scrape website into variable to parse
     soup_score = BeautifulSoup(response_score.text, 'html.parser')
+    
     # create temporary lists for user scores
     userP = []
     userM = []
@@ -95,8 +96,7 @@ def metaScrape(url_for_scrape, page_num):
             writer = csv.writer(csvfile)
             for d in data:
                 writer.writerow(d)
-    return print(page_num)
-
+    return 
 def metaScorePages():    
     # find number of pages for albums 2020
     

@@ -50,9 +50,9 @@ def get_week_num():
     this_week = week_num
     return this_week
 
-def get_track_features():
+def get_track_features(track_uris):
     playlist_token = refresh_accesss_token()
-#     track_ids = [track[14:] for track in search_for_albums(csv_path)]
+    track_ids = [track[14:] for track in track_uris]
     track_limit = 100 
     # using list comprehension 
     batched_tracks = [track_ids[i * track_limit:(i + 1) * track_limit] for i in range((len(track_ids) + track_limit - 1) // track_limit)]  
@@ -60,6 +60,7 @@ def get_track_features():
 #     =7ouMYWpwJ422jRcDASZB7P%2C4VqPOruhp5EdPBeR92t6lQ%2C2takcwOaAZWiXQijPHIx7B'
     for batch in batched_tracks:
         request_data =  "%2C".join(batch)
+        
         url = f'https://api.spotify.com/v1/audio-features?ids={request_data}'
         response = requests.get(
             url,
@@ -68,12 +69,12 @@ def get_track_features():
             'Content-Type': 'application/json',
             'Authorization': f'Bearer {playlist_token}'
             })
-        print(response.url)
+        # print(response.url)
         b = response.json()
-        print(b["audio_features"])
+        return print(b)
 
 def get_album_tracks(album_ids):
-    track_ids = []
+    track_uris = []
 #     request_data = json.dumps(uris)
     for album_id in album_ids:
         query = f'https://api.spotify.com/v1/albums/{album_id}/tracks'
@@ -84,11 +85,12 @@ def get_album_tracks(album_ids):
                 'Authorization': f'Bearer {playlist_token}'
             })
         response_json = response.json()
-#         print(response_json)
+        # print(response_json)
         tracks = response_json['items']
         for track in tracks:
-            track_ids.append(track['uri'])
-    return track_ids
+            track_uris.append(track['uri'])
+    get_track_features(track_uris)
+    return track_uris
 
 def search_for_albums(csv_path):
     artists=[]
@@ -113,7 +115,7 @@ def search_for_albums(csv_path):
 #   initialize spotify client
     spotify = SpotifyAPI(client_id, client_secret)
     for al, ar in zip(albums, artists):
-        print(al)
+        # print(al)
 #   search for album ids 
         temp = spotify.search({"album":al, "artist":ar}, search_type="album")
         try:
@@ -126,10 +128,10 @@ def search_for_albums(csv_path):
     return(get_album_tracks(album_ids))
 
 def add_tracks_to_playlist(playlist_id):
-    track_ids = [track for track in search_for_albums(csv_path)]
+    track_uris = [track for track in search_for_albums(csv_path)]
     track_limit = 100 
     # using list comprehension 
-    batched_tracks = [track_ids[i * track_limit:(i + 1) * track_limit] for i in range((len(track_ids) + track_limit - 1) // track_limit)]  
+    batched_tracks = [track_uris[i * track_limit:(i + 1) * track_limit] for i in range((len(track_uris) + track_limit - 1) // track_limit)]  
     url = f'https://api.spotify.com/v1/playlists/{playlist_id}/tracks'
 
     for batch in batched_tracks:
