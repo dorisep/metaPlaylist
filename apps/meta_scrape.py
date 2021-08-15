@@ -13,7 +13,6 @@ import playlist_app
 
 def metaScrape(url_for_scrape, page_num):
 
-
     user_agent = {'User-agent': 'Mozilla/5.0'}
     # send response
     response_score = requests.get(url_for_scrape, headers = user_agent)
@@ -98,7 +97,7 @@ def metaScrape(url_for_scrape, page_num):
                 writer.writerow(d)
     return 
 def metaScorePages():    
-    # find number of pages for albums 2020
+   
     
     url_pages = f'https://www.metacritic.com/browse/albums/release-date/new-releases/date'
     # set user agent for header
