@@ -1,47 +1,26 @@
 # metaPlaylist
- A webscrapping app to build playlists of albums in the metacritic DB
 
--historical scrape of previous years going back to 2000- check
+## **A webscrapping app to build Spotify playlists using data from metacritic.**
 
--need to update the scrape for early part of the year only 1 page till a hundred albums released - check
+### Technologies:
+* Beautiful Soup - webscraping library for python
+* Spotify API - 
+* Google API
+* SQLite
+* Flask
+* pandas
+* twilio
+* TK
 
--write out csv with week num during scrape - check
 
--merge script for historical csv - check
-    -Pandas?-sticking with straight python ATM
-    -parsing out weekly list after scrape: righ now parsing in playlist app
-    -append album_ids to csv file  - what to do with albums_not_found - used date and album name?
-    
--spotify client - credit video guy
+I started this project to help me out with discovering new music and to further explore what I have learned about Python and JS.
 
--Try catch update for metaScrape? -- check
+Every Friday the website Metacritic-a site the aggregates entertainment critiques-updates it site with new releases. This repo scrapes the album information and then the aggergate scores for both critics and users. The data is then used to create a playlist in my Spotify account for that week.
 
--Spotify playlist creating app needs update to automate auth key for playlist creation - check - function added to 
-    -Auth works, need to set up to use ApotifyApi class(super()) - polish
-    -neew 
+I have been maintianing the data in csv files
 
--append album_ids to csv file  - what to do with albums_not_found - used date and album name - regex?
--Wikki?
--Bandcamp?
--created button 
-    -created flask app that runs metacritic scrape and spotify playlist apps.
 
-    -send email with stats
-    -weekly files
 
--Sql/MongoDB?
-    -have function for audio features, I had to go back to add_tracks function. I know believe it can be split into three functions. the first returns the json search object for albums. the second two parse out the required id for features and the required uri for playlist tracks. - Just need to refactor code.- created a parser for features in playlist test notebook
 
-    -getting null values back - need to test early scrapes 
-    
--HTML?
-    -table
-    -filter
-    -form
-    -map
--JS?
-    -data
-    -sliders
 
-=need to change playlist token back to variable.
 

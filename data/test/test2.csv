@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 artist,album,date,week_num,meta_score,user_score
 Moor Mother,Black Encyclopedia of the Air,"September 17, 2021",37,83,0
 Lindsey Buckingham,Lindsey Buckingham,"September 17, 2021",37,78,0
@@ -199,3 +200,204 @@ Los Lobos,Native Sons,"July 30, 2021",30,80,0
 Torres,Thirstier,"July 30, 2021",30,81,84
 LUMP,Animal,"July 30, 2021",30,82,81
 Bleachers,Take the Sadness Out of Saturday Night,"July 30, 2021",30,71,85
+=======
+artist,album,date,week_num,meta_score,user_score
+Wavves,Hideaway,"July 16, 2021",28,72,0
+Willow,Lately I Feel Everything,"July 16, 2021",28,79,0
+John Mayer,Sob Rock,"July 16, 2021",28,80,84
+Half Waif,Mythopoetics,"July 9, 2021",27,85,0
+Vince Staples,Vince Staples,"July 9, 2021",27,71,77
+The Goon Sax,Mirror II,"July 9, 2021",27,70,0
+Inhaler,It Won't Always Be like This,"July 9, 2021",27,84,90
+The Flatlanders,Treasure of Love,"July 9, 2021",27,79,0
+Charlotte Day Wilson,ALPHA,"July 9, 2021",27,75,0
+The Wallflowers,Exit Wounds,"July 9, 2021",27,72,0
+Rejjie Snow,Baw Baw Black Sheep,"July 9, 2021",27,81,0
+Bobby Gillespie,Utopian Ashes,"July 2, 2021",26,89,0
+Laura Mvula,Pink Noise,"July 2, 2021",26,71,83
+The Go! Team,"Get Up Sequences, Pt. 1","July 2, 2021",26,78,0
+At the Gates,The Nightmare of Being,"July 2, 2021",26,79,0
+Snapped Ankles,Forest of Your Problems,"July 2, 2021",26,85,0
+Lucy Dacus,Home Video,"June 25, 2021",25,83,87
+John Grant,Boy from Michigan,"June 25, 2021",25,78,82
+Modest Mouse,The Golden Casket,"June 25, 2021",25,80,80
+Rose City Band,Earth Trip,"June 25, 2021",25,84,0
+Cedric Burnside,I Be Trying,"June 25, 2021",25,80,0
+Hiss Golden Messenger,Quietly Blowing It,"June 25, 2021",25,77,0
+Squirrel Flower,Planet (i),"June 25, 2021",25,77,0
+Doja Cat,Planet Her,"June 25, 2021",25,82,85
+Faye Webster,I Know I'm Funny Haha,"June 25, 2021",25,80,81
+The Mountain Goats,Dark in Here,"June 25, 2021",25,79,0
+Spellling,The Turning Wheel,"June 25, 2021",25,89,89
+"Tyler, The Creator",Call Me If You Get Lost,"June 25, 2021",25,83,89
+Lightning Bug,A Color of the Sky,"June 25, 2021",25,62,0
+Matthew Dear,Preacher's Sigh & Potion: Lost Album,"June 25, 2021",25,84,0
+Hiatus Kaiyote,Mood Valiant,"June 25, 2021",25,77,77
+Gaspard Augé,Escapades,"June 25, 2021",25,87,0
+LoneLady,Former Things,"June 25, 2021",25,82,0
+Pom Pom Squad,Death of a Cheerleader,"June 25, 2021",25,87,0
+L'Rain,Fatigue,"June 25, 2021",25,84,0
+Kevin Richard Martin,Return to Solaris,"June 25, 2021",25,81,0
+Birds of Maya,Valdez,"June 25, 2021",25,87,0
+Sault,Nine,"June 25, 2021",25,72,0
+Daniel Avery,Together in Static,"June 24, 2021",25,76,0
+Kings of Convenience,Peace or Love,"June 18, 2021",24,63,86
+Max Bloom,Pedestrian,"June 18, 2021",24,83,0
+Francis Lung,Miracle,"June 18, 2021",24,78,0
+Mykki Blanco,Broken Hearts and Beauty Sleep,"June 18, 2021",24,75,0
+H.E.R.,Back Of My Mind,"June 18, 2021",24,83,80
+Angélique Kidjo,Mother Nature,"June 18, 2021",24,80,0
+Joan Armatrading,Consequences,"June 18, 2021",24,81,0
+Fear Factory,Aggression Continuum,"June 18, 2021",24,77,0
+Garbage,No Gods No Masters,"June 11, 2021",23,78,84
+Sleater-Kinney,Path of Wellness,"June 11, 2021",23,81,63
+King Gizzard & the Lizard Wizard,Butterfly 3000,"June 11, 2021",23,67,84
+AFI,Bodies,"June 11, 2021",23,61,68
+Danny Elfman,Big Mess,"June 11, 2021",23,79,76
+Mammoth WVH,Mammoth WVH,"June 11, 2021",23,79,80
+MARINA,Ancient Dreams in a Modern Land,"June 11, 2021",23,48,95
+Maroon 5,Jordi,"June 11, 2021",23,79,42
+Chloe Foy,Where Shall We Begin,"June 11, 2021",23,92,0
+Black Sabbath,Sabotage [Super Deluxe Edition] [Box Set],"June 11, 2021",23,82,0
+Lukas Nelson & Promise of the Real,A Few Stars Apart,"June 11, 2021",23,75,0
+Migos,Culture III,"June 11, 2021",23,70,61
+Islands,Islomania,"June 11, 2021",23,85,0
+Dean Blunt,Black Metal 2,"June 11, 2021",23,93,0
+Griff,One Foot in Front of the Other [Mixtape],"June 11, 2021",23,76,82
+Rostam,Changephobia,"June 4, 2021",22,88,0
+Japanese Breakfast,Jubilee,"June 4, 2021",22,91,90
+Wolf Alice,Blue Weekend,"June 4, 2021",22,76,92
+Liz Phair,Soberish,"June 4, 2021",22,86,79
+Loraine James,Reflection,"June 4, 2021",22,75,0
+James,All the Colours of You,"June 4, 2021",22,76,0
+Crowded House,Dreamers Are Waiting,"June 4, 2021",22,80,75
+Billy Gibbons,Hardware,"June 4, 2021",22,72,0
+Red Fang,Arrows,"June 4, 2021",22,77,0
+Greentea Peng,Man Made,"June 4, 2021",22,78,0
+Various Artists,The Problem of Leisure: A Celebration of Andy Gill and Gang of Four,"June 4, 2021",22,74,0
+Rise Against,Nowhere Generation,"June 4, 2021",22,72,80
+Cleopatrick,Bummer,"June 4, 2021",22,70,67
+Marina Allen,Candlepower,"June 4, 2021",22,84,0
+Night Beats,Outlaw R&B,"June 4, 2021",22,51,0
+Atreyu,Baptize,"June 4, 2021",22,89,0
+Tomorrow X Together,The Chaos Chapter: Freeze,"June 4, 2021",22,67,94
+Lil Baby,The Voice of the Heroes,"May 31, 2021",22,80,0
+Black Midi,Cavalcade,"May 28, 2021",21,70,86
+Blackberry Smoke,You Hear Georgia,"May 28, 2021",21,82,0
+Bachelor,Doomin' Sun,"May 28, 2021",21,78,0
+Lou Barlow,Reason to Live,"May 28, 2021",21,82,0
+Del Amitri,Fatal Mistakes,"May 28, 2021",21,71,0
+DMX,Exodus 1:7,"May 28, 2021",21,69,70
+Kele,The Waves Pt. 1,"May 28, 2021",21,76,0
+Moby,Reprise,"May 28, 2021",21,79,95
+David Bowie,The Width of a Circle,"May 28, 2021",21,85,0
+Loscil,Clara,"May 28, 2021",21,84,0
+Easy Life,Life's a Beach,"May 28, 2021",21,79,0
+Mustafa,When Smoke Rises,"May 28, 2021",21,81,0
+Penelope Trappes,Penelope Three,"May 28, 2021",21,66,0
+Wyldest,Monthly Friend,"May 28, 2021",21,90,0
+Can,Live in Stuttgart 1975,"May 28, 2021",21,86,0
+Mdou Moctar,Afrique Victime,"May 21, 2021",20,80,79
+CHAI,Wink,"May 21, 2021",20,81,84
+Robert Finley,Sharecropper's Son,"May 21, 2021",20,85,0
+Gruff Rhys,Seeking New Gods,"May 21, 2021",20,84,0
+Wavves,Hideaway,"July 16, 2021",28,72,0
+Willow,Lately I Feel Everything,"July 16, 2021",28,79,0
+John Mayer,Sob Rock,"July 16, 2021",28,80,84
+Half Waif,Mythopoetics,"July 9, 2021",27,85,0
+Vince Staples,Vince Staples,"July 9, 2021",27,71,77
+The Goon Sax,Mirror II,"July 9, 2021",27,70,0
+Inhaler,It Won't Always Be like This,"July 9, 2021",27,84,90
+The Flatlanders,Treasure of Love,"July 9, 2021",27,79,0
+Charlotte Day Wilson,ALPHA,"July 9, 2021",27,75,0
+The Wallflowers,Exit Wounds,"July 9, 2021",27,72,0
+Rejjie Snow,Baw Baw Black Sheep,"July 9, 2021",27,81,0
+Bobby Gillespie,Utopian Ashes,"July 2, 2021",26,89,0
+Laura Mvula,Pink Noise,"July 2, 2021",26,71,83
+The Go! Team,"Get Up Sequences, Pt. 1","July 2, 2021",26,78,0
+At the Gates,The Nightmare of Being,"July 2, 2021",26,79,0
+Snapped Ankles,Forest of Your Problems,"July 2, 2021",26,85,0
+Lucy Dacus,Home Video,"June 25, 2021",25,83,87
+John Grant,Boy from Michigan,"June 25, 2021",25,78,82
+Modest Mouse,The Golden Casket,"June 25, 2021",25,80,80
+Rose City Band,Earth Trip,"June 25, 2021",25,84,0
+Cedric Burnside,I Be Trying,"June 25, 2021",25,80,0
+Hiss Golden Messenger,Quietly Blowing It,"June 25, 2021",25,77,0
+Squirrel Flower,Planet (i),"June 25, 2021",25,77,0
+Doja Cat,Planet Her,"June 25, 2021",25,82,85
+Faye Webster,I Know I'm Funny Haha,"June 25, 2021",25,80,81
+The Mountain Goats,Dark in Here,"June 25, 2021",25,79,0
+Spellling,The Turning Wheel,"June 25, 2021",25,89,89
+"Tyler, The Creator",Call Me If You Get Lost,"June 25, 2021",25,83,89
+Lightning Bug,A Color of the Sky,"June 25, 2021",25,62,0
+Matthew Dear,Preacher's Sigh & Potion: Lost Album,"June 25, 2021",25,84,0
+Hiatus Kaiyote,Mood Valiant,"June 25, 2021",25,77,77
+Gaspard Augé,Escapades,"June 25, 2021",25,87,0
+LoneLady,Former Things,"June 25, 2021",25,82,0
+Pom Pom Squad,Death of a Cheerleader,"June 25, 2021",25,87,0
+L'Rain,Fatigue,"June 25, 2021",25,84,0
+Kevin Richard Martin,Return to Solaris,"June 25, 2021",25,81,0
+Birds of Maya,Valdez,"June 25, 2021",25,87,0
+Sault,Nine,"June 25, 2021",25,72,0
+Daniel Avery,Together in Static,"June 24, 2021",25,76,0
+Kings of Convenience,Peace or Love,"June 18, 2021",24,63,86
+Max Bloom,Pedestrian,"June 18, 2021",24,83,0
+Francis Lung,Miracle,"June 18, 2021",24,78,0
+Mykki Blanco,Broken Hearts and Beauty Sleep,"June 18, 2021",24,75,0
+H.E.R.,Back Of My Mind,"June 18, 2021",24,83,80
+Angélique Kidjo,Mother Nature,"June 18, 2021",24,80,0
+Joan Armatrading,Consequences,"June 18, 2021",24,81,0
+Fear Factory,Aggression Continuum,"June 18, 2021",24,77,0
+Garbage,No Gods No Masters,"June 11, 2021",23,78,84
+Sleater-Kinney,Path of Wellness,"June 11, 2021",23,81,63
+King Gizzard & the Lizard Wizard,Butterfly 3000,"June 11, 2021",23,67,84
+AFI,Bodies,"June 11, 2021",23,61,68
+Danny Elfman,Big Mess,"June 11, 2021",23,79,76
+Mammoth WVH,Mammoth WVH,"June 11, 2021",23,79,80
+MARINA,Ancient Dreams in a Modern Land,"June 11, 2021",23,48,95
+Maroon 5,Jordi,"June 11, 2021",23,79,42
+Chloe Foy,Where Shall We Begin,"June 11, 2021",23,92,0
+Black Sabbath,Sabotage [Super Deluxe Edition] [Box Set],"June 11, 2021",23,82,0
+Lukas Nelson & Promise of the Real,A Few Stars Apart,"June 11, 2021",23,75,0
+Migos,Culture III,"June 11, 2021",23,70,61
+Islands,Islomania,"June 11, 2021",23,85,0
+Dean Blunt,Black Metal 2,"June 11, 2021",23,93,0
+Griff,One Foot in Front of the Other [Mixtape],"June 11, 2021",23,76,82
+Rostam,Changephobia,"June 4, 2021",22,88,0
+Japanese Breakfast,Jubilee,"June 4, 2021",22,91,90
+Wolf Alice,Blue Weekend,"June 4, 2021",22,76,92
+Liz Phair,Soberish,"June 4, 2021",22,86,79
+Loraine James,Reflection,"June 4, 2021",22,75,0
+James,All the Colours of You,"June 4, 2021",22,76,0
+Crowded House,Dreamers Are Waiting,"June 4, 2021",22,80,75
+Billy Gibbons,Hardware,"June 4, 2021",22,72,0
+Red Fang,Arrows,"June 4, 2021",22,77,0
+Greentea Peng,Man Made,"June 4, 2021",22,78,0
+Various Artists,The Problem of Leisure: A Celebration of Andy Gill and Gang of Four,"June 4, 2021",22,74,0
+Rise Against,Nowhere Generation,"June 4, 2021",22,72,80
+Cleopatrick,Bummer,"June 4, 2021",22,70,67
+Marina Allen,Candlepower,"June 4, 2021",22,84,0
+Night Beats,Outlaw R&B,"June 4, 2021",22,51,0
+Atreyu,Baptize,"June 4, 2021",22,89,0
+Tomorrow X Together,The Chaos Chapter: Freeze,"June 4, 2021",22,67,94
+Lil Baby,The Voice of the Heroes,"May 31, 2021",22,80,0
+Black Midi,Cavalcade,"May 28, 2021",21,70,86
+Blackberry Smoke,You Hear Georgia,"May 28, 2021",21,82,0
+Bachelor,Doomin' Sun,"May 28, 2021",21,78,0
+Lou Barlow,Reason to Live,"May 28, 2021",21,82,0
+Del Amitri,Fatal Mistakes,"May 28, 2021",21,71,0
+DMX,Exodus 1:7,"May 28, 2021",21,69,70
+Kele,The Waves Pt. 1,"May 28, 2021",21,76,0
+Moby,Reprise,"May 28, 2021",21,79,95
+David Bowie,The Width of a Circle,"May 28, 2021",21,85,0
+Loscil,Clara,"May 28, 2021",21,84,0
+Easy Life,Life's a Beach,"May 28, 2021",21,79,0
+Mustafa,When Smoke Rises,"May 28, 2021",21,81,0
+Penelope Trappes,Penelope Three,"May 28, 2021",21,66,0
+Wyldest,Monthly Friend,"May 28, 2021",21,90,0
+Can,Live in Stuttgart 1975,"May 28, 2021",21,86,0
+Mdou Moctar,Afrique Victime,"May 21, 2021",20,80,79
+CHAI,Wink,"May 21, 2021",20,81,84
+Robert Finley,Sharecropper's Son,"May 21, 2021",20,85,0
+Gruff Rhys,Seeking New Gods,"May 21, 2021",20,84,0
+>>>>>>> parent of 86150fd (most recent scrape)
