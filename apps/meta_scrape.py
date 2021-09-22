@@ -26,7 +26,7 @@ def metaScrape(url_for_scrape, page_num):
     # create/initialize dictionary 
     albums_dict = {'artist':[], 'album':[], 'date':[], 'week_num':[], 'meta_score': [], 'user_score':[]}
     # csv variables
-    output_path = os.path.join('..', 'data', 'test','test2.csv')
+    output_path = os.path.join('..', 'data', 'meta_scrape.csv')
     soup_score.find_all('td', class_='clamp-summary-wrap')
     # create soup 
     for artist in soup_score.find_all('td', class_='clamp-summary-wrap'):
@@ -96,7 +96,8 @@ def metaScrape(url_for_scrape, page_num):
             for d in data:
                 writer.writerow(d)
     return 
-def metaScorePages():    
+
+def metaScorePages(week_num):    
    
     
     url_pages = f'https://www.metacritic.com/browse/albums/release-date/new-releases/date'
@@ -110,14 +111,15 @@ def metaScorePages():
     if soup_pages.find('li', class_='page last_page') is None:
             url_for_scrape = 'https://www.metacritic.com/browse/albums/score/metascore/year/filtered'
             page_num = False
-            metaScrape(url_for_scrape, page_num)
+            metaScrape(week_num, url_for_scrape, page_num)
     else:
         pages = int(soup_pages.find('li', class_='page last_page').text)
         
         for page_num in range(pages):
             url_for_scrape = f'{url_pages}&page={page_num}'
-            metaScrape(url_for_scrape, page_num)
-    playlist_app.create_playlist()
+            metaScrape(url_pages, page_num)
+
+    return playlist_app.create_playlist(week_num)
 
 
 

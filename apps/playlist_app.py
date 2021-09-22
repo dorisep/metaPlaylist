@@ -3,7 +3,7 @@ import os
 import base64
 import csv
 import json
-from datetime import datetime, date
+from datetime import datetime
 from spotify_client import *
 from credentials.config import *
 
@@ -21,16 +21,9 @@ def refresh_accesss_token():
     refresh_url =  'https://accounts.spotify.com/api/token'
     refresh_params = {
         'grant_type': 'refresh_token',
-        'refresh_token': f'{refresh_token}'
-        
+        'refresh_token': f'{refresh_token}'    
     }
-
-    refresh_data = urlencode(refresh_params)
-
-
-
     r_token = requests.post(refresh_url, data=refresh_params, headers=refresh_token_header)
-
     refresh_response = r_token.json()
 
     access_token = refresh_response['access_token']
@@ -38,12 +31,13 @@ def refresh_accesss_token():
     return access_token
 
 
-
-
-
-
 playlist_token = refresh_accesss_token()
-csv_path = os.path.join('..', 'data', 'test', 'test2.csv')
+csv_path = os.path.join('..', 'data', 'meta_scrape.csv')
+###
+# imported into tkinter as a default entry in for the scrape button
+# left here in case the using the scrape without the gui
+# replace all cases of week_num with get_week_num
+###
 def get_week_num():
     my_date = datetime.date.today() 
     year, week_num, day_of_week = my_date.isocalendar()
@@ -92,7 +86,7 @@ def get_album_tracks(album_ids):
     get_track_features(track_uris)
     return track_uris
 
-def search_for_albums(csv_path):
+def search_for_albums(week_num, csv_path):
     artists=[]
     albums=[]
     meta_score=[]
@@ -107,7 +101,7 @@ def search_for_albums(csv_path):
         reader = csv.DictReader(csvfile)
         for row in reader:
 #         filter for artists and albums from current week
-            if int(row['week_num'])==get_week_num():
+            if int(row['week_num'])== week_num:
                 artists.append(row['artist'])
                 albums.append(row['album'])
                 meta_score.append(row['meta_score'])
@@ -127,8 +121,8 @@ def search_for_albums(csv_path):
         album_ids.add(parse_album_ids)
     return(get_album_tracks(album_ids))
 
-def add_tracks_to_playlist(playlist_id):
-    track_uris = [track for track in search_for_albums(csv_path)]
+def add_tracks_to_playlist(week_num, playlist_id):
+    track_uris = [track for track in search_for_albums(week_num, csv_path)]
     track_limit = 100 
     # using list comprehension 
     batched_tracks = [track_uris[i * track_limit:(i + 1) * track_limit] for i in range((len(track_uris) + track_limit - 1) // track_limit)]  
@@ -147,8 +141,9 @@ def add_tracks_to_playlist(playlist_id):
             })
     return
 
-def create_playlist():
-    week_num = get_week_num()
+def create_playlist(week_num):
+    print(week_num)
+    # week_num = get_week_num()
     request_body = json.dumps({
         'name': f'2021-week {week_num} scrape',
         'description': f'metacritic rated albums for the {week_num}th of the year',
@@ -169,6 +164,4 @@ def create_playlist():
 #     print(response_json)
     playlist_id = (response_json['id'])
 
-    return add_tracks_to_playlist(playlist_id)
-
-
+    return add_tracks_to_playlist(week_num, playlist_id)

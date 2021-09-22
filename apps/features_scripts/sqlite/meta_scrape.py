@@ -1,14 +1,71 @@
 #Dependencies
-import json
+import sqlite3
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
+import sys
 import os
 import csv
 from datetime import datetime
 import playlist_app
 
+###
+# returns handle for accessing db as a file or in memory
+###
+def createDBConnection(db_file):
+	try:
+		dbConnection = sqlite3.connect(db_file)
+		return dbConnection
+	except sqlite3.Error as e:
+		print(e)
+	except Exception as e:
+		print(e)
+	return None
+###
+#creates a new database or loads existing database
+###
+def initializeDatabase(db_file='meta_db'):
 
+	dbConnection = createDBConnection(db_file)
+	
+	if dbConnection is None:
+		sys.exit('Failed to create dbConnection.')
+	else:
+		dbCursor = dbConnection.cursor()
+		
+	sqlSTMT = """
+	CREATE TABLE IF NOT EXISTS a (
+		id text PRIMARY KEY,
+		artist  text NOT NULL,
+		album text NOT NULL,
+		date text NOT NULL,
+		week_num integer NOT NULL,
+		meta_score integer NOT NULL,
+		user_score integer NOT NULL );
+	"""
+	
+	try:
+		dbCursor.execute(sqlSTMT)
+	except sqlite3.Error as e:
+		sys.exit(f'Database Error: {e} on {sqlSTMT}')
+	except Exception as e:
+		sys.exit(f'Database Exception: {e} on {sqlSTMT}')
+	
+	return dbConnection
+
+
+def meta_DB_entry(dbCursor, csv_file, sqlSTMT):
+	with open(csv_file, mode='r') as file:
+		csv_reader = csv.reader(file, delimiter=',')
+		
+		for row in csv_reader:
+			try:
+				dbCursor.execute(sqlSTMT, row)
+			except sqlite3.Error as e:
+				print(f'Database error: {e} on {row}')
+				continue
+			except Exception as e:
+				print(f'Exception in _query: {e} on {row}')
+				continue
 
 
 def metaScrape(url_for_scrape, page_num):
@@ -96,7 +153,8 @@ def metaScrape(url_for_scrape, page_num):
             for d in data:
                 writer.writerow(d)
     return 
-def metaScorePages():    
+
+def metaScorePages(week_num):    
    
     
     url_pages = f'https://www.metacritic.com/browse/albums/release-date/new-releases/date'
@@ -117,7 +175,9 @@ def metaScorePages():
         for page_num in range(pages):
             url_for_scrape = f'{url_pages}&page={page_num}'
             metaScrape(url_for_scrape, page_num)
-    playlist_app.create_playlist()
+    
+    return playlist_app.create_playlist(week_num)
+
 
 
 
