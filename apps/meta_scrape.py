@@ -1,4 +1,3 @@
-#Dependencies
 import json
 import requests
 from bs4 import BeautifulSoup
@@ -120,8 +119,3 @@ def metaScorePages(week_num):
             metaScrape(url_pages, page_num)
 
     return playlist_app.create_playlist(week_num)
-
-
-
-
-

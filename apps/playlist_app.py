@@ -132,7 +132,7 @@ def add_tracks_to_playlist(week_num, playlist_id):
 
         request_data = json.dumps(batch)
 
-        response = requests.post(
+        requests.post(
             url,
             data=request_data,
             headers = {
