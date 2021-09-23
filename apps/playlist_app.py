@@ -36,8 +36,8 @@ playlist_token = refresh_accesss_token()
 csv_path = os.path.join('..', 'data', 'meta_scrape.csv')
 ###
 # imported into tkinter as a default entry in for the scrape button
-# left here in case the using the scrape without the gui
-# replace all cases of week_num with get_week_num
+# left here in case using the scrape without the gui
+# replace all cases of week_num with this funciton variable: get_week_num()
 ###
 def get_week_num():
     my_date = datetime.date.today() 
@@ -110,7 +110,7 @@ def search_for_albums(week_num, csv_path):
 #   initialize spotify client
     spotify = SpotifyAPI(client_id, client_secret)
     for al, ar in zip(albums, artists):
-#       trim album names
+#       trim album names of suffixes (e.g. .vol 1, [ep] etc.)
         al_trim = re.split(',|\[', al)
 #       search for album ids 
         temp = spotify.search({"album":al_trim[0]}, search_type="album")
