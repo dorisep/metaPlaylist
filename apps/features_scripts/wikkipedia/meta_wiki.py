@@ -1,3 +1,8 @@
+import wikipedia
+import csv
+import os
+
+
 csv_path = os.path.join('..', 'data', 'test', 'test2.csv')
 search = []
 artist_search_results_dict = {}
