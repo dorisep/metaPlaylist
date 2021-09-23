@@ -3,6 +3,7 @@ import os
 import base64
 import csv
 import json
+import re
 from datetime import datetime
 from spotify_client import *
 from credentials.config import *
@@ -109,9 +110,10 @@ def search_for_albums(week_num, csv_path):
 #   initialize spotify client
     spotify = SpotifyAPI(client_id, client_secret)
     for al, ar in zip(albums, artists):
-        # print(al)
-#   search for album ids 
-        temp = spotify.search({"album":al, "artist":ar}, search_type="album")
+#       trim album names
+        al_trim = re.split(',|\[', al)
+#       search for album ids 
+        temp = spotify.search({"album":al_trim[0]}, search_type="album")
         try:
             parse_album_ids = (temp["albums"]["items"][0]["id"])
 #   create dicitonary for albums not found
