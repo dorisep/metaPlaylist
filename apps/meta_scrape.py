@@ -96,9 +96,7 @@ def metaScrape(url_for_scrape, page_num):
                 writer.writerow(d)
     return 
 
-def metaScorePages(week_num):    
-   
-    
+def metaScorePages(week_num):  
     url_pages = f'https://www.metacritic.com/browse/albums/release-date/new-releases/date'
     # set user agent for header
     user_agent = {'User-agent': 'Mozilla/5.0'}
