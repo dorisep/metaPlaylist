@@ -5,7 +5,7 @@ import pandas as pd
 import os
 import csv
 from datetime import datetime
-import playlist_app
+# import playlist_app
 
 
 
@@ -25,7 +25,7 @@ def metaScrape(url_for_scrape, page_num):
     # create/initialize dictionary 
     albums_dict = {'artist':[], 'album':[], 'date':[], 'week_num':[], 'meta_score': [], 'user_score':[]}
     # csv variables
-    output_path = os.path.join('..', 'data', 'meta_scrape.csv')
+    output_path = os.path.join('hist_test.csv')
     soup_score.find_all('td', class_='clamp-summary-wrap')
     # create soup 
     for artist in soup_score.find_all('td', class_='clamp-summary-wrap'):
