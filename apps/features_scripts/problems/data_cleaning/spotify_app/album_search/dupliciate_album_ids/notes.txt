@@ -1,7 +1,0 @@
-Duplicate album ids being generated in Spotify album search. 
-
-Multiple being albums receive the same ids
-
-Some of these albums return a 401/token error
-
-Started looking into work around using artist search and finding albums there.
