@@ -21,6 +21,7 @@ week_num = IntVar(window, value = get_week_num())
 def scrape():
     metaScorePages(week_num.get())
 # set plotting function
+
 def plot():
     datalst = [31, 41, 59, 26, 53, 58, 97, 96, 36]
     ff = Figure(figsize=(6,6), dpi=100)
@@ -35,7 +36,7 @@ scraper = tk.Button(window,text='Run Scrape for week number:',command=scrape, he
 scraper.place(x=12, y=20)
 # create field for week num variable
 week_field = Entry(window, textvariable=week_num, width=2)
-week_field.place(x=200, y=22)
+week_field.place(x=270, y=22)
 # create button for plot
 plotter = tk.Button(window,text='plot',command=plot, height=1,width=25,state='normal')
 plotter.place(x=12, y=45)

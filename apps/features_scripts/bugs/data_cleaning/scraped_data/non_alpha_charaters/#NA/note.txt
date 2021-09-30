@@ -1,0 +1,1 @@
+the album name returns and empty string, can't search
