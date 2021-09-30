@@ -13,3 +13,7 @@ apps/credentials/config.py
 apps/credentials/credentials.json
 apps/credentials/token-1.json
 apps/credentials/token.json
+data/historical_data/credentials/token.json
+data/historical_data/credentials/token-1.json
+data/historical_data/credentials/credentials.json
+data/historical_data/credentials/config.py
