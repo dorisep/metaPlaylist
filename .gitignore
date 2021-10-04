@@ -17,3 +17,9 @@ data/historical_data/credentials/token.json
 data/historical_data/credentials/token-1.json
 data/historical_data/credentials/credentials.json
 data/historical_data/credentials/config.py
+apps/features_scripts/problems/data_cleaning/.DS_Store
+apps/features_scripts/problems/.DS_Store
+apps/features_scripts/problems/data_cleaning/.DS_Store
+apps/features_scripts/problems/data_cleaning/scraped_data/.DS_Store
+apps/features_scripts/problems/data_cleaning/scraped_data/non_alpha_charaters/#N:A/note.txt
+apps/features_scripts/problems/data_cleaning/scraped_data/non_alpha_charaters/#N:A/Screenshot 2021-09-27 144900.png
