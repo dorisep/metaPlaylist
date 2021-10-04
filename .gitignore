@@ -19,3 +19,10 @@ data/historical_data/credentials/config.py
 data/historical_data/credentials/token.json
 data/historical_data/credentials/__pycache__/config.cpython-38.pyc
 data/historical_data/credentials/__pycache__/config.cpython-39.pyc
+apps/problems/.DS_Store
+apps/problems/data_cleaning/.DS_Store
+apps/problems/data_cleaning/scraped_data/.DS_Store
+apps/problems/data_cleaning/scraped_data/non_alpha_charaters/#N:A/.DS_Store
+apps/problems/data_cleaning/scraped_data/non_alpha_charaters/.DS_Store
+apps/problems/data_cleaning/spotify_app/.DS_Store
+apps/problems/data_cleaning/spotify_app/album_search/.DS_Store
