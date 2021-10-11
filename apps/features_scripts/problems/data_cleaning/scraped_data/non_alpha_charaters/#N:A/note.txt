@@ -1,1 +1,0 @@
-Album scrape returns an empty screen for album with non alpha character
