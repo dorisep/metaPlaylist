@@ -6,7 +6,7 @@ from matplotlib.figure import Figure
 import tkinter as tk
 from meta_scrape import metaScorePages
 from playlist_app import get_week_num
-from meta_db import *
+# from meta_db import *
 
 matplotlib.use('TkAgg')
 #set instance of tk
