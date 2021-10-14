@@ -35,7 +35,7 @@ def refresh_accesss_token():
 playlist_token = refresh_accesss_token()
 csv_path = os.path.join('..', 'data', 'meta_scrape.csv')
 ###
-# imported into tkinter as a default entry in for the scrape button
+# imported get_week_num into tkinter as a default entry in for the scrape button
 # left here in case using the scrape without the gui
 # replace all cases of week_num with this funciton variable: get_week_num()
 ###
