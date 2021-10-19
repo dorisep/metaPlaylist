@@ -46,17 +46,19 @@ def dedup():
 def plot():
     meta_dict = data_list()
     datalst = meta_dict['datalst']
-    albumlst = meta_dict['albumlst']
-    fig = Figure(figsize=(6,6), dpi=100)
-    chart = fig.add_subplot(111)
+    albumlst = meta_dict['albumlst'] 
     ind = np.arange(len(datalst))
     chart.bar(ind, datalst, 0.8)
     chart.set_ylabel('meta_score')
     chart.set_xlabel('albums')
-    chart.set_xticklabels(albumlst, rotation=45)
-    canvas = FigureCanvasTkAgg(fig, master=window)
+    # chart.set_xticklabels(albumlst, rotation=45)
     canvas.draw()
     canvas.get_tk_widget().pack(side=tk.RIGHT)
+# created fig in tkinter
+fig = Figure(figsize=(6,6), dpi=100)
+chart = fig.add_subplot(111)
+canvas = FigureCanvasTkAgg(fig, master=window)
+
 # create button for scrape
 scraper = tk.Button(window,text='Run Scrape for week number:',command=scrape, height=1,width=25,state='normal')
 scraper.place(x=12, y=20)

@@ -66,7 +66,8 @@ def get_track_features(track_uris):
             })
         # print(response.url)
         b = response.json()
-        return print(b)
+        print(b)
+        return 
 
 def get_album_tracks(album_ids):
     track_uris = []
