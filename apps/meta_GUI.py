@@ -2,7 +2,7 @@ from os import initgroups
 from tkinter import *
 import csv
 import numpy as np
-from dedup_csv import *
+from more_itertools import unique_everseen
 import matplotlib
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
@@ -10,6 +10,7 @@ import tkinter as tk
 from tkinter import ttk
 from meta_scrape import metaScorePages
 from playlist_app import get_week_num
+from credentials.config import scrape_path, clean_path
 
 
 #set instance of tk
@@ -19,7 +20,8 @@ window.title('Create Playlist from meta_scrape')
 #set window size
 window.geometry('800x800')
 week_num = get_week_num()
-
+scrape_path = scrape_path
+clean_path = clean_path
 class MetaGUI:
 
     def __init__(self, master):
@@ -31,7 +33,7 @@ class MetaGUI:
         self.weekField = Entry(window, textvariable=week_num, width=2)
         self.weekField.place(x=270, y=22)
         # create_depuped_csv
-        self.cleanerButton = tk.Button(window,text='create deduped csv',command=self.dedup, height=1,width=25,state='normal')
+        self.cleanerButton = tk.Button(window,text=' dedup csv',command=self.dedup, height=1,width=25,state='normal')
         self.cleanerButton.place(x=12, y=45)
         # create button for plot and table
         self.plotterButton = tk.Button(window,text='plot',command=self.plot, height=1,width=25,state='normal')
@@ -60,6 +62,11 @@ class MetaGUI:
                     scrape_dict['albumlst'].append(row['album'])
                     scrape_dict['artistlst'].append(row['artist']) 
         return scrape_dict
+
+    def dedup(self, scrape_path, clean_path):
+        with open(scrape_path,'r') as f, open(clean_path,'w') as out_file:
+            out_file.writelines(unique_everseen(f))
+    
 
     def createTable(self):
        
