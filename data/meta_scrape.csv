@@ -1,44 +1,35 @@
 artist,album,date,week_num,meta_score,user_score
-<<<<<<< HEAD
 Pokey LaFarge,In the Blossom of Their Shade,"October 15, 2021",41,85,0
 Hayden Thorpe,Moondust for My Diamond,"October 15, 2021",41,77,0
 Coldplay,Music of the Spheres,"October 15, 2021",41,57,64
-<<<<<<< HEAD
 FINNEAS,Optimist,"October 15, 2021",41,71,89
 Remi Wolf,Juno,"October 15, 2021",41,91,88
 Frank Carter & the Rattlesnakes,Sticky,"October 15, 2021",41,78,0
 Pinkpantheress,to hell with it [Mixtape],"October 15, 2021",41,89,97
 Joy Crookes,Skin,"October 15, 2021",41,89,80
 The Beatles,Let It Be [2021 Mix] [Super Deluxe Edition] [Box Set],"October 15, 2021",41,94,93
-=======
 FINNEAS,Optimist,"October 15, 2021",41,74,87
 Remi Wolf,Juno,"October 15, 2021",41,92,81
 Pinkpantheress,to hell with it [Mixtape],"October 15, 2021",41,89,95
 Joy Crookes,Skin,"October 15, 2021",41,89,73
 The Beatles,Let It Be [2021 Mix] [Super Deluxe Edition] [Box Set],"October 15, 2021",41,93,88
->>>>>>> parent of a80605f (fixed chart in GUI to be dynamic)
 Tom Morello,The Atlas Underground Fire,"October 15, 2021",41,66,0
 Lilly Hiatt,Lately,"October 15, 2021",41,77,0
 Jason Isbell and the 400 Unit,Georgia Blue,"October 15, 2021",41,77,0
 BadBadNotGood,Talk Memory,"October 8, 2021",40,79,84
 Sam Fender,Seventeen Going Under,"October 8, 2021",40,81,90
-=======
 BadBadNotGood,Talk Memory,"October 8, 2021",40,79,0
 Sam Fender,Seventeen Going Under,"October 8, 2021",40,84,99
->>>>>>> parent of 56385f1 (added feature)
 Howlin Rain,The Dharma Wheel,"October 8, 2021",40,77,0
 James Blake,Friends That Break Your Heart,"October 8, 2021",40,80,86
 Lala Lala,I Want the Door to Open,"October 8, 2021",40,76,0
 Matt Maltese,Good Morning It's Now Tomorrow,"October 8, 2021",40,84,0
-<<<<<<< HEAD
 Porches,All Day Gentle Hold!,"October 8, 2021",40,81,0
 The World Is a Beautiful Place & I Am No Longer Afraid to Die,Illusory Walls,"October 8, 2021",40,84,0
 Shannon Lay,Geist,"October 8, 2021",40,84,0
 Don Toliver,Life Of A DON,"October 8, 2021",40,73,80
 Magdalena Bay,Mercurial World,"October 8, 2021",40,73,0
 Kevin Morby,Night at the Little Los Angeles,"October 8, 2021",40,75,0
-=======
->>>>>>> parent of 56385f1 (added feature)
 Ray BLK,Access Denied,"October 1, 2021",39,92,0
 The Body,Leaving None But Small Birds,"October 1, 2021",39,76,0
 The Specials,Protest Songs 1924-2012,"October 1, 2021",39,72,0
@@ -79,41 +70,29 @@ Employed to Serve,Conquering,"September 17, 2021",37,88,0
 Carcass,Torn Arteries,"September 17, 2021",37,85,0
 Mild High Club,Going Going Gone,"September 17, 2021",37,71,93
 Fucked Up,Year of the Horse,"September 17, 2021",37,83,0
-<<<<<<< HEAD
 RP Boo,Established!,"September 17, 2021",37,79,0
 Billy Idol,The Roadside [EP],"September 17, 2021",37,68,0
 Injury Reserve,By The Time I Get To Phoenix,"September 15, 2021",37,84,86
-<<<<<<< HEAD
 Kacey Musgraves,Star-Crossed,"September 10, 2021",36,78,80
-=======
 Injury Reserve,By The Time I Get To Phoenix,"September 15, 2021",37,84,88
 Kacey Musgraves,Star-Crossed,"September 10, 2021",36,78,81
->>>>>>> parent of 56385f1 (added feature)
-=======
 Kacey Musgraves,Star-Crossed,"September 10, 2021",36,78,81
->>>>>>> parent of a80605f (fixed chart in GUI to be dynamic)
 Low,Hey What,"September 10, 2021",36,84,88
 Amyl and the Sniffers,Comfort To Me,"September 10, 2021",36,85,90
 Common,"A Beautiful Revolution, Vol. 2","September 10, 2021",36,72,82
 Various Artists,The Metallica Blacklist,"September 10, 2021",36,66,55
-<<<<<<< HEAD
-<<<<<<< HEAD
 Sleigh Bells,Texis,"September 10, 2021",36,76,83
 Matthew E. White,K Bay,"September 10, 2021",36,80,0
 Park Hye Jin,Before I Die,"September 10, 2021",36,75,0
 Saint Etienne,I've Been Trying to Tell You,"September 10, 2021",36,83,95
-=======
 Sleigh Bells,Texis,"September 10, 2021",36,76,88
 Matthew E. White,K Bay,"September 10, 2021",36,80,0
 Park Hye Jin,Before I Die,"September 10, 2021",36,75,0
 Saint Etienne,I've Been Trying to Tell You,"September 10, 2021",36,83,93
->>>>>>> parent of 56385f1 (added feature)
-=======
 Sleigh Bells,Texis,"September 10, 2021",36,76,87
 Matthew E. White,K Bay,"September 10, 2021",36,80,0
 Park Hye Jin,Before I Die,"September 10, 2021",36,75,0
 Saint Etienne,I've Been Trying to Tell You,"September 10, 2021",36,83,94
->>>>>>> parent of a80605f (fixed chart in GUI to be dynamic)
 Spencer.,Are U Down?,"September 10, 2021",36,84,0
 Colleen Green,Cool,"September 10, 2021",36,77,0
 Andrew W.K.,God Is Partying,"September 10, 2021",36,76,0
@@ -129,7 +108,6 @@ Elvis Costello & the Attractions,Spanish Model,"September 10, 2021",36,74,0
 Heartless Bastards,A Beautiful Life,"September 10, 2021",36,79,0
 Tommy Genesis,goldilocks x,"September 10, 2021",36,68,0
 YEBBA,Dawn,"September 10, 2021",36,84,0
-<<<<<<< HEAD
 Samantha Fish,Faster,"September 10, 2021",36,72,0
 Little Simz,Sometimes I Might Be Introvert,"September 3, 2021",35,88,91
 Manic Street Preachers,Ultra Vivid Lament,"September 3, 2021",35,79,88
@@ -140,26 +118,16 @@ Suuns,The Witness,"September 3, 2021",35,80,0
 Pokey LaFarge,In the Blossom of Their Shade,"October 15, 2021",41,85,0
 Hayden Thorpe,Moondust for My Diamond,"October 15, 2021",41,77,0
 Coldplay,Music of the Spheres,"October 15, 2021",41,57,64
-<<<<<<< HEAD
-FINNEAS,Optimist,"October 15, 2021",41,71,89
-Remi Wolf,Juno,"October 15, 2021",41,91,88
-Frank Carter & the Rattlesnakes,Sticky,"October 15, 2021",41,78,0
-Pinkpantheress,to hell with it [Mixtape],"October 15, 2021",41,89,97
-Joy Crookes,Skin,"October 15, 2021",41,89,80
-The Beatles,Let It Be [2021 Mix] [Super Deluxe Edition] [Box Set],"October 15, 2021",41,94,93
-=======
 FINNEAS,Optimist,"October 15, 2021",41,74,87
 Remi Wolf,Juno,"October 15, 2021",41,92,81
 Pinkpantheress,to hell with it [Mixtape],"October 15, 2021",41,89,95
 Joy Crookes,Skin,"October 15, 2021",41,89,73
 The Beatles,Let It Be [2021 Mix] [Super Deluxe Edition] [Box Set],"October 15, 2021",41,93,88
->>>>>>> parent of a80605f (fixed chart in GUI to be dynamic)
 Tom Morello,The Atlas Underground Fire,"October 15, 2021",41,66,0
 Lilly Hiatt,Lately,"October 15, 2021",41,77,0
 Jason Isbell and the 400 Unit,Georgia Blue,"October 15, 2021",41,77,0
 BadBadNotGood,Talk Memory,"October 8, 2021",40,79,84
 Sam Fender,Seventeen Going Under,"October 8, 2021",40,81,90
-=======
 Little Simz,Sometimes I Might Be Introvert,"September 3, 2021",35,88,92
 Manic Street Preachers,Ultra Vivid Lament,"September 3, 2021",35,79,88
 Iron Maiden,Senjutsu,"September 3, 2021",35,83,90
@@ -191,20 +159,16 @@ Thalia Zedek Band,Perfect Vision,"August 27, 2021",34,71,0
 Midwife,Luminol,"August 27, 2021",34,81,0
 BadBadNotGood,Talk Memory,"October 8, 2021",40,79,0
 Sam Fender,Seventeen Going Under,"October 8, 2021",40,84,99
->>>>>>> parent of 56385f1 (added feature)
 Howlin Rain,The Dharma Wheel,"October 8, 2021",40,77,0
 James Blake,Friends That Break Your Heart,"October 8, 2021",40,80,86
 Lala Lala,I Want the Door to Open,"October 8, 2021",40,76,0
 Matt Maltese,Good Morning It's Now Tomorrow,"October 8, 2021",40,84,0
-<<<<<<< HEAD
 Porches,All Day Gentle Hold!,"October 8, 2021",40,81,0
 The World Is a Beautiful Place & I Am No Longer Afraid to Die,Illusory Walls,"October 8, 2021",40,84,0
 Shannon Lay,Geist,"October 8, 2021",40,84,0
 Don Toliver,Life Of A DON,"October 8, 2021",40,73,80
 Magdalena Bay,Mercurial World,"October 8, 2021",40,73,0
 Kevin Morby,Night at the Little Los Angeles,"October 8, 2021",40,75,0
-=======
->>>>>>> parent of 56385f1 (added feature)
 Ray BLK,Access Denied,"October 1, 2021",39,92,0
 The Body,Leaving None But Small Birds,"October 1, 2021",39,76,0
 The Specials,Protest Songs 1924-2012,"October 1, 2021",39,72,0
@@ -245,41 +209,29 @@ Employed to Serve,Conquering,"September 17, 2021",37,88,0
 Carcass,Torn Arteries,"September 17, 2021",37,85,0
 Mild High Club,Going Going Gone,"September 17, 2021",37,71,93
 Fucked Up,Year of the Horse,"September 17, 2021",37,83,0
-<<<<<<< HEAD
 RP Boo,Established!,"September 17, 2021",37,79,0
 Billy Idol,The Roadside [EP],"September 17, 2021",37,68,0
 Injury Reserve,By The Time I Get To Phoenix,"September 15, 2021",37,84,86
-<<<<<<< HEAD
 Kacey Musgraves,Star-Crossed,"September 10, 2021",36,78,80
-=======
 Injury Reserve,By The Time I Get To Phoenix,"September 15, 2021",37,84,88
 Kacey Musgraves,Star-Crossed,"September 10, 2021",36,78,81
->>>>>>> parent of 56385f1 (added feature)
-=======
 Kacey Musgraves,Star-Crossed,"September 10, 2021",36,78,81
->>>>>>> parent of a80605f (fixed chart in GUI to be dynamic)
 Low,Hey What,"September 10, 2021",36,84,88
 Amyl and the Sniffers,Comfort To Me,"September 10, 2021",36,85,90
 Common,"A Beautiful Revolution, Vol. 2","September 10, 2021",36,72,82
 Various Artists,The Metallica Blacklist,"September 10, 2021",36,66,55
-<<<<<<< HEAD
-<<<<<<< HEAD
 Sleigh Bells,Texis,"September 10, 2021",36,76,83
 Matthew E. White,K Bay,"September 10, 2021",36,80,0
 Park Hye Jin,Before I Die,"September 10, 2021",36,75,0
 Saint Etienne,I've Been Trying to Tell You,"September 10, 2021",36,83,95
-=======
 Sleigh Bells,Texis,"September 10, 2021",36,76,88
 Matthew E. White,K Bay,"September 10, 2021",36,80,0
 Park Hye Jin,Before I Die,"September 10, 2021",36,75,0
 Saint Etienne,I've Been Trying to Tell You,"September 10, 2021",36,83,93
->>>>>>> parent of 56385f1 (added feature)
-=======
 Sleigh Bells,Texis,"September 10, 2021",36,76,87
 Matthew E. White,K Bay,"September 10, 2021",36,80,0
 Park Hye Jin,Before I Die,"September 10, 2021",36,75,0
 Saint Etienne,I've Been Trying to Tell You,"September 10, 2021",36,83,94
->>>>>>> parent of a80605f (fixed chart in GUI to be dynamic)
 Spencer.,Are U Down?,"September 10, 2021",36,84,0
 Colleen Green,Cool,"September 10, 2021",36,77,0
 Andrew W.K.,God Is Partying,"September 10, 2021",36,76,0
@@ -295,7 +247,6 @@ Elvis Costello & the Attractions,Spanish Model,"September 10, 2021",36,74,0
 Heartless Bastards,A Beautiful Life,"September 10, 2021",36,79,0
 Tommy Genesis,goldilocks x,"September 10, 2021",36,68,0
 YEBBA,Dawn,"September 10, 2021",36,84,0
-<<<<<<< HEAD
 Samantha Fish,Faster,"September 10, 2021",36,72,0
 Little Simz,Sometimes I Might Be Introvert,"September 3, 2021",35,88,91
 Manic Street Preachers,Ultra Vivid Lament,"September 3, 2021",35,79,88
@@ -303,7 +254,6 @@ Iron Maiden,Senjutsu,"September 3, 2021",35,83,88
 Drake,Certified Lover Boy,"September 3, 2021",35,61,35
 Lady Gaga,Dawn of Chromatica,"September 3, 2021",35,74,96
 Suuns,The Witness,"September 3, 2021",35,80,0
-=======
 Little Simz,Sometimes I Might Be Introvert,"September 3, 2021",35,88,92
 Manic Street Preachers,Ultra Vivid Lament,"September 3, 2021",35,79,88
 Iron Maiden,Senjutsu,"September 3, 2021",35,83,90
@@ -333,4 +283,3 @@ Haiku Salut,"Hill, The Light, The Ghost","August 27, 2021",34,83,0
 Yann Tiersen,Kerber,"August 27, 2021",34,81,0
 Thalia Zedek Band,Perfect Vision,"August 27, 2021",34,71,0
 Midwife,Luminol,"August 27, 2021",34,81,0
->>>>>>> parent of 56385f1 (added feature)
