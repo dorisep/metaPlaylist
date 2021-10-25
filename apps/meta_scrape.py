@@ -10,8 +10,8 @@ import playlist_app
 
 
 
-def metaScrape(url_for_scrape, page_num):
-
+def metaScrape(week_num):
+    url_for_scrape = 'https://www.metacritic.com/browse/albums/release-date/new-releases/date'
     user_agent = {'User-agent': 'Mozilla/5.0'}
     # send response
     response_score = requests.get(url_for_scrape, headers = user_agent)
@@ -83,37 +83,38 @@ def metaScrape(url_for_scrape, page_num):
     # create variable for data to be written
     data = zip(albums_dict['artist'], albums_dict['album'], albums_dict['date'], albums_dict['week_num'], albums_dict['meta_score'], albums_dict['user_score'])
     # create file and write csv
-    if page_num == 0 or False:
-        with open(output_path, 'w') as csvfile:
-            writer = csv.writer(csvfile)
-            writer.writerow(fields)
-            for d in data:
-                writer.writerow(d)
-    else:
-        with open(output_path, 'a') as csvfile:
-            writer = csv.writer(csvfile)
-            for d in data:
-                writer.writerow(d)
-    return 
-
-def metaScorePages(week_num):  
-    url_pages = f'https://www.metacritic.com/browse/albums/release-date/new-releases/date'
-    # set user agent for header
-    user_agent = {'User-agent': 'Mozilla/5.0'}
-    # send response
-    response_pages = requests.get(url_pages, headers = user_agent)
-    # scrape website into variable to parse
-    soup_pages = BeautifulSoup(response_pages.text, 'html.parser')
-    # set condition to check for one or multiple pages and pass the url to the scrape funtion accordingly
-    if soup_pages.find('li', class_='page last_page') is None:
-            url_for_scrape = 'https://www.metacritic.com/browse/albums/score/metascore/year/filtered'
-            page_num = False
-            metaScrape(week_num, url_for_scrape, page_num)
-    else:
-        pages = int(soup_pages.find('li', class_='page last_page').text)
-        
-        for page_num in range(pages):
-            url_for_scrape = f'{url_pages}&page={page_num}'
-            metaScrape(url_pages, page_num)
-
+    # if page_num == 0 or False:
+    #     with open(output_path, 'w') as csvfile:
+    #         writer = csv.writer(csvfile)
+    #         writer.writerow(fields)
+    #         for d in data:
+    #             writer.writerow(d)
+    # else:
+    with open(output_path, 'a') as csvfile:
+        writer = csv.writer(csvfile)
+        for d in data:
+            writer.writerow(d)
+    print(week_num)
     return playlist_app.create_playlist(week_num)
+
+# def metaScorePages(week_num):  
+#     url_pages = f'https://www.metacritic.com/browse/albums/release-date/new-releases/date'
+#     # set user agent for header
+#     user_agent = {'User-agent': 'Mozilla/5.0'}
+#     # send response
+#     response_pages = requests.get(url_pages, headers = user_agent)
+#     # scrape website into variable to parse
+#     soup_pages = BeautifulSoup(response_pages.text, 'html.parser')
+#     # set condition to check for one or multiple pages and pass the url to the scrape funtion accordingly
+#     if soup_pages.find('li', class_='page last_page') is None:
+#             url_for_scrape = 'https://www.metacritic.com/browse/albums/score/metascore/year/filtered'
+#             page_num = False
+#             metaScrape(week_num, url_for_scrape, page_num)
+#     else:
+#         pages = int(soup_pages.find('li', class_='page last_page').text)
+        
+#         for page_num in range(pages):
+#             url_for_scrape = f'{url_pages}&page={page_num}'
+#             metaScrape(url_pages, page_num)
+
+#     return playlist_app.create_playlist(week_num)
