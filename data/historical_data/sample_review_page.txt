@@ -1,0 +1,3721 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        	<title>The Myth of the Happily Ever After by Biffy Clyro Reviews and Tracks - Metacritic</title>
+	
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    
+    <meta name="description" content="Metacritic Music Reviews, The Myth of the Happily Ever After by Biffy Clyro, The latest full-length release for the Scottish alternative rock band was produced with Adam Noble....">
+
+    
+    
+    <meta name="viewport" content="width=1024">
+
+    
+    
+
+    
+    <meta name="application-name" content="Metacritic">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="msapplication-TileImage" content="/images/win8tile/76bf1426-2886-4b87-ae1c-06424b6bb8a2.png">
+
+    
+    
+                                        <meta property="og:title" content="The Myth of the Happily Ever After by Biffy Clyro">
+                                                <meta property="og:type" content="music.album">
+                                                <meta property="og:url" content="https://www.metacritic.com/music/the-myth-of-the-happily-ever-after/biffy-clyro">
+                                                <meta property="og:image" content="https://static.metacritic.com/images/products/music/8/3f66ba56e8190a1a9f04fb37bdd986e8-98.jpg">
+                                                <meta property="og:site_name" content="Metacritic">
+                                                <meta property="fb:app_id" content="123113677890173">
+                                                <meta property="twitter:site" content="@metacritic">
+                                                <meta property="twitter:creator" content="@metacritic">
+                                                <meta name="twitter:card" content="https://static.metacritic.com/images/products/music/8/3f66ba56e8190a1a9f04fb37bdd986e8-98.jpg">
+                                                <meta property="og:description" content="The Myth of the Happily Ever After by Biffy Clyro album reviews &amp; Metacritic score: The latest full-length release for the Scottish alternative rock band was produced with Adam Noble....">
+                        
+    
+    
+
+    
+
+    
+    <link rel="stylesheet" href="/css/fonts/proxima-nova/stylesheet.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="/css/video/uvp_custom_controls_3_1.css" type="text/css" charset="utf-8" />
+    
+    <link rel="stylesheet" href="/css/global.min.1633026097.css" type="text/css">
+<link rel="stylesheet" href="/css/product/base.min.1633026064.css" type="text/css">
+
+
+    
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+
+    
+    <link rel="icon" href="/MC_favicon.png"/>
+
+    
+     
+        <link rel="canonical" href="https://www.metacritic.com/music/the-myth-of-the-happily-ever-after/biffy-clyro" />
+        
+    
+
+    
+        
+    
+    
+    
+    
+<link rel="dns-prefetch" href="//cdn.cookielaw.org" pr="1">
+<link rel="dns-prefetch" href="//geolocation.onetrust.com" pr="1">
+<link rel="preload" href="//cdn.cookielaw.org/scripttemplates/otSDKStub.js" pr="1" as="script" crossorigin>
+<link rel="preload" type="application/x-javascript" href="//cdn.cookielaw.org/consent/099cf09d-47b1-46c4-89e9-9f2cce394562/099cf09d-47b1-46c4-89e9-9f2cce394562.json" pr="1" as="fetch" crossorigin="anonymous" data-no-header>
+<link rel="preload" as="script" type="text/javascript" href="https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location" data-no-header>
+
+    
+<script
+    src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+    type="text/javascript"
+    charset="UTF-8"
+    data-domain-script="099cf09d-47b1-46c4-89e9-9f2cce394562"
+    async
+>
+</script>
+
+
+<script type="application/javascript">
+    
+    (function(a){
+        var w=window,b='cbsoptanon',q='cmd',r='config';
+        w[b] = w[b] ? w[b] : {};
+        w[b][q] = w[b][q] ? w[b][q] : [];
+        w[b][r] = w[b][r] ? w[b][r] : [];
+
+        a.forEach(function(z){
+            w[b][z] = w[b][z] || function(){
+                var c=arguments;
+                w[b][q].push(function(){
+                    w[b][z].apply(w[b],c);
+                })
+            }
+        });
+    })(["onIframesReady","onFormsReady","onScriptsReady","onAdsReady"]);
+
+    //Add configs
+    window.cbsoptanon.config.push({
+        setNpaOnConsentChange: true,
+        euMaxAttempts: 25,
+        countryCodeMaxAttempts: 25,
+        oneTrustTimeout: 2000,
+        enableServices: false
+    });
+
+    //Load iframes as soon as ready
+    window.cbsoptanon.onIframesReady(function(_cbsoptanon) {
+        console.log('Loading iframes');
+        _cbsoptanon.tags.load("IFRAME");
+    });
+
+    window.MetaC = window.MetaC || {};
+    MetaC.scriptExecuted = {};
+
+    function gdprConsentCallback(id, callback, callbackArgs, category, onReady) {
+        onReady = onReady || 'Scripts';
+        var opt = window.cbsoptanon['on'+onReady+'Ready'];
+        MetaC.scriptExecuted[id] = false;
+
+        opt(function(_cbsoptanon, options) {
+            //If we have categories we need to check if they are allowed
+            if (category != null) {
+                //Gets the current state of all categories
+                var checkState = function () {
+                    _cbsoptanon.ot.getState(function (targeting, performance, functional, social) {
+                        var obj = {
+                            targeting: targeting,
+                            performance: performance,
+                            functional: functional,
+                            social: social
+                        };
+
+                        if (obj[category.toLowerCase()]) {
+                            window.MetaC.scriptExecuted[id] = true;
+                            callback.apply(this, [callbackArgs, _cbsoptanon, options]);
+                        }
+                    });
+                };
+
+                checkState();
+
+                _cbsoptanon.ot.addOnConsentChangedHandler(function() {
+                    if (window.MetaC.scriptExecuted[id] !== true) {
+                        checkState();
+                    }
+                });
+            } else {
+                //Just waiting for on ready fire callback
+                callback.apply(this, [callbackArgs, _cbsoptanon, options]);
+            }
+        });
+    }
+
+    // Function to add scripts to the page
+    function append(scriptid,url,async){var d=document,sn='script',f=d.getElementsByTagName(sn)[0];if(!f)f=d.head;var s=d.createElement(sn);s.async=!0;s.id=scriptid;s.src=url;f.parentNode.insertBefore(s,f)}
+    // Set up Googletag cmd queue and init with disabling initial load
+    
+    
+    window.googletag = window.googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        googletag.pubads().disableInitialLoad();
+    });
+    
+</script>
+
+<script src="https://www.metacritic.com/a/privacy/optanon/optanon-v1.1.0.js" id="bb-cbsoptanon" type="application/javascript" async></script>
+                                                                            
+<script type="text/javascript" src="/js/omniture/uuid.js"></script>
+<script type="application/javascript">
+    
+    var MC_UUID = uuid.v1();
+    var chsn_ad_id = MC_UUID;
+    var utag_data = {
+        isDev:0,
+        siteType:"desktop web",
+        deviceType:"desktop",
+        siteSection:"music",
+        pageType:"product_overview",
+        pageFindingMethod:"External",
+        musicGenre:"Pop/Rock",userId:"",userState:"not authenticated",userType:"registered",musicAlbumId:"mc-album-720236",musicAlbumTitle:"The Myth of the Happily Ever After",musicArtistId:"mc-artist-113992",musicArtistName:"Biffy Clyro",_test:"",pageViewGuid:MC_UUID
+    };
+    
+</script>
+
+        
+<script type="application/javascript">
+    window.mPulseKeyConfig = {
+        apiKey: '9XV6E-QB382-DERTX-NDA24-ZYS7B',
+        RestApiSecretKey: '24e8d927-29c8-4452-bd73-5df587e5986a'
+    };
+    window.mPulseEnabled = true;
+</script>
+
+<script type="application/javascript">
+        window.BOOMR_config = {
+            Errors: {
+                enabled: true,
+                monitorGlobal: true,  // onerror
+                monitorNetwork: false, // XHRs
+                monitorConsole: true, // window.console.error
+                monitorEvents: false,  // addEventListener
+                monitorTimeout: false, // setTimeout, setInterval
+                maxErrors: 10,         // max errors sent per page
+                onError: function(err) {
+                    var text = err.message || "";
+                    return text.indexOf(".metacritic.com") !== -1 &&         //first party
+                            text.indexOf("Script error") === -1 &&           //not a script error
+                            text.indexOf("Load timeout for modules") === -1; //not a load timeout
+                }
+            }
+        };
+
+        
+        
+        
+        (function(){
+            if (window.BOOMR && window.BOOMR.version) { return; }
+            var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+
+            function boomerangSaveLoadTime(e) {
+                win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+            }
+            if (win.addEventListener) {
+                win.addEventListener("load", boomerangSaveLoadTime, false);
+            } else if (win.attachEvent) {
+                win.attachEvent("onload", boomerangSaveLoadTime);
+            }
+
+            iframe.src = "javascript:void(0)";
+            iframe.title = ""; iframe.role = "presentation";
+            (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+            where = document.getElementsByTagName("script")[0];
+            where.parentNode.insertBefore(iframe, where);
+
+            try {
+                doc = iframe.contentWindow.document;
+            } catch(e) {
+                dom = document.domain;
+                iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+                doc = iframe.contentWindow.document;
+            }
+            doc.open()._l = function() {
+                var js = this.createElement("script");
+                if (dom) { this.domain = dom; }
+                js.id = "boomr-if-as";
+                js.src = "//c.go-mpulse.net/boomerang/" + window.mPulseKeyConfig.apiKey;
+                BOOMR_lstart=new Date().getTime();
+                this.body.appendChild(js);
+            };
+            doc.write('<body onload="document._l();">');
+            doc.close();
+        })();
+    </script>
+    
+    <script type="application/javascript">
+        
+        // Cohesion
+        gdprConsentCallback('cohesion', function(){!function(co,h,e,s,i,o,n){var d='documentElement';var a='className';h[d][a]+=' preampjs fusejs';    n.k=e;co._Cohesion=n;co._Preamp={k:s,start:new Date};co._Fuse={k:i};co._Tagular={k:o};    [e,s,i,o].map(function(x){co[x]=co[x]||function(){(co[x].q=co[x].q||[]).push([].slice.call(arguments))}});    h.addEventListener('DOMContentLoaded',function(){co.setTimeout(function(){    var u=h[d][a];h[d][a]=u.replace(/ ?preampjs| ?fusejs/g,'')},3e3);    co._Preamp.docReady=co._Fuse.docReady=!0});var z=h.createElement('script');z.async=1;z.src='https://cdn.cohesionapps.com/cohesion/cohesion-latest.min.js';h.head.appendChild(z);}    (window,document,'cohesion','preamp','fuse','tagular',{        tagular:{writeKey:'wk_1kZD6f0kbCS51mSEsdaRjWBbY4r', sourceKey:'src_1kZD6ZLXVCIj0d2XTZb7WONLbaA', apiVersion: 'v2/t'}    })}, {}, 'performance');
+        // GPT/DFP ads
+        append('gpt-lib', (('https:' == document.location.protocol)?'https:':'http:') + '//securepubads.g.doubleclick.net/tag/js/gpt.js', true);
+        // Google Analytics
+        function loadVendorGoogleAnalytics() { append('ga-lib', (('https:' == document.location.protocol)?'https://ssl':'http://www') + '.google-analytics.com/ga.js', true); }
+        gdprConsentCallback('google-analytics', loadVendorGoogleAnalytics, {}, 'performance');
+        
+    </script>
+
+    
+    
+    
+    <script type="text/javascript" src="/js/global.min.1633026097.js"></script>
+
+
+    <script type="text/javascript">
+        
+        window.metac_ads_pushdisplay = window.metac_ads_pushdisplay || [];
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        
+    </script>
+
+    <script type="text/javascript">
+        
+    	MC_USER_LOGGED_IN = false;
+            </script>
+
+    <script type="text/javascript">
+    
+    window.BidBarrel = window.BidBarrel || {};
+    BidBarrel.queue = BidBarrel.queue || [];
+    
+    function pushToDisplay(ad_id, incremental,  position, collapse_empty, native_key, cache){
+        var ad_params = {'pos': position};
+        var additional_settings = {}; 
+
+        if (native_key){
+            ad_params['strnativekey'] = native_key;
+        }
+
+        var ad_config = [ad_id, incremental, ad_params];
+
+        if (collapse_empty){
+            additional_settings['collapseEmptyDiv'] = true;
+        }
+
+        if (cache){
+            additional_settings['cache'] = true;
+        }
+
+        if (Object.keys(additional_settings).length != 0){
+            ad_config.push(additional_settings);
+        }
+
+        window.metac_ads_pushdisplay.push(ad_config);
+    }
+    
+</script>
+<script type="text/javascript" src="https://at.adtech.redventures.io/lib/dist/prod/bidbarrel-metacritic-rv.min.js" async></script>
+
+
+    
+    <script src="https://www.metacritic.com/a/video-player/uvpjs-rv/3.1.8/video-player.js"></script>
+    <script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+
+    <script typle="text/javascript">
+        // UVPJS-RV configuration
+        window.uvpjs.Configuration.hostname = '//www.metacritic.com';
+        window.uvpjs.Configuration.path = '/a/video-player/uvpjs-rv/3.1.8/';
+    </script>
+</head>
+
+    <body class="skybox-auto-collapse">
+
+
+<div id="site_layout">
+    <div id="masthead">
+        
+
+                    
+            <div id="nav_ad_wrapper">
+                                        
+        <div id="nav_ad_omni" class="ad_unit skybox-closeBtn skybox-collapseBtn">
+
+            <script type="text/javascript">
+            
+                            pushToDisplay('nav_ad_omni', null, 'nav', true, null, false);
+                    </script>
+    
+    </div>
+    
+    
+                            </div>
+        
+        <div id="content_header_wrapper">
+            <header id="top_header">
+    <nav id="primary_nav">
+        <nav id="primary_logo" class="primary_nav_item">
+            <a class="mc-logo" href="https://www.metacritic.com"><img src="/images/icons/metacritic-icon.svg" alt="Metacritic logo"></a>
+            <a class="mc-wordmark" href="https://www.metacritic.com"><img src="/images/icons/metacritic-wordmark.svg" alt="Metacritic logo"></a>
+        </nav>
+
+        <nav id="primary_search" class="primary_nav_item">
+            <div class="rounded_field">
+                <div class="imgs">
+                    <img class="inactive" src="/images/icons/search_inactive.svg" alt="search">
+                </div>
+                <div class="field innerLabel">
+                    <div class="input_wrapper">
+                        <form action="/search" method="post" autocomplete="off">
+                            <label for="primary_search_box">search...</label>
+                            <input name="search_term" id="primary_search_box" autocomplete="off"
+                                                            >
+                            <input type="hidden" name="search_filter" value="all">
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div id="primary_search_results">
+
+            </div>
+        </nav>
+
+        <nav id="primary_nav_wrapper">
+                                            <nav id="primary_nav_item_games" class="primary_nav_item">
+                    <span class="primary_nav_text">
+                        
+                            Games
+
+                    </span>
+
+                                                    <nav class="primary_drop_down masked">
+                                <div class="mask-container" section="header-games">
+                                    <div class="mask-section">
+                                        <div class="column feature">
+                                                                                                                                                                                                
+                                                    <a href="/feature/major-upcoming-video-game-release-dates-xbox-ps4-pc-switch" class="feature-img-container" section="articles">
+                                                        <img class="primary_feature_img" src="https://static.metacritic.com/images/features/main/games_scorecard_2021_Q4ALT-180.jpg" alt="Notable Video Game Releases: New and Upcoming Image" />
+                                                    </a>
+                                                    <span class="primary_feature_text" section="articles"><a href="/feature/major-upcoming-video-game-release-dates-xbox-ps4-pc-switch">Notable Video Game Releases: New and Upcoming</a></span>
+                                                    <a class="reports-see-all" href="/features" section="see_all_articles">See All Reports</a>
+                                                                                                                                    </div>
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li><a href="/game" section="home">Games Home >></a></li>
+                                                <li><a href="/browse/games/release-date/new-releases/all/date" section="New Releases">New Releases</a></li>
+                                                <li><a href="/browse/games/release-date/coming-soon/all/date" section="Coming Soon">Coming Soon</a></li>
+                                                <h3><p>Best...</p></h3>
+                                                <li><a href="/browse/games/score/metascore/year/all/filtered" section="Games This Year">Games This Year</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/all/filtered" section="Games of All Time">Games of All Time</a></li>
+                                                <li><a href="/browse/games/genre/metascore/action/all" section="Games by Genre">Games by Genre</a></li>
+                                                <li><a href="/browse/games/score/metascore/90day/all/filtered" section="New Games">New Games</a></li>
+                                                <h3><p>More...</p></h3>
+                                                <li><a href="/feature/new-free-games-playstation-xbox-pc-switch" section="New Free Games This Month">New Free Games This Month</a></li>
+                                                <li><a href="/browse/games/score/userscore/90day/filtered" section="User's Best New Games">User's Best New Games</a></li>
+                                                <li><a href="/browse/games/score/userscore/all/filtered" section="User's Best Games of All Time">User's Best Games of All Time</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="column platforms">
+                                            <ul>
+                                                <li class="title">Platforms:<li>
+                                                <li><label for="game_ps4_open" class="mc_nav_picks" data-href="/game/playstation-4?nav-picks">PS4</label></li>
+                                                <li><label for="game_ps5_open" class="mc_nav_picks" data-href="/game/playstation-5?nav-picks">PS5</label></li>
+                                                <li><label for="game_xone_open" class="mc_nav_picks" data-href="/game/xbox-one?nav-picks">Xbox One</label></li>
+                                                <li><label for="game_xboxx_open" class="mc_nav_picks" data-href="/game/xbox-series-x?nav-picks">Xbox Series X</label></li>
+                                                <li><label for="game_switch_open" class="mc_nav_picks" data-href="/game/switch?nav-picks">Switch</label></li>
+                                                <li><label for="game_pc_open" class="mc_nav_picks" data-href="/game/pc?nav-picks">PC</label></li>
+                                                <li><label for="game_legacy_open">More...</label></li>
+                                            </ul>
+                                        </div>
+                                        <div class="column top-five">
+                                        
+                                                                                                                                                            
+                                                                                                                                                                                <h3>Top
+        Games
+     Right Now</h3>
+<div class="top-five" section=top_games>
+                    
+<div class="item">
+    <a href="/game/switch/metroid-dread">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/games/5/33ebb325c3be6cf63c66ef82c2e66574-98.jpg" alt="Metroid Dread" />
+                            
+
+        
+<div class="metascore_w medium game positive">89</div>
+
+                    </div>
+
+                    <div class="product-name">
+                Metroid Dread
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/game/pc/age-of-empires-iv">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/games/9/c647a457cc6e36f843c704d1592bb6c0-98.jpg" alt="Age of Empires IV" />
+                            
+
+        
+<div class="metascore_w medium game positive">83</div>
+
+                    </div>
+
+                    <div class="product-name">
+                Age of Empires IV
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/game/playstation-5/marvels-guardians-of-the-galaxy">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/games/6/46c65b92af117d6d74c4dd16f26a2ccd-98.jpg" alt="Marvel's Guardians of the Galaxy" />
+                            
+
+        
+<div class="metascore_w medium game positive">81</div>
+
+                    </div>
+
+                    <div class="product-name">
+                Marvel's Guardians of the Galaxy
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/game/playstation-5/far-cry-6">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/games/6/4ba951f2092071d6782e19e3a7130a55-98.jpg" alt="Far Cry 6" />
+                            
+
+        
+<div class="metascore_w medium game positive">75</div>
+
+                    </div>
+
+                    <div class="product-name">
+                Far Cry 6
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item last">
+    <a href="/game/playstation-5/the-dark-pictures-anthology-house-of-ashes">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/games/4/20d6654d0888db30e5e6c6a69c7d6a68-98.jpg" alt="The Dark Pictures Anthology: House of Ashes" />
+                            
+
+        
+<div class="metascore_w medium game mixed">73</div>
+
+                    </div>
+
+                    <div class="product-name">
+                The Dark Pictures Anthology: House of Ashes
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+    </div>
+
+                                                                            
+                                                                                                                                                            
+                                                                                                                                                            
+                                                                                
+                                        </div>
+                                    </div>
+
+                                    
+                                    <input id="game_ps4_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="game_ps4_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav ajax">
+                                            <ul>
+                                                <li class="back"><label for="game_ps4_close">&lt;&lt; Back to All Platforms</label></li>
+                                                <li class="heading">PS4</li>
+                                                <li><a href="/game/playstation-4" section="PS4;home">PS4 Home >></a></li>
+                                                <li><a href="/browse/games/release-date/new-releases/ps4/date" section="PS4;New Releases">New Releases</a></li>
+                                                <li><a href="/browse/games/release-date/coming-soon/ps4/date" section="PS4;Coming Soon">Coming Soon</a></li>
+                                                <li class="heading">Best...</li>
+                                                <li><a href="/browse/games/score/metascore/90day/ps4/filtered" section="PS4;New Games">New Games</a></li>
+                                                <li><a href="/browse/games/score/metascore/year/ps4/filtered" section="PS4;Games This Year">Games This Year</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/ps4/filtered" section="PS4;Games of All Time">Games of All Time</a></li>
+                                                <li><a href="/browse/games/genre/metascore/action/ps4" section="PS4;Games by Genre">Games by Genre</a></li>
+                                            </ul>
+                                        </div>
+                                        
+                                    </div>
+                                    
+
+                                    
+                                    <input id="game_ps5_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="game_ps5_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav ajax">
+                                            <ul>
+                                                <li class="back"><label for="game_ps5_close">&lt;&lt; Back to All Platforms</label></li>
+                                                <li class="heading">PS5</li>
+                                                <li><a href="/game/playstation-5" section="PS5;home">PS5 Home >></a></li>
+                                                <li><a href="/browse/games/release-date/new-releases/ps5/date" section="PS5;New Release">New Games</a></li>
+                                                <li><a href="/browse/games/release-date/coming-soon/ps5/date" section="PS5;Coming Soon">Coming Soon</a></li>
+                                                <li class="heading">Best...</li>
+                                                <li><a href="/browse/games/score/metascore/90day/ps5/filtered" section="PS5;New Games">New Games</a></li>
+                                                <li><a href="/browse/games/score/metascore/year/ps5/filtered" section="PS5;Games This Year">Games This Year</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/ps5/filtered" section="PS5;Games of All Time">Games of All Time</a></li>
+                                                <li><a href="/browse/games/genre/metascore/action/ps5" section="PS5;Games by Genre">Games by Genre </a></li>
+                                            </ul>
+                                        </div>
+                                        
+                                    </div>
+                                    
+
+                                    
+                                    <input id="game_xone_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="game_xone_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav ajax">
+                                            <ul>
+                                                <li class="back"><label for="game_xone_close">&lt;&lt; Back to All Platforms</label></li>
+                                                <li class="heading">Xbox One</li>
+                                                <li><a href="/game/xbox-one" section="Xbox One;home">Xbox One Home >></a></li>
+                                                <li><a href="/browse/games/release-date/new-releases/xboxone/date" section="Xbox One;New Releases">New Releases</a></li>
+                                                <li><a href="/browse/games/release-date/coming-soon/xboxone/date" section="Xbox One;Coming Soon">Coming Soon</a></li>
+                                                <li class="heading">Best...</li>
+                                                <li><a href="/browse/games/score/metascore/90day/xboxone/filtered" section="Xbox One;New Games">New Games</a></li>
+                                                <li><a href="/browse/games/score/metascore/year/xboxone/filtered" section="Xbox One;Games This Year">Games This Year</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/xboxone/filtered" section="Xbox One;Games of All Time">Games of All Time</a></li>
+                                                <li><a href="/browse/games/genre/metascore/action/xboxone" section="Xbox One;Games by Genre">Games by Genre</a></li>
+                                            </ul>
+                                        </div>
+                                        
+                                    </div>
+                                    
+
+                                    
+                                    <input id="game_xboxx_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="game_xboxx_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav ajax">
+                                            <ul>
+                                                <li class="back"><label for="game_xboxx_close">&lt;&lt; Back to All Platforms</label></li>
+                                                <li class="heading">Xbox Series X</li>
+                                                <li><a href="/game/xbox-series-x" section="Xbox SX;home">Xbox Series X Home >></a></li>
+                                                <li><a href="/browse/games/release-date/new-releases/xbox-series-x/date" section="Xbox SX;New Releases">New Releases</a></li>
+                                                <li><a href="/browse/games/release-date/coming-soon/xbox-series-x/date" section="Xbox SX;Coming Soon">Coming Soon</a></li>
+                                                <li class="heading">Best...</li>
+                                                <li><a href="/browse/games/score/metascore/90day/xbox-series-x/filtered" section="Xbox SX;New Games">New Games</a></li>
+                                                <li><a href="/browse/games/score/metascore/year/xbox-series-x/filtered" section="Xbox SX;Games This Year">Games This Year</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/xbox-series-x/filtered" section="Xbox SX;Games of All Time">Games of All Time</a></li>
+                                                <li><a href="/browse/games/genre/metascore/action/xbox-series-x" section="Xbox SX;Games by Genre">Games by Genre </a></li>
+                                            </ul>
+                                        </div>
+                                        
+                                    </div>
+                                    
+
+                                    
+                                    <input id="game_switch_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="game_switch_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav ajax">
+                                            <ul>
+                                                <li class="back"><label for="game_switch_close">&lt;&lt; Back to All Platforms</label></li>
+                                                <li class="heading">Switch</li>
+                                                <li><a href="/game/switch" section="Switch;home">Switch Home >></a></li>
+                                                <li><a href="/browse/games/release-date/new-releases/switch/date" section="Switch;New Releases">New Releases</a></li>
+                                                <li><a href="/browse/games/release-date/coming-soon/switch/date" section="Switch;Coming Soon">Coming Soon</a></li>
+                                                <li class="heading">Best...</li>
+                                                <li><a href="/browse/games/score/metascore/90day/switch/filtered" section="Switch;New Games">New Games</a></li>
+                                                <li><a href="/browse/games/score/metascore/year/switch/filtered" section="Switch;Games This Year">Games This Year</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/switch/filtered" section="Switch;Games of All Time">Games of All Time</a></li>
+                                                <li><a href="/browse/games/genre/metascore/action/switch" section="Switch;Games by Genre">Games by Genre</a></li>
+                                            </ul>
+                                        </div>
+                                        
+                                    </div>
+                                    
+
+                                    
+                                    <input id="game_pc_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="game_pc_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav ajax">
+                                            <ul>
+                                                <li class="back"><label for="game_pc_close">&lt;&lt; Back to All Platforms</label></li>
+                                                <li class="heading">PC</li>
+                                                <li><a href="/game/pc" section="PC;home">PC Home >></a></li>
+                                                <li><a href="/browse/games/release-date/new-releases/pc/date" section="PC;New Releases">New Releases</a></li>
+                                                <li><a href="/browse/games/release-date/coming-soon/pc/date" section="PC;Coming Soon">Coming Soon</a></li>
+                                                <li class="heading">Best...</li>
+                                                <li><a href="/browse/games/score/metascore/90day/pc/filtered" section="PC;New Games">New Games</a></li>
+                                                <li><a href="/browse/games/score/metascore/year/pc/filtered" section="PC;Games This Year">Games This Year</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/pc/filtered" section="PC;Games of All Time">Games of All Time</a></li>
+                                                <li><a href="/browse/games/genre/metascore/action/pc" section="PC;Games by Genre">Games by Genre</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    
+
+                                    
+                                    <input id="game_legacy_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="game_legacy_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li class="back"><label for="game_legacy_close">&lt;&lt; Back to All Platforms</label></li>
+                                                <li class="heading">More...</li>
+                                            </ul>
+                                            <ul>
+                                                <li><a href="/game/stadia" section="Legacy;Stadia">Stadia</a></li>
+                                                <li><a href="/game/ios" section="Legacy;iOS">iOS</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li class="heading">Legacy</li>
+                                            </ul>
+                                            <ul class="multicol">
+                                                <li><a href="/browse/games/score/metascore/all/3ds/filtered" section="Legacy;Best of 3DS">Best of 3DS</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/wii-u/filtered" section="Legacy;Best of Wii U">Best of Wii U</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/vita/filtered" section="Legacy;Best of PS Vita">Best of PS Vita</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/ps3/filtered" section="Legacy;Best of PS3">Best of PS3</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/wii/filtered" section="Legacy;Best of Wii">Best of Wii</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/n64/filtered" section="Legacy;Best of N64">Best of N64</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/gamecube/filtered" section="Legacy;Best of Gamecube">Best of Gamecube</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/ps2/filtered" section="Legacy;Best of PS2">Best of PS2</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/ps/filtered" section="Legacy;Best of PS">Best of PS</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/xbox360/filtered" section="Legacy;Best of Xbox 360">Best of Xbox 360</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/xbox/filtered" section="Legacy;Best of Xbox">Best of Xbox</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/ds/filtered" section="Legacy;Best of DS">Best of DS</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/gba/filtered" section="Legacy;Best of Game Boy Advance">Best of Game Boy Advance</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/psp/filtered" section="Legacy;Best of PSP">Best of PSP</a></li>
+                                                <li><a href="/browse/games/score/metascore/all/dreamcast/filtered" section="Legacy;Best of Dreamcast">Best of Dreamcast</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </nav>
+
+                                        </nav>
+                                                            <nav id="primary_nav_item_movies" class="primary_nav_item">
+                    <span class="primary_nav_text">
+                        
+                            Movies
+
+                    </span>
+
+                                                    <nav class="primary_drop_down masked">
+                                <div class="mask-container" section="header-movies">
+
+                                    <div class="mask-section">
+                                        <div class="column feature">
+                                                                                                                                                                                                
+                                                    <a href="/feature/film-awards-and-nominations-scorecard" class="feature-img-container" section="articles">
+                                                        <img class="primary_feature_img" src="https://static.metacritic.com/images/features/main/yearend2021_movies_kingrichard-180.jpg" alt="Best of 2021: Film Awards & Nominations Scorecard Image" />
+                                                    </a>
+                                                    <span class="primary_feature_text" section="articles"><a href="/feature/film-awards-and-nominations-scorecard">Best of 2021: Film Awards & Nominations Scorecard</a></span>
+                                                    <a class="reports-see-all" href="/features" section="see_all_articles">See All Reports</a>
+                                                                                                                                    </div>
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li><a href="/movie" section="home">Movies Home >></a></li>
+                                                <li><a href="/browse/movies/release-date/theaters/date" section="In Theaters">In Theaters</a></li>
+                                                <li><a href="/browse/movies/release-date/coming-soon/date" section="Coming Soon">Coming Soon</a></li>
+                                                <li><a href="/browse/dvds/release-date/new-releases/date" section="New Movies on DVD/Bluray">New Movies on DVD/Bluray</a></li>
+                                                
+                                                
+                                                <h3><p>Best...</p></h3>
+                                                <li><a href="/browse/movies/score/metascore/year/filtered" section="Movies This Year">Movies This Year</a></li>
+                                                <li><a href="/browse/movies/score/metascore/all/filtered?sort=desc" section="Movies of All Time">Movies of All Time</a></li>
+                                                <li><a href="/feature/film-awards-and-nominations-scorecard" section="Film Awards and Nominations">Film Awards & Nominations</a></li>
+                                                <li><a href="/browse/movies/genre/metascore/action" section="Movies by Genre">Movies by Genre</a></li>
+                                                <h3><p>More...</p></h3>
+                                                <li><a href="/browse/movies/score/userscore/90day/filtered" section="Users' Best New Movies">Users' Best New Movies</a></li>
+                                                <li><a href="/browse/movies/score/userscore/all/filtered" section="Users' All Time Best Movies">Users' All Time Best Movies</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="column platforms">
+                                            <ul>
+                                                <li class="title">Streaming:</li>
+                                                <li><a href="/browse/movies/score/metascore/all/filtered/netflix" section="streaming;Netflix">Netflix</a></li>
+                                                <li><a href="/browse/movies/score/metascore/all/filtered/piv" section="streaming;Amazon">Amazon</a></li>
+                                                <li><a href="/browse/movies/score/metascore/all/filtered/hulu" section="streaming;Hulu">Hulu</a></li>
+                                                <li><a href="/browse/movies/score/metascore/all/filtered/itunes" section="streaming;iTunes">iTunes</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="column top-five">
+                                        
+                                                                                                                                                                                <h3>Top
+        Movies
+     Right Now</h3>
+<div class="top-five" section=top_movies>
+                    
+<div class="item">
+    <a href="/movie/dune-2020">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/movies/2/1bd18aa9495fe8740a0971b6177b0c14-98.jpg" alt="Dune" />
+                            
+
+        
+<div class="metascore_w medium movie positive">75</div>
+
+                    </div>
+
+                    <div class="product-name">
+                Dune
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/movie/the-french-dispatch">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/movies/6/ad363a79efd96986ca3ac7f3f6d23079-98.jpg" alt="The French Dispatch" />
+                            
+
+        
+<div class="metascore_w medium movie positive">75</div>
+
+                    </div>
+
+                    <div class="product-name">
+                The French Dispatch
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/movie/the-harder-they-fall">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/movies/7/9ed5c958e02e323207297a052c1467d7-98.jpg" alt="The Harder They Fall" />
+                            
+
+        
+<div class="metascore_w medium movie positive">70</div>
+
+                    </div>
+
+                    <div class="product-name">
+                The Harder They Fall
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/movie/rons-gone-wrong">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/movies/2/83f3f3a42059c53693e5ab77056089af-98.jpg" alt="Ron's Gone Wrong" />
+                            
+
+        
+<div class="metascore_w medium movie positive">65</div>
+
+                    </div>
+
+                    <div class="product-name">
+                Ron's Gone Wrong
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item last">
+    <a href="/movie/eternals">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/movies/9/c7f61b2696e9323d8a3f7dc989d948a2-98.jpg" alt="Eternals" />
+                            
+
+        
+<div class="metascore_w medium movie mixed">58</div>
+
+                    </div>
+
+                    <div class="product-name">
+                Eternals
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+    </div>
+
+                                                                            
+                                                                                                                                                            
+                                                                                                                                                            
+                                                                                                                                                            
+                                                                                
+                                        </div>
+                                    </div>
+
+                                    
+                                    <input id="movie_netflix_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="movie_netflix_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li class="back"><label for="movie_netflix_close">&lt;&lt; Back to All Streaming</label></li>
+                                                <li class="heading">Netflix</li>
+                                                <li><a href="/browse/movies/score/metascore/90day/filtered/netflix">New Releases for Netflix</a></li>
+                                                <li><a href="/browse/movies/score/metascore/year/filtered/netflix">Best New Movies on Netflix</a></li>
+                                                <li><a href="/browse/movies/score/metascore/all/filtered/netflix">Best Movies on Netflix</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    
+
+                                    
+                                    <input id="movie_hulu_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="movie_hulu_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li class="back"><label for="movie_netflix_close">&lt;&lt; Back to All Streaming</label></li>
+                                                <li class="heading">HULU</li>
+                                                <li><a href="/browse/movies/score/metascore/90day/filtered/hulu">New Releases for Hulu</a></li>
+                                                <li><a href="/browse/movies/score/metascore/year/filtered/hulu">Best New Movies on Hulu</a></li>
+                                                <li><a href="/browse/movies/score/metascore/all/filtered/hulu">Best Movies on Hulu</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    
+
+                                    
+                                    <input id="movie_amazon_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="movie_amazon_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li class="back"><label for="movie_netflix_close">&lt;&lt; Back to All Streaming</label></li>
+                                                <li class="heading">Amazon</li>
+                                                <li><a href="/browse/movies/score/metascore/90day/filtered/piv">New Releases for Amazon</a></li>
+                                                <li><a href="/browse/movies/score/metascore/year/filtered/piv">Best New Movies on Amazon</a></li>
+                                                <li><a href="/browse/movies/score/metascore/all/filtered/piv">Best Movies on Amazon</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    
+
+                                    
+                                    <input id="movie_apple_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="movie_apple_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li class="back"><label for="movie_netflix_close">&lt;&lt; Back to All Streaming</label></li>
+                                                <li class="heading">iTunes</li>
+                                                <li><a href="/browse/movies/score/metascore/90day/filtered/itunes">New Releases for iTunes</a></li>
+                                                <li><a href="/browse/movies/score/metascore/year/filtered/itunes">Best New Movies on iTunes</a></li>
+                                                <li><a href="/browse/movies/score/metascore/all/filtered/itunes">Best Movies on iTunes</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    
+
+                                </div>
+
+                            </nav>
+
+                                        </nav>
+                                                            <nav id="primary_nav_item_tv" class="primary_nav_item">
+                    <span class="primary_nav_text">
+                        
+                            TV
+
+                    </span>
+
+                                                    <nav class="primary_drop_down masked">
+                                <div class="mask-container">
+
+                                    <div class="mask-section" section="header-tv">
+                                        <div class="column feature">
+                                                                                                                                                                                                
+                                                    <a href="/feature/best-new-movies-and-shows-on-hbo-go-now" class="feature-img-container" section="articles">
+                                                        <img class="primary_feature_img" src="https://static.metacritic.com/images/features/main/hbo202111-180.jpg" alt="What to Watch Right Now on HBO and HBO Max Image" />
+                                                    </a>
+                                                    <span class="primary_feature_text" section="articles"><a href="/feature/best-new-movies-and-shows-on-hbo-go-now">What to Watch Right Now on HBO and HBO Max</a></span>
+                                                    <a class="reports-see-all" href="/features" section="see_all_articles">See All Reports</a>
+                                                                                                                                    </div>
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li><a href="/tv" section="home">TV Home >></a></li>
+                                                <li><a href="/feature/tv-premiere-dates" section="TV Premiere Calendar">TV Premiere Calendar</a></li>
+                                                <li><a href="/feature/tv-renew-cancel-scorecard" section="TV Renew/Cancel Scorecard">TV Renew/Cancel Scorecard</a></li>
+                                                <li><a href="/browse/tv/release-date/new-series/date?view=detailed" section="New & Returning TV Shows">New & Returning TV Shows</a></li>
+                                                <h3><p>Best...</p></h3>
+                                                <li><a href="/browse/tv/score/metascore/90day/filtered?sort=desc&view=detailed" section="New TV Shows">New TV Shows</a></li>
+                                                <li><a href="/browse/tv/score/metascore/year/filtered?sort=desc&view=detailed" section="TV Shows This Year">TV Shows This Year</a></li>
+                                                <li><a href="/browse/tv/score/metascore/all/filtered?sort=desc" section="TV Shows of All Time">TV Shows of All Time</a></li>
+                                                <li><a href="/browse/tv/genre/metascore/action" section="TV Shows by Genre">TV Shows by Genre</a></li>
+                                                <h3><p>More...</p></h3>
+                                                <li><a href="/browse/tv/score/userscore/90day/filtered" section="User's Best New Shows">User's Best New Shows</a></li>
+                                                <li><a href="/browse/tv/score/userscore/all/filtered" section="User's All Time Best Shows">User's All Time Best Shows</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="column platforms">
+                                            <ul>
+                                                <li class="title">Streaming:<li>
+                                                <li><a href="/feature/now-streaming-on-netflix" section="streaming;Netflix">Netflix</a></li>
+                                                <li><a href="/feature/now-streaming-on-amazon-instant-video" section="streaming;Amazon">Amazon</a></li>
+                                                <li><a href="/feature/now-streaming-on-disney-plus" section="streaming;Disney+">Disney+</a></li>
+                                                <li><a href="/feature/now-streaming-on-apple-tv-plus" section="streaming;Apple TV+">Apple TV+</a></li>
+                                                <li><a href="/feature/hulu-best-new-movies-and-shows" section="streaming;Hulu">Hulu</a></li>
+                                                <li><a href="/feature/best-new-movies-and-shows-on-hbo-go-now" section="streaming;HBO">HBO</a></li>
+                                                <li><a href="/feature/best-new-movies-and-shows-on-starz" section="streaming;Starz">Starz</a></li>
+                                                <li><a href="/feature/peacock-best-movies-tv-shows-to-watch" section="streaming;Peacock">Peacock</a></li>
+                                                <li><a href="/feature/what-to-watch-on-paramount-plus" section="streaming;Paramount">Paramount+</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="column top-five">
+                                        
+                                                                                                                                                            
+                                                                                                                                                            
+                                                                                                                                                                                <h3>Top
+        Shows
+     Right Now</h3>
+<div class="top-five" section=top_shows>
+                    
+<div class="item">
+    <a href="/tv/maya-and-the-three/season-1">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/tv/6/61bc00b3847c038857307e1d2a9b0d2d-98.jpg" alt="Maya And The Three: Season 1" />
+                                                                                    
+
+        
+<div class="metascore_w medium season positive">90</div>
+
+                                                                </div>
+
+                    <div class="product-name">
+                Maya And The Three: Season 1
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/tv/curb-your-enthusiasm/season-11">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/tv/6/f8b07f682be177c5c9d7f311a57272ef-98.jpg" alt="Curb Your Enthusiasm: Season 11" />
+                                                                                    <img src="/images/icons/mc-mustwatch-sm.svg" class="must-see-list" />
+                                                                </div>
+
+                    <div class="product-name">
+                Curb Your Enthusiasm: Season 11
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/tv/insecure/season-5">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/tv/4/e6020b92b45148cadd0589209a1fe5f5-98.jpg" alt="Insecure: Season 5" />
+                                                                                    <img src="/images/icons/mc-mustwatch-sm.svg" class="must-see-list" />
+                                                                </div>
+
+                    <div class="product-name">
+                Insecure: Season 5
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/tv/inside-job-2021/season-1">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/tv/5/d082a3d39ebde8fcb00a3bc7956b8a0e-98.jpg" alt="Inside Job (2021): Season 1" />
+                                                                                    
+
+        
+<div class="metascore_w medium season positive">67</div>
+
+                                                                </div>
+
+                    <div class="product-name">
+                Inside Job (2021): Season 1
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item last">
+    <a href="/tv/invasion-2021/season-1">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/tv/5/cf7abb556e931d38633c4e94b637f847-98.jpg" alt="Invasion (2021): Season 1" />
+                                                                                    
+
+        
+<div class="metascore_w medium season mixed">50</div>
+
+                                                                </div>
+
+                    <div class="product-name">
+                Invasion (2021): Season 1
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+    </div>
+
+                                                                            
+                                                                                                                                                            
+                                                                                
+                                        </div>
+                                    </div>
+
+                                    
+                                    <input id="tv_netflix_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="tv_netflix_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li class="back"><label for="tv_netflix_close">&lt;&lt; Back to All Streaming</label></li>
+                                                <li class="heading">Netflix</li>
+                                                <li><a href="#">New Releases</a></li>
+                                                <li><a href="#">Coming Soon</a></li>
+                                                <li><a href="#">Best Movies</a></li>
+                                                <li><a href="#">Best Movies by Genre</a></li>
+                                                <li><a href="#">Latest Trailers</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    
+
+                                    
+                                    <input id="tv_hulu_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="tv_hulu_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li class="back"><label for="tv_hulu_close">&lt;&lt; Back to All Streaming</label></li>
+                                                <li class="heading">HULU</li>
+                                                <li><a href="#">New Releases</a></li>
+                                                <li><a href="#">Coming Soon</a></li>
+                                                <li><a href="#">Best Movies</a></li>
+                                                <li><a href="#">Best Movies by Genre</a></li>
+                                                <li><a href="#">Latest Trailers</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    
+
+                                    
+                                    <input id="tv_amazon_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="tv_amazon_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li class="back"><label for="tv_amazon_close">&lt;&lt; Back to All Streaming</label></li>
+                                                <li class="heading">Amazon</li>
+                                                <li><a href="#">New Releases</a></li>
+                                                <li><a href="#">Coming Soon</a></li>
+                                                <li><a href="#">Best Movies</a></li>
+                                                <li><a href="#">Best Movies by Genre</a></li>
+                                                <li><a href="#">Latest Trailers</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    
+
+                                    
+                                    <input id="tv_apple_close" class="subtier-close" type="radio" name="subtier" index="1"/>
+                                    <input id="tv_apple_open" class="subtier-open" type="radio" name="subtier" index="1"/>
+                                    <div class="mask-section">
+                                        <div class="column subnav">
+                                            <ul>
+                                                <li class="back"><label for="tv_apple_close">&lt;&lt; Back to All Streaming</label></li>
+                                                <li class="heading">Apple TV+</li>
+                                                <li><a href="#">New Releases</a></li>
+                                                <li><a href="#">Coming Soon</a></li>
+                                                <li><a href="#">Best Movies</a></li>
+                                                <li><a href="#">Best Movies by Genre</a></li>
+                                                <li><a href="#">Latest Trailers</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    
+
+                                </div>
+                            </nav>
+
+                                        </nav>
+                                                            <nav id="primary_nav_item_music" class="primary_nav_item selected">
+                    <span class="primary_nav_text">
+                        
+                            Music
+
+                    </span>
+
+                                                    <nav class="primary_drop_down" section="header-music">
+                                <div class="column feature">
+                                                                                                                                                                
+                                            <a href="/pictures/best-albums-of-2021-at-midyear" class="feature-img-container" section="articles">
+                                                <img class="primary_feature_img" src="https://static.metacritic.com/images/features/main/midyear21_music-180.jpg" alt="The 20 Best Albums of 2021 So Far Image" />
+                                            </a>
+                                            <span class="primary_feature_text" section="articles"><a href="/pictures/best-albums-of-2021-at-midyear">The 20 Best Albums of 2021 So Far</a></span>
+                                            <a class="reports-see-all" href="/features" section="see_all_articles">See All Reports</a>
+                                                                                                            </div>
+                                <div class="column subnav">
+                                    <ul>
+                                        <li><a href="/music" section="home">Music Home >></a></li>
+                                        <li><a href="/browse/albums/release-date/new-releases/date" section="New Releases">New Releases</a></li>
+                                        <li><a href="/browse/albums/release-date/coming-soon/date" section="Coming Soon">Coming Soon</a></li>
+                                        <li><a href="/browse/albums/genre/date/rock" section="Music by Genre">Music by Genre</a></li>
+                                        <h3><p>Best...</p></h3>
+                                        <li><a href="/browse/albums/score/metascore/90day/filtered" section="New Albums">New Albums</a></li>
+                                        <li><a href="/browse/albums/score/metascore/year/filtered" section="Albums This Year">Albums This Year</a></li>
+                                        <li><a href="/browse/albums/score/metascore/all/filtered?sort=desc" section="Albums of All Time">Albums of All Time</a></li>
+                                        <h3><p>More...</p></h3>
+                                        <li><a href="/browse/albums/score/userscore/90day/filtered" section="User's Best New Albums">User's Best New Albums</a></li>
+                                        <li><a href="/browse/albums/score/userscore/all/filtered" section="User's All Time Best Albums">User's All Time Best Albums</a></li>
+                                    </ul>
+                                </div>
+                                <div class="column top-five">
+                                
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                                <h3>Top
+        Albums
+     Right Now</h3>
+<div class="top-five" section=top_music>
+                    
+<div class="item">
+    <a href="/music/the-myth-of-the-happily-ever-after/biffy-clyro">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/music/8/3f66ba56e8190a1a9f04fb37bdd986e8-98.jpg" alt="The Myth of the Happily Ever After" />
+                            
+
+        
+<div class="metascore_w medium release positive">93</div>
+
+                    </div>
+
+                    <div class="product-name">
+                The Myth of the Happily Ever After
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/music/prioritise-pleasure/self-esteem">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/music/6/704830deabe7a1d3bfb33017bd4ef87f-98.jpg" alt="Prioritise Pleasure" />
+                            
+
+        
+<div class="metascore_w medium release positive">92</div>
+
+                    </div>
+
+                    <div class="product-name">
+                Prioritise Pleasure
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/music/blue-banisters/lana-del-rey">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/music/1/b62ec388a78fb5d1aece980f357ecee4-98.jpg" alt="Blue Banisters" />
+                            
+
+        
+<div class="metascore_w medium release positive">80</div>
+
+                    </div>
+
+                    <div class="product-name">
+                Blue Banisters
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item">
+    <a href="/music/my-morning-jacket/my-morning-jacket">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/music/3/5adad57bb469050506b96fc28ffdef3a-98.jpg" alt="My Morning Jacket" />
+                            
+
+        
+<div class="metascore_w medium release positive">79</div>
+
+                    </div>
+
+                    <div class="product-name">
+                My Morning Jacket
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+                    
+<div class="item last">
+    <a href="/music/future-past/duran-duran">
+
+        <div class="img-wrap">
+            <img src="https://static.metacritic.com/images/products/music/7/05b43cb86391cc5388ad745ac091b042-98.jpg" alt="Future Past" />
+                            
+
+        
+<div class="metascore_w medium release positive">71</div>
+
+                    </div>
+
+                    <div class="product-name">
+                Future Past
+            </div>
+        
+        <div class="mid">
+                     
+        </div>
+    </a>
+</div>
+
+    </div>
+
+                                                                    
+                                                                
+                                </div>
+                            </nav>
+
+                                        </nav>
+                                                                    <div class="tracker"></div>
+        </nav>
+
+        <nav id="primary_menu_item_enter_search" class="">
+            <span class="">
+                Enter to Search
+            </span>
+        </nav>
+
+
+        
+                    <nav id="primary_menu_item_create" class="primary_nav_item">
+                <span class="primary_nav_text">
+                    <a id="signup" class="signup" href="/login">Sign In</a>
+                </span>
+            </nav>
+                
+    </nav>
+
+    <header id="primary_backdrop">
+    </header>
+</header>
+
+        </div>
+    </div>
+
+     <div id="gutters" class="site_gutters">     
+         <div id="gutters_mid" class="site_gutters">     
+             <div id="gutters_btm" class="site_gutters">     
+                 <div id="gutters_top" class="site_gutters">     
+                     <div id="container">
+
+
+
+            
+    
+
+
+<div id="col_layout" class="col_layout">
+        <div id="main_content" class="content_section full_layout">
+                <div class="layout">
+            
+            <div id="gutters" class="site_gutters">
+
+            
+            
+            
+            
+                        <div id="main" class="col main_col">
+                <div itemscope itemtype="https://schema.org/MusicAlbum">
+    <div class="product_split">
+        <div class="left" style="width:640px">
+            
+            <div class="content_head product_content_head album_content_head">
+            
+                
+        <div class="sharing " data-mc-refid="720236" data-mc-reftid="170" >
+    
+    <a class="sharing-facebook" title="Share on Facebook" rel="nofollow noopener popup:external" data-mc-social-url="https://www.metacritic.com/music/the-myth-of-the-happily-ever-after/biffy-clyro?ftag=fbsoshares" href="javascript:void(0);"><span class="fa fa-fw fa-facebook"></span></a><a class="sharing-twitter" title="Share on Twitter" rel="nofollow noopener popup:external" data-mc-social-url="https://www.metacritic.com/music/the-myth-of-the-happily-ever-after/biffy-clyro" data-mc-tweet-prefix="https://twitter.com/intent/tweet?via=metacritic&text=The%20Myth%20of%20the%20Happily%20Ever%20After%20by%20Biffy%20Clyro%20Reviews%20and%20Tracks" href="#" target="_blank"><span class="fa fa-fw fa-twitter"></span></a><a class="sharing-reddit" title="Share on Reddit" rel="nofollow noopener popup:external" data-mc-social-track-id="6" target="_blank" href="https://www.reddit.com/submit?url=https%3A%2F%2Fwww.metacritic.com%2Fmusic%2Fthe-myth-of-the-happily-ever-after%2Fbiffy-clyro%3Fftag%3Dredsoshares&title=The%20Myth%20of%20the%20Happily%20Ever%20After%20by%20Biffy%20Clyro%20Reviews%20and%20Tracks"><span class="fa fa-fw fa-reddit-alien"></span></a><a class="sharing-pinterest" title="Share on Pinterest" rel="nofollow noopener popup:external" data-mc-social-track-id="5" target="_blank" href="//pinterest.com/pin/create/link/?url=https%3A%2F%2Fwww.metacritic.com%2Fmusic%2Fthe-myth-of-the-happily-ever-after%2Fbiffy-clyro%3Fftag%3Dpinsoshares&description=The%20Myth%20of%20the%20Happily%20Ever%20After%20by%20Biffy%20Clyro%20Reviews%20and%20Tracks&media=https://static.metacritic.com/images/products/music/8/3f66ba56e8190a1a9f04fb37bdd986e8.jpg"><span class="fa fa-fw fa-pinterest"></span></a></div>
+
+    
+	<div class="product_title">
+                    <a href="/music/the-myth-of-the-happily-ever-after/biffy-clyro" class="hover_none">
+                                    <span itemprop="name">
+                                <h1>The Myth of the Happily Ever After</h1>
+                                    </span>
+                            </a>
+            </div>
+
+            <div class="product_artist" itemprop="byArtist" itemscope itemtype="https://schema.org/MusicGroup" >
+            <span class="by_separator">by </span>
+            <a href="/person/biffy-clyro" itemprop="url">
+                <span class="band_name" itemprop="name">Biffy Clyro</span>
+            </a>
+        </div>
+    
+    <div class="product_data">
+		<ul class="summary_details">
+            			<li class="summary_detail company publisher">
+				<span class="label">Record Label:</span>
+				<span class="data" itemscope itemtype="https://schema.org/Organization" itemprop="publisher">
+					<a href="/company/warner-records" itemprop="url">
+                                                    <span itemprop="name">
+                                                Warner Records
+                                                    </span>
+                                            </a>
+				</span>
+			</li>
+            			<li class="summary_detail release">
+				<span class="label">Release Date:</span>
+				<span class="data" itemprop="datePublished">Oct 22, 2021</span>
+			</li>
+		</ul>
+    </div>
+	
+</div>
+
+
+    <div class="content_nav">
+        <ul class="nav_items content_nav just4">
+                            <li class="nav nav_summary active_nav first_nav">
+                    <span class="nav_item">
+                        <span class="nav_item_wrap">
+                                                            <span class="action">Summary</span>
+                                                    </span>
+                    </span>
+                </li>
+                            <li class="nav nav_critic_reviews">
+                    <span class="nav_item">
+                        <span class="nav_item_wrap">
+                                                            <a class="action" href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/critic-reviews">Critic Reviews</a>
+                                                    </span>
+                    </span>
+                </li>
+                            <li class="nav nav_user_reviews">
+                    <span class="nav_item">
+                        <span class="nav_item_wrap">
+                                                            <a class="action" href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/user-reviews">User Reviews</a>
+                                                    </span>
+                    </span>
+                </li>
+                            <li class="nav nav_details last_nav">
+                    <span class="nav_item">
+                        <span class="nav_item_wrap">
+                                                            <a class="action" href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/details">Details &amp; Credits</a>
+                                                    </span>
+                    </span>
+                </li>
+                    </ul>
+    </div>
+
+
+
+
+            
+                
+<div class="module product_data product_data_summary">
+    <div class="module_wrap has_image has_large_image">
+                    <div class="product_media large_media">
+                <div class="product_image large_image">
+                    <meta itemprop="image" content="https://static.metacritic.com/images/products/music/8/3f66ba56e8190a1a9f04fb37bdd986e8.jpg">                    <img class="product_image large_image" src="https://static.metacritic.com/images/products/music/8/3f66ba56e8190a1a9f04fb37bdd986e8-98.jpg" alt="The Myth of the Happily Ever After Image"/>
+                                    </div>
+                            </div>
+                <div class="summary_wrap">
+            
+            
+            <div class="section product_scores">
+                    <div class="details main_details">
+                            
+<div class="score_summary metascore_summary">
+    <div class="metascore_wrap highlight_metascore" itemtype="https://schema.org/AggregateRating" itemscope itemprop="aggregateRating">
+        <div class="label">Metascore</div>
+                    
+            
+
+        
+    <a class="metascore_anchor" href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/critic-reviews">
+<div class="metascore_w xlarge album positive"><meta itemprop="worstRating" content="0"><meta itemprop="bestRating" content="100"><span itemprop="ratingValue">93</span></div>
+    </a>
+
+
+            
+                <div class="summary">
+            <p>
+                <span class="desc">
+                                            Universal acclaim
+                                    </span>
+						<span class="count">
+				<span class="separator"> - </span>
+                <span class="based">based on</span>
+									<a href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/critic-reviews">
+                                                    <span itemprop="reviewCount">
+                                6
+                            </span> Critic Reviews                                            </a>
+							</span>
+			                                <span class="help"><a href="/about-metascores">What's this?</a></span>            </p>
+        </div>
+    </div>
+</div>
+
+    </div>
+            <div class="details side_details">
+                                                                            
+    <div class="score_summary">
+    <div class="userscore_wrap feature_userscore">
+        <div class="label">User Score</div>
+                
+    <a class="metascore_anchor" href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/user-reviews">
+<div class="metascore_w user large album positive">8.2</div>
+    </a>
+
+
+        
+        <div class="summary">
+            <p><span class="desc">Universal acclaim</span><span class="count"><span class="separator">- </span><span class="based">based on</span> <a href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/user-reviews">19 Ratings</a></span></p>
+        </div>
+    </div>
+</div>
+                                                                
+                                        
+                    <div class="score_summary yourscore_summary {'review_id': '0', 'request_url': '/jl/rate/set-rating?product_type=album&title=The+Myth+of+the+Happily+Ever+After&release_date=2021-10-22+00%3A00%3A00&ref_type_id=470&ref_id=41138'} "  >
+    <div class="yourscore_wrap">
+        <div class="label label_album">Your Score</div>
+        <div class="data yourscore">
+            <span class="score_value">0</span>
+            <span class="score_total">out of 10</span>
+        </div>
+        <div class="summary feedback has_feedback">
+                    <p class="rating_error"></p>
+                    </div>
+
+    
+        <div class="rating_picker rating_picker_album">
+                    <div class="rating_picker_std">
+                <div class="rating_label">Rate this:</div>
+                <ul class="rating_actions rating_values  ">
+                <input type="hidden" name="csrf" value="72c6df03a2dbef9b65cfa656188881a6" />
+                                    <li class="rating_value_item rating_value_100">
+                        <div class="rating_action  rating_action_100 "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=10&ref_type_id=470&ref_id=41138"
+                                                      title="Rate 10 out of 10">
+                                <span class="rating_value">10</span>
+                        </div>
+                    </li>
+                                    <li class="rating_value_item rating_value_90">
+                        <div class="rating_action  rating_action_90 "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=9&ref_type_id=470&ref_id=41138"
+                                                      title="Rate 9 out of 10">
+                                <span class="rating_value">9</span>
+                        </div>
+                    </li>
+                                    <li class="rating_value_item rating_value_80">
+                        <div class="rating_action  rating_action_80 "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=8&ref_type_id=470&ref_id=41138"
+                                                      title="Rate 8 out of 10">
+                                <span class="rating_value">8</span>
+                        </div>
+                    </li>
+                                    <li class="rating_value_item rating_value_70">
+                        <div class="rating_action  rating_action_70 "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=7&ref_type_id=470&ref_id=41138"
+                                                      title="Rate 7 out of 10">
+                                <span class="rating_value">7</span>
+                        </div>
+                    </li>
+                                    <li class="rating_value_item rating_value_60">
+                        <div class="rating_action  rating_action_60 "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=6&ref_type_id=470&ref_id=41138"
+                                                      title="Rate 6 out of 10">
+                                <span class="rating_value">6</span>
+                        </div>
+                    </li>
+                                    <li class="rating_value_item rating_value_50">
+                        <div class="rating_action  rating_action_50 "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=5&ref_type_id=470&ref_id=41138"
+                                                      title="Rate 5 out of 10">
+                                <span class="rating_value">5</span>
+                        </div>
+                    </li>
+                                    <li class="rating_value_item rating_value_40">
+                        <div class="rating_action  rating_action_40 "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=4&ref_type_id=470&ref_id=41138"
+                                                      title="Rate 4 out of 10">
+                                <span class="rating_value">4</span>
+                        </div>
+                    </li>
+                                    <li class="rating_value_item rating_value_30">
+                        <div class="rating_action  rating_action_30 "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=3&ref_type_id=470&ref_id=41138"
+                                                      title="Rate 3 out of 10">
+                                <span class="rating_value">3</span>
+                        </div>
+                    </li>
+                                    <li class="rating_value_item rating_value_20">
+                        <div class="rating_action  rating_action_20 "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=2&ref_type_id=470&ref_id=41138"
+                                                      title="Rate 2 out of 10">
+                                <span class="rating_value">2</span>
+                        </div>
+                    </li>
+                                    <li class="rating_value_item rating_value_10">
+                        <div class="rating_action  rating_action_10 "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=1&ref_type_id=470&ref_id=41138"
+                                                      title="Rate 1 out of 10">
+                                <span class="rating_value">1</span>
+                        </div>
+                    </li>
+                                    <li class="rating_value_item rating_value_0">
+                        <div class="rating_action  rating_action_0 "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=0&ref_type_id=470&ref_id=41138"
+                                                      title="Rate 0 out of 10">
+                                <span class="rating_value">0</span>
+                        </div>
+                    </li>
+                                    <li class="rating_value_item rating_value_delete">
+                        <div class="rating_action  rating_action_delete "
+                           rel="nofollow"
+                                                          data-rateref="/jl/rate/set-rating?score=-1&ref_type_id=470&ref_id=41138"
+                                                      title="Delete rating">
+                                <span class="rating_value">0</span>
+                        </div>
+                    </li>
+                                </ul>
+            </div>
+
+        
+            <div class="rating_values  scale disabled">
+                <div class="status"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    
+<div class="rating_signin_tmpl">
+    <div class="message">
+        Log in to finish rating <span class="product_name">The Myth of the Happily Ever After</span>
+    </div>
+
+    <div class="product_data">
+        <div class="product_media">
+            <div class="product_image large_image">
+                <img class="product_image large_image" src="https://static.metacritic.com/images/products/music/8/3f66ba56e8190a1a9f04fb37bdd986e8-98.jpg"
+                     alt="The Myth of the Happily Ever After Image" />
+            </div>
+        </div>
+        <div class="yourscore_login_wrapper">
+            <div class="product_name_wrapper">
+                <span class="product_name">The Myth of the Happily Ever After</span>
+            </div>
+            <div class="score_summary yourscore_login">
+                <div class="protector"></div>
+                <div class="yourscore_wrap">
+                    <div class="label label_album">Your Score</div>
+                    <div class="data yourscore">
+                        <span class="score_value">0</span>
+                        <span class="score_total">out of 10</span>
+                    </div>
+                    <div class="summary feedback">
+                    </div>
+
+                    
+                    <div class="rating_picker rating_picker_album">
+                        <input type="hidden" name="review_score" value="0"/>
+
+                        <div class="rating_picker_std">
+                            <div class="rating_label">Rate this:</div>
+                            <ul class="rating_actions rating_values  ">
+                                <input type="hidden" name="csrf" value="72c6df03a2dbef9b65cfa656188881a6" />
+                                                                    <li class="rating_value_item rating_value_100">
+                                        <div class="rating_action  rating_action_100 "
+                                           rel="nofollow"
+                                           title="Rate 10 out of 10"
+                                           data-rateref="/jl/rate/set-rating?score=10&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">10</span>
+                                        </div>
+                                    </li>
+                                                                    <li class="rating_value_item rating_value_90">
+                                        <div class="rating_action  rating_action_90 "
+                                           rel="nofollow"
+                                           title="Rate 9 out of 10"
+                                           data-rateref="/jl/rate/set-rating?score=9&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">9</span>
+                                        </div>
+                                    </li>
+                                                                    <li class="rating_value_item rating_value_80">
+                                        <div class="rating_action  rating_action_80 "
+                                           rel="nofollow"
+                                           title="Rate 8 out of 10"
+                                           data-rateref="/jl/rate/set-rating?score=8&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">8</span>
+                                        </div>
+                                    </li>
+                                                                    <li class="rating_value_item rating_value_70">
+                                        <div class="rating_action  rating_action_70 "
+                                           rel="nofollow"
+                                           title="Rate 7 out of 10"
+                                           data-rateref="/jl/rate/set-rating?score=7&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">7</span>
+                                        </div>
+                                    </li>
+                                                                    <li class="rating_value_item rating_value_60">
+                                        <div class="rating_action  rating_action_60 "
+                                           rel="nofollow"
+                                           title="Rate 6 out of 10"
+                                           data-rateref="/jl/rate/set-rating?score=6&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">6</span>
+                                        </div>
+                                    </li>
+                                                                    <li class="rating_value_item rating_value_50">
+                                        <div class="rating_action  rating_action_50 "
+                                           rel="nofollow"
+                                           title="Rate 5 out of 10"
+                                           data-rateref="/jl/rate/set-rating?score=5&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">5</span>
+                                        </div>
+                                    </li>
+                                                                    <li class="rating_value_item rating_value_40">
+                                        <div class="rating_action  rating_action_40 "
+                                           rel="nofollow"
+                                           title="Rate 4 out of 10"
+                                           data-rateref="/jl/rate/set-rating?score=4&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">4</span>
+                                        </div>
+                                    </li>
+                                                                    <li class="rating_value_item rating_value_30">
+                                        <div class="rating_action  rating_action_30 "
+                                           rel="nofollow"
+                                           title="Rate 3 out of 10"
+                                           data-rateref="/jl/rate/set-rating?score=3&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">3</span>
+                                        </div>
+                                    </li>
+                                                                    <li class="rating_value_item rating_value_20">
+                                        <div class="rating_action  rating_action_20 "
+                                           rel="nofollow"
+                                           title="Rate 2 out of 10"
+                                           data-rateref="/jl/rate/set-rating?score=2&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">2</span>
+                                        </div>
+                                    </li>
+                                                                    <li class="rating_value_item rating_value_10">
+                                        <div class="rating_action  rating_action_10 "
+                                           rel="nofollow"
+                                           title="Rate 1 out of 10"
+                                           data-rateref="/jl/rate/set-rating?score=1&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">1</span>
+                                        </div>
+                                    </li>
+                                                                    <li class="rating_value_item rating_value_0">
+                                        <div class="rating_action  rating_action_0 "
+                                           rel="nofollow"
+                                           title="Rate 0 out of 10"
+                                           data-rateref="/jl/rate/set-rating?score=0&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">0</span>
+                                        </div>
+                                    </li>
+                                                                    <li class="rating_value_item rating_value_delete">
+                                        <div class="rating_action  rating_action_delete "
+                                           rel="nofollow"
+                                           title="Delete rating"
+                                           data-rateref="/jl/rate/set-rating?score=-1&ref_type_id=470&ref_id=41138"
+                                           >
+                                            <span class="rating_value">                                                0</span>
+                                        </div>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <div class="score_details userscore_details">
+                        <div class="score_summary">
+    <div class="userscore_wrap feature_userscore">
+        <div class="label">User Score</div>
+                
+<div class="metascore_w user large album positive">8.2</div>
+
+
+        
+        <div class="summary">
+            <p><span class="desc">Universal acclaim</span><span class="count"><span class="separator">- </span><span class="based">based on</span> <strong>19 Ratings</strong></span></p>
+        </div>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="clr"></div>
+    </div>
+
+    <div class="login_wrapper" data-fbenabled="1">
+    </div>
+    <div class="after_login">
+        <div class="after_message">Would you like to write a review?</div>
+        <div class="login_success">
+            <input class="BUTTON bigger" type="button" name="review" value="Write a Review" data-href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/user-reviews"/>
+            <input class="BUTTON bigger gray" type="button" name="close" value="Close"/>
+            <hr />
+                                                            
+                                                                                                <div>
+                    <div class="share_message">Share this?</div>
+                    
+
+<div class="inline_social product_social">
+    
+            <div class="inline_social_button">
+            <a href="https://twitter.com/share" class="twitter-share-button"
+                   data-count="horizontal"
+                   data-via="metacritic"
+                   data-url="https://www.metacritic.com/music/the-myth-of-the-happily-ever-after/biffy-clyro"
+                   data-counturl="https://www.metacritic.com/music/the-myth-of-the-happily-ever-after/biffy-clyro">
+                <img src="/images/buttons/twitter_inline.png" alt="Share this on Twitter"/>
+            </a>
+        </div>
+                <div class="inline_social_button facebook_sharing">
+        <noscript>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.metacritic.com/music/the-myth-of-the-happily-ever-after/biffy-clyro&t=The Myth of the Happily Ever After by Biffy Clyro Reviews and Tracks" rel="nofollow popup:external">
+                <img src="/images/buttons/facebook_inline.png" alt="Share this on Facebook" rel="nofollow" />
+            </a>
+        </noscript>
+        <fb:like href="https://www.metacritic.com/music/the-myth-of-the-happily-ever-after/biffy-clyro" send="false" layout="button_count" width="100" show_faces="false" font=""></fb:like>
+        </div>
+    </div>
+
+                <div style="clear: both;"></div>
+                </div>
+                    </div>
+    </div>
+    <div style="clear:both;"></div>
+</div>
+
+                                                        </div>
+    
+            </div>
+                            <div class="section product_details">
+                    <div class="details main_details">
+    <ul class="summary_details">
+                            <li class="summary_detail product_summary">
+                <span class="label">Summary:</span>
+                <span class="data">
+                                            
+                                                                                                        <span itemprop="description">The latest full-length release for the Scottish alternative rock band was produced with Adam Noble.</span>
+                </span>
+            </li>
+            </ul>
+    <div class="mt30 mb30">
+        
+			<div id="tonefuse_creative_wrapper">
+		<script>
+        
+        cbsoptanon.onAdsReady(function(cmp, options) {
+            cmp.ot.targetingAllowed(function(allowed) {
+                if (allowed){
+                                            /* TFP - Metacritic - Music */
+                        (function() {
+                            var opts = {
+                                artist: "Biffy Clyro",
+                                song: "The Myth of the Happily Ever After",
+                                adunit_id: 100000214,
+                                div_id: "cf_async_" + Math.floor((Math.random() * 999999999))
+                            };
+                            var tonefuse_wrapper = document.getElementById("tonefuse_creative_wrapper");
+                            var tonefuse_div = document.createElement("div");
+                            tonefuse_div.setAttribute("id", opts.div_id);
+                            tonefuse_wrapper.appendChild(tonefuse_div);
+                            var c=function(){cf.showAsyncAd(opts)};if(typeof window.cf !== 'undefined')c();else{cf_async=!0;var r=document.createElement("script"),s=document.getElementsByTagName("script")[0];r.async=!0;r.src="//srv.clickfuse.com/showads/showad.js";r.readyState?r.onreadystatechange=function(){if("loaded"==r.readyState||"complete"==r.readyState)r.onreadystatechange=null,c()}:r.onload=c;s.parentNode.insertBefore(r,s)};
+                        })();
+                                    }
+            });
+        });
+        
+		</script>
+		</div>
+	
+    </div>
+            <div class="title_bump pad_btm1 oswald"><div class="section_title">Buy Now</div></div><div class="esite_list"><div class="esite_items clearfix list_expand_wrapper">
+    
+        
+    <div class="esite_btn_wrapper">
+        <div class="esite_btn esite_amazon esite_amazonbuy" title="Buy Now on Amazon">
+            <table>
+                <tr>
+                    <td class="esite_label_wrapper">
+                        <span>Buy on</span>
+                    </td>	 
+                    <td class="esite_img_wrapper">
+                        <a rel="nofollow noopener" target="_blank" class="esite_url" href="https://www.amazon.com/dp/B09FC7J8NZ?tag=metacritic-music-20&linkCode=osi&th=1&psc=1"
+                            data-leadtype="Digital Product" data-leadtag="" data-leadid="7" data-leadname="amazon" data-leadplace="upper body"
+                                                    >
+                            <img src="/images/buttons/esites/amazondotcom_30.png" alt="">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div></div>
+    </div>
+<div class="details side_details">
+    <ul class="summary_details">
+                    <li class="summary_detail product_company">
+                <span class="label">Record Label:</span>
+                <span class="data">Warner Records</span>
+            </li>
+                                            <li class="summary_detail product_genre"><span class="label">Genre(s): </span><span class="data" itemprop="genre">Pop/Rock</span>                                    </li>
+                                            
+                    <li class="summary_detail more">
+                <a href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/details">More Details and Credits &raquo;</a>
+            </li>
+            </ul>
+</div>
+
+                </div>
+                    </div>
+    </div>
+</div>
+
+
+                    </div>
+        <div class="right" style="width:300px">
+                
+        <div id="mpu_plus_top" class="ad_unit">
+
+            <script type="text/javascript">
+            
+                            pushToDisplay('mpu_plus_top', null, 'top', false, null, false);
+                    </script>
+    
+    </div>
+    
+            </div>
+    </div>
+
+    <div id="superleader" class="leader clr">    
+            <div id="leader_top_wrapper" class="ad_height_min">
+        <div id="leader_plus_top" class="ad_unit">
+
+            <script type="text/javascript">
+            
+                            pushToDisplay('leader_plus_top', null, 'top', false, null, false);
+                    </script>
+    
+    </div>
+    
+            </div>
+    </div>
+
+    <div class="product_split">
+        <div class="left" style="width:640px">
+            
+            <div class="module critic_user_reviews">
+    <div class="critic_user_reviews_wrap">
+        
+        
+        <div class="module reviews_module critic_reviews_module">
+                    
+                                                    
+            <div class="head head_type_1"><div class="head_wrap"><h2 class="module_title"><a href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/critic-reviews">Critic Reviews</a></h2></div></div>
+<div class="body">
+                                <div class="score_distribution">
+    <div class="distribution_wrap">
+        <div class="distribution_title">Score distribution:</div>
+        <ol class="score_counts hover_none">
+                        <li class="score_count">
+                <div class="count_wrap">
+                    <span class="label">Positive:</span>
+                    <span class="data">
+                        <a href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/critic-reviews?dist=positive">                            <span class="total" style="width:100%;">
+                                <span class="count">6</span>
+                                <span class="distribution positive"> out of 6</span>
+                            </span>
+                        </a>                    </span>
+                </div>
+            </li>
+                        <li class="score_count">
+                <div class="count_wrap">
+                    <span class="label">Mixed:</span>
+                    <span class="data">
+                                                    <span class="total zero_total" style="width:0%;">
+                                <span class="count">0</span>
+                                <span class="distribution mixed"> out of 6</span>
+                            </span>
+                                            </span>
+                </div>
+            </li>
+                        <li class="score_count">
+                <div class="count_wrap">
+                    <span class="label">Negative:</span>
+                    <span class="data">
+                                                    <span class="total zero_total" style="width:0%;">
+                                <span class="count">0</span>
+                                <span class="distribution negative"> out of 6</span>
+                            </span>
+                                            </span>
+                </div>
+            </li>
+                    </ol>
+		    </div>
+</div>
+
+                            <ol class="reviews critic_reviews">            <li class="review critic_review first_review">
+                <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                    <div class="review_content">
+                        <div class="review_section">
+                            <div class="review_stats">
+                                                                
+                                
+                                <div class="review_critic"><div class="source"><a rel="popup:external" class="external" href="https://www.kerrang.com/reviews/album-review-biffy-clyro-the-myth-of-the-happily-ever-after/">Kerrang!</a></div><div class="date">Oct 21, 2021</div></div>
+                                
+                                <div class="review_grade">
+                                    
+
+        
+<div class="metascore_w medium album positive indiv perfect">100</div>
+
+                                </div>
+                            </div>
+                            <div class="review_body">
+                                Deconstructive, deliberate and exquisitely designed, The Myth Of The Happily Ever After is the sound of a world-class band making truly world-class music. The only thing more exciting than every bar of its 11 songs is the promise of where Biffy Clyro might go next.
+                            </div>
+                        </div>
+                                                    <div class="review_section review_actions">
+                                                                                                            
+                                                                                                                                                                                <ul class="review_actions">
+                                        <li class="review_action author_reviews"><a href="/publication/kerrang!?filter=albums">All this publication's reviews</a></li>
+                                        <li class="review_action full_review"><a rel="popup:external" class="external" href="https://www.kerrang.com/reviews/album-review-biffy-clyro-the-myth-of-the-happily-ever-after/">Read full review<i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                    </ul>
+                                                            </div>
+                                            </div>
+                </div></div></div></div>
+            </li>
+                                                        <li class="review critic_review">
+                <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                    <div class="review_content">
+                        <div class="review_section">
+                            <div class="review_stats">
+                                                                
+                                
+                                <div class="review_critic"><div class="source"><a rel="popup:external" class="external" href="https://diymag.com/2021/10/20/biffy-clyro-the-myth-of-the-happily-ever-after-album-review">DIY Magazine</a></div><div class="date">Oct 21, 2021</div></div>
+                                
+                                <div class="review_grade">
+                                    
+
+        
+<div class="metascore_w medium album positive indiv">90</div>
+
+                                </div>
+                            </div>
+                            <div class="review_body">
+                                Life is too short to waste time. ‘The Myth…’ expands from this vital message, allowing the record to emerge as Biffy Clyro’s most emotionally powerful in years.
+                            </div>
+                        </div>
+                                                    <div class="review_section review_actions">
+                                                                                                            
+                                                                                                                                                                                <ul class="review_actions">
+                                        <li class="review_action author_reviews"><a href="/publication/diy-magazine?filter=albums">All this publication's reviews</a></li>
+                                        <li class="review_action full_review"><a rel="popup:external" class="external" href="https://diymag.com/2021/10/20/biffy-clyro-the-myth-of-the-happily-ever-after-album-review">Read full review<i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                    </ul>
+                                                            </div>
+                                            </div>
+                </div></div></div></div>
+            </li>
+                                                        <li class="review critic_review">
+                <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                    <div class="review_content">
+                        <div class="review_section">
+                            <div class="review_stats">
+                                                                
+                                
+                                <div class="review_critic"><div class="source"><a rel="popup:external" class="external" href="https://www.loudersound.com/reviews/biffy-clyros-the-myth-of-happily-ever-after-glorious-instantly-recognisable-weirdness">Classic Rock Magazine</a></div><div class="date">Oct 21, 2021</div></div>
+                                
+                                <div class="review_grade">
+                                    
+
+        
+<div class="metascore_w medium album positive indiv">90</div>
+
+                                </div>
+                            </div>
+                            <div class="review_body">
+                                Beautiful in style and intent, The Myth Of The Happily Ever After has magic written into every note. [Nov 2021, p.70]
+                            </div>
+                        </div>
+                                                    <div class="review_section review_actions">
+                                                                                                            
+                                                                                                                                                                                <ul class="review_actions">
+                                        <li class="review_action author_reviews"><a href="/publication/classic-rock-magazine?filter=albums">All this publication's reviews</a></li>
+                                        <li class="review_action full_review"><a rel="popup:external" class="external" href="https://www.loudersound.com/reviews/biffy-clyros-the-myth-of-happily-ever-after-glorious-instantly-recognisable-weirdness">Read full review<i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                    </ul>
+                                                            </div>
+                                            </div>
+                </div></div></div></div>
+            </li>
+                                                        <li class="review critic_review">
+                <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                    <div class="review_content">
+                        <div class="review_section">
+                            <div class="review_stats">
+                                                                
+                                
+                                <div class="review_critic"><div class="source"><a rel="popup:external" class="external" href="https://www.sputnikmusic.com/review/83972/Biffy-Clyro-The-Myth-of-the-Happily-Ever-After/">Sputnikmusic</a></div><div class="date">Oct 25, 2021</div></div>
+                                
+                                <div class="review_grade">
+                                    
+
+        
+<div class="metascore_w medium album positive indiv">90</div>
+
+                                </div>
+                            </div>
+                            <div class="review_body">
+                                The Myth of the Happily Ever After serves as an excellent and shockingly ambitious outing from a band that seemed to be trending in all the wrong directions not long ago. With this album, they’ve reclaimed control of their story.
+                            </div>
+                        </div>
+                                                    <div class="review_section review_actions">
+                                                                                                            
+                                                                                                                                                                                <ul class="review_actions">
+                                        <li class="review_action author_reviews"><a href="/publication/sputnikmusic?filter=albums">All this publication's reviews</a></li>
+                                        <li class="review_action full_review"><a rel="popup:external" class="external" href="https://www.sputnikmusic.com/review/83972/Biffy-Clyro-The-Myth-of-the-Happily-Ever-After/">Read full review<i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                    </ul>
+                                                            </div>
+                                            </div>
+                </div></div></div></div>
+            </li>
+                                                        <li class="review critic_review">
+                <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                    <div class="review_content">
+                        <div class="review_section">
+                            <div class="review_stats">
+                                                                
+                                
+                                <div class="review_critic"><div class="source"><a rel="popup:external" class="external" href="https://www.nme.com/reviews/album/biffy-clyro-the-myth-of-the-happily-ever-after-3074161">New Musical Express (NME)</a></div><div class="date">Oct 21, 2021</div></div>
+                                
+                                <div class="review_grade">
+                                    
+
+        
+<div class="metascore_w medium album positive indiv">80</div>
+
+                                </div>
+                            </div>
+                            <div class="review_body">
+                                Yes, ‘The Myth Of The Happily Ever After’ outshine its predecessor, but it could also – ironically – be the most cohesive Biffy album to date.
+                            </div>
+                        </div>
+                                                    <div class="review_section review_actions">
+                                                                                                            
+                                                                                                                                                                                <ul class="review_actions">
+                                        <li class="review_action author_reviews"><a href="/publication/new-musical-express-nme?filter=albums">All this publication's reviews</a></li>
+                                        <li class="review_action full_review"><a rel="popup:external" class="external" href="https://www.nme.com/reviews/album/biffy-clyro-the-myth-of-the-happily-ever-after-3074161">Read full review<i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                    </ul>
+                                                            </div>
+                                            </div>
+                </div></div></div></div>
+            </li>
+                                                        <li class="review critic_review last_review">
+                <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                    <div class="review_content">
+                        <div class="review_section">
+                            <div class="review_stats">
+                                                                
+                                
+                                <div class="review_critic"><div class="source"><a rel="popup:external" class="external" href="https://www.clashmusic.com/reviews/biffy-clyro-the-myth-of-the-happily-ever-after">Clash Music</a></div><div class="date">Oct 22, 2021</div></div>
+                                
+                                <div class="review_grade">
+                                    
+
+        
+<div class="metascore_w medium album positive indiv">80</div>
+
+                                </div>
+                            </div>
+                            <div class="review_body">
+                                It’s an exercise in catharsis, providing an accurate snapshot into the minds and mentality of the band certainly, but also the general public of the last year and a half.
+                            </div>
+                        </div>
+                                                    <div class="review_section review_actions">
+                                                                                                            
+                                                                                                                                                                                <ul class="review_actions">
+                                        <li class="review_action author_reviews"><a href="/publication/clash-music?filter=albums">All this publication's reviews</a></li>
+                                        <li class="review_action full_review"><a rel="popup:external" class="external" href="https://www.clashmusic.com/reviews/biffy-clyro-the-myth-of-the-happily-ever-after">Read full review<i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                    </ul>
+                                                            </div>
+                                            </div>
+                </div></div></div></div>
+            </li>
+                                        </ol>
+                        </div>
+
+    
+    
+                        
+    </div>
+            <div class="module reviews_module user_reviews_module">
+    <div class="head head_type_1"><div class="head_wrap"><h2 class="module_title"><a href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/user-reviews">User Reviews</a></h2></div></div>
+            <div class="write_review"><a class="write_review" href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/user-reviews"><span>Write a Review</span></a></div>
+        <div class="body">
+                                            <div class="score_distribution">
+    <div class="distribution_wrap">
+        <div class="distribution_title">Score distribution:</div>
+        <ol class="score_counts hover_none">
+                        <li class="score_count">
+                <div class="count_wrap">
+                    <span class="label">Positive:</span>
+                    <span class="data">
+                        <a href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/user-reviews?dist=positive">                            <span class="total" style="width:100%;">
+                                <span class="count">5</span>
+                                <span class="distribution positive"> out of 7</span>
+                            </span>
+                        </a>                    </span>
+                </div>
+            </li>
+                        <li class="score_count">
+                <div class="count_wrap">
+                    <span class="label">Mixed:</span>
+                    <span class="data">
+                        <a href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/user-reviews?dist=neutral">                            <span class="total" style="width:20%;">
+                                <span class="count">1</span>
+                                <span class="distribution mixed"> out of 7</span>
+                            </span>
+                        </a>                    </span>
+                </div>
+            </li>
+                        <li class="score_count">
+                <div class="count_wrap">
+                    <span class="label">Negative:</span>
+                    <span class="data">
+                        <a href="/music/the-myth-of-the-happily-ever-after/biffy-clyro/user-reviews?dist=negative">                            <span class="total" style="width:20%;">
+                                <span class="count">1</span>
+                                <span class="distribution negative"> out of 7</span>
+                            </span>
+                        </a>                    </span>
+                </div>
+            </li>
+                    </ol>
+		    </div>
+</div>
+
+                                                <ol class="reviews user_reviews">
+                                                            <li id="user_review_14457283" class="review user_review first_review">
+                    <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                        <div class="review_content" >
+                            <div class="review_section">
+                                <div class="review_stats">
+                                    <div class="review_critic">
+                                        <div class="name">
+                                                                                            <a href="/user/peo">peo</a>
+                                                                                                                                </div>
+
+                                                                                    <div class="date">Oct 22, 2021</div>
+                                                                            </div>
+                                    
+                                    <div class="review_grade">
+                                                
+<div class="metascore_w user medium album positive indiv perfect">10</div>
+
+                                    </div>
+                                </div>
+                                <div class="review_body">
+                                                        
+                                        <span class="inline_expand_collapse inline_collapsed" id="review_blurb_14457283"><span class="blurb blurb_collapsed">a very unpredictable gem ,the first listen was strange but little by little it has been winning over time.<br/>Not their best , but definitely up</span><span class="blurb blurb_expanded">a very unpredictable gem ,the first listen was strange but little by little it has been winning over time.<br/>Not their best , but definitely up there with their magnum opus</span><span class="blurb_etc">&hellip;</span> <span class="toggle_expand_collapse toggle_expand">Expand</span></span>
+            </div>
+
+                            </div>
+                                                        <div class="review_section review_actions helpful_right">
+                                <ul class="review_actions">
+                                                                            <li class="review_action review_helpful">
+                                            <div class="review_helpful">
+    <div class="rating_thumbs">
+        			<div class="helpful_summary thumb_count">
+				<a href="/login">
+				<span class="total_ups">0</span>
+				of 
+				<span class="total_thumbs">0</span>
+				users found this helpful
+                </a>
+			</div>
+                <div style="clear:both;"></div>
+    </div>
+</div>
+                                        </li>
+                                                                                                                                            </ul>
+                            </div>
+                            
+                                                    </div>
+                    </div></div></div></div>
+                </li>
+                                                                                    <li id="user_review_14459924" class="review user_review">
+                    <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                        <div class="review_content" >
+                            <div class="review_section">
+                                <div class="review_stats">
+                                    <div class="review_critic">
+                                        <div class="name">
+                                                                                            <a href="/user/fdoayala">fdoayala</a>
+                                                                                                                                </div>
+
+                                                                                    <div class="date">Oct 23, 2021</div>
+                                                                            </div>
+                                    
+                                    <div class="review_grade">
+                                                
+<div class="metascore_w user medium album positive indiv perfect">10</div>
+
+                                    </div>
+                                </div>
+                                <div class="review_body">
+                                                        
+                                        <span class="inline_expand_collapse inline_collapsed" id="review_blurb_14459924"><span class="blurb blurb_collapsed">Un disco consistente que nos entrega maravillas de principio a fin.<br/>A mi en lo particular me encantó! Considero que todos los arreglos</span><span class="blurb blurb_expanded">Un disco consistente que nos entrega maravillas de principio a fin.<br/>A mi en lo particular me encantó! Considero que todos los arreglos funcionan impecables. Para mi es un sólido 10/10</span><span class="blurb_etc">&hellip;</span> <span class="toggle_expand_collapse toggle_expand">Expand</span></span>
+            </div>
+
+                            </div>
+                                                        <div class="review_section review_actions helpful_right">
+                                <ul class="review_actions">
+                                                                            <li class="review_action review_helpful">
+                                            <div class="review_helpful">
+    <div class="rating_thumbs">
+        			<div class="helpful_summary thumb_count">
+				<a href="/login">
+				<span class="total_ups">0</span>
+				of 
+				<span class="total_thumbs">0</span>
+				users found this helpful
+                </a>
+			</div>
+                <div style="clear:both;"></div>
+    </div>
+</div>
+                                        </li>
+                                                                                                                                            </ul>
+                            </div>
+                            
+                                                    </div>
+                    </div></div></div></div>
+                </li>
+                                        
+        <li id="native_top" class="ad_unit review">
+
+            <script type="text/javascript">
+            
+                            pushToDisplay('native_top', null, 'top', false, '05786b87'), false;
+                    </script>
+    
+    </li>
+    
+                                                                                        <li id="user_review_14456236" class="review user_review">
+                    <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                        <div class="review_content" >
+                            <div class="review_section">
+                                <div class="review_stats">
+                                    <div class="review_critic">
+                                        <div class="name">
+                                                                                            <a href="/user/gimo80">gimo80</a>
+                                                                                                                                </div>
+
+                                                                                    <div class="date">Oct 22, 2021</div>
+                                                                            </div>
+                                    
+                                    <div class="review_grade">
+                                                
+<div class="metascore_w user medium album positive indiv perfect">10</div>
+
+                                    </div>
+                                </div>
+                                <div class="review_body">
+                                                        
+                                        <span class="inline_expand_collapse inline_collapsed" id="review_blurb_14456236"><span class="blurb blurb_collapsed">Stunning record. Visceral, raw and completely unpredictable - this is Biffy at their peak. Reminds me of Puzzle at times...which means it's</span><span class="blurb blurb_expanded">Stunning record. Visceral, raw and completely unpredictable - this is Biffy at their peak. Reminds me of Puzzle at times...which means it's phenomenal.</span><span class="blurb_etc">&hellip;</span> <span class="toggle_expand_collapse toggle_expand">Expand</span></span>
+            </div>
+
+                            </div>
+                                                        <div class="review_section review_actions helpful_right">
+                                <ul class="review_actions">
+                                                                            <li class="review_action review_helpful">
+                                            <div class="review_helpful">
+    <div class="rating_thumbs">
+        			<div class="helpful_summary thumb_count">
+				<a href="/login">
+				<span class="total_ups">1</span>
+				of 
+				<span class="total_thumbs">1</span>
+				users found this helpful
+                </a>
+			</div>
+                <div style="clear:both;"></div>
+    </div>
+</div>
+                                        </li>
+                                                                                                                                            </ul>
+                            </div>
+                            
+                                                    </div>
+                    </div></div></div></div>
+                </li>
+                                                                                    <li id="user_review_14458113" class="review user_review">
+                    <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                        <div class="review_content" >
+                            <div class="review_section">
+                                <div class="review_stats">
+                                    <div class="review_critic">
+                                        <div class="name">
+                                                                                            <a href="/user/scootz">scootz</a>
+                                                                                                                                </div>
+
+                                                                                    <div class="date">Oct 22, 2021</div>
+                                                                            </div>
+                                    
+                                    <div class="review_grade">
+                                                
+<div class="metascore_w user medium album positive indiv">9</div>
+
+                                    </div>
+                                </div>
+                                <div class="review_body">
+                                                        
+                                        <span class="inline_expand_collapse inline_collapsed" id="review_blurb_14458113"><span class="blurb blurb_collapsed">With a band as prolific as Biffy Clyro you’d expect to encounter some stinkers in their album catalogue.  Well, guess what… !?  Yup. They’ve</span><span class="blurb blurb_expanded">With a band as prolific as Biffy Clyro you’d expect to encounter some stinkers in their album catalogue.  Well, guess what… !?  Yup. They’ve only gone and put out yet another glorious piece of work!  9/10</span><span class="blurb_etc">&hellip;</span> <span class="toggle_expand_collapse toggle_expand">Expand</span></span>
+            </div>
+
+                            </div>
+                                                        <div class="review_section review_actions helpful_right">
+                                <ul class="review_actions">
+                                                                            <li class="review_action review_helpful">
+                                            <div class="review_helpful">
+    <div class="rating_thumbs">
+        			<div class="helpful_summary thumb_count">
+				<a href="/login">
+				<span class="total_ups">0</span>
+				of 
+				<span class="total_thumbs">0</span>
+				users found this helpful
+                </a>
+			</div>
+                <div style="clear:both;"></div>
+    </div>
+</div>
+                                        </li>
+                                                                                                                                            </ul>
+                            </div>
+                            
+                                                    </div>
+                    </div></div></div></div>
+                </li>
+                                                                                    <li id="user_review_14456519" class="review user_review">
+                    <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                        <div class="review_content" >
+                            <div class="review_section">
+                                <div class="review_stats">
+                                    <div class="review_critic">
+                                        <div class="name">
+                                                                                            <a href="/user/redbattle">redbattle</a>
+                                                                                                                                </div>
+
+                                                                                    <div class="date">Oct 22, 2021</div>
+                                                                            </div>
+                                    
+                                    <div class="review_grade">
+                                                
+<div class="metascore_w user medium album positive indiv">8</div>
+
+                                    </div>
+                                </div>
+                                <div class="review_body">
+                                                        
+                                        <span class="inline_expand_collapse inline_collapsed" id="review_blurb_14456519"><span class="blurb blurb_collapsed">After onroading into Biffy Clyro from Infinity Land (what I consider to be the band's magnum opus) I've always felt let down by the ensuing</span><span class="blurb blurb_expanded">After onroading into Biffy Clyro from Infinity Land (what I consider to be the band's magnum opus) I've always felt let down by the ensuing albums. Obviously the band branched out into less bleak and more widely accessible writing territory which did wonders for their commercial appeal and they are legitimately very talented writers of pop songs but that was never why I fell in love with them.<br/><br/>Their ability on Infinity Land and also their earlier works to seamlessly combine supremely unsettling passages with bouncy pop hooks was incredibly unique and appealing to me but it feels like as their sound progressed, more and more of that eerie unsettling vibe was getting left on the cutting room floor. I'm happy to report that Myth leans surpisingly heavily back into that territory. Tracks like Holy Water feel like a great marriage between the two musical worlds Biffy have created over their long and storied career.<br/><br/>This is the blend of their previous works and newer endeavours I've been hoping the band would produce for a long time now and I hope it's not just an anomaly because even though it's not as commercially viable, some of their best compositions are to be found on their first 3 albums (particularly album 3, Infinity Land).<br/><br/>Whilst this album still doesn't go quite as far as I'd like back into that excellent territory, it does enough for a lapsed fan like myself to find enough to cling onto whilst also satiating the newer more commercial fanbase they've accrued in recent years.<br/><br/>Fingers crossed they can carry this balance through into their future output because it's a big relief to have one of my previously favourite artists come back into my life in a way that I find engaging to listen to again.</span><span class="blurb_etc">&hellip;</span> <span class="toggle_expand_collapse toggle_expand">Expand</span></span>
+            </div>
+
+                            </div>
+                                                        <div class="review_section review_actions helpful_right">
+                                <ul class="review_actions">
+                                                                            <li class="review_action review_helpful">
+                                            <div class="review_helpful">
+    <div class="rating_thumbs">
+        			<div class="helpful_summary thumb_count">
+				<a href="/login">
+				<span class="total_ups">2</span>
+				of 
+				<span class="total_thumbs">2</span>
+				users found this helpful
+                </a>
+			</div>
+                <div style="clear:both;"></div>
+    </div>
+</div>
+                                        </li>
+                                                                                                                                            </ul>
+                            </div>
+                            
+                                                    </div>
+                    </div></div></div></div>
+                </li>
+                                                                                    <li id="user_review_14456113" class="review user_review">
+                    <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                        <div class="review_content" >
+                            <div class="review_section">
+                                <div class="review_stats">
+                                    <div class="review_critic">
+                                        <div class="name">
+                                                                                            <a href="/user/fredphoesh">fredphoesh</a>
+                                                                                                                                </div>
+
+                                                                                    <div class="date">Oct 22, 2021</div>
+                                                                            </div>
+                                    
+                                    <div class="review_grade">
+                                                
+<div class="metascore_w user medium album mixed indiv">5</div>
+
+                                    </div>
+                                </div>
+                                <div class="review_body">
+                                                        
+                                        <span class="inline_expand_collapse inline_collapsed" id="review_blurb_14456113"><span class="blurb blurb_collapsed">Is it just me or is there a really low bar in "rock" music. This is not bad music, it's really pretty good, but there is absolutely nothing</span><span class="blurb blurb_expanded">Is it just me or is there a really low bar in "rock" music. This is not bad music, it's really pretty good, but there is absolutely nothing original about it. Every bit sounds like something else.<br/>Sadly, indie/alt rock has become middle-of-the-road and boring. The lack of creativity, EXPERIMENTATION is sad.</span><span class="blurb_etc">&hellip;</span> <span class="toggle_expand_collapse toggle_expand">Expand</span></span>
+            </div>
+
+                            </div>
+                                                        <div class="review_section review_actions helpful_right">
+                                <ul class="review_actions">
+                                                                            <li class="review_action review_helpful">
+                                            <div class="review_helpful">
+    <div class="rating_thumbs">
+        			<div class="helpful_summary thumb_count">
+				<a href="/login">
+				<span class="total_ups">1</span>
+				of 
+				<span class="total_thumbs">4</span>
+				users found this helpful
+                </a>
+			</div>
+                <div style="clear:both;"></div>
+    </div>
+</div>
+                                        </li>
+                                                                                                                                            </ul>
+                            </div>
+                            
+                                                    </div>
+                    </div></div></div></div>
+                </li>
+                                                                                    <li id="user_review_14456637" class="review user_review last_review">
+                    <div class="review_btm review_btm_r"><div class="review_btm review_btm_l"><div class="review_top review_top_r"><div class="review_top review_top_l">
+                        <div class="review_content" >
+                            <div class="review_section">
+                                <div class="review_stats">
+                                    <div class="review_critic">
+                                        <div class="name">
+                                                                                            <a href="/user/Segundoleo26">Segundoleo26</a>
+                                                                                                                                </div>
+
+                                                                                    <div class="date">Oct 22, 2021</div>
+                                                                            </div>
+                                    
+                                    <div class="review_grade">
+                                                
+<div class="metascore_w user medium album negative indiv">0</div>
+
+                                    </div>
+                                </div>
+                                <div class="review_body">
+                    <strong class="bold">
+            This review contains spoilers<span class="toggle_text_visibility">, click expand to view</span>.
+        </strong>
+                                            
+                                        <span class="inline_expand_collapse inline_collapsed" id="review_blurb_14456637"><span class="blurb blurb_collapsed"></span><span class="blurb blurb_expanded">A los artistas de hoy en día parece ya no importarles mucho la producción tampoco la calidad y el corte final de las canciones y la música por lo que este álbum se siente vacío e incompleto</span><span class="blurb_etc">&hellip;</span> <span class="toggle_expand_collapse toggle_expand">Expand</span></span>
+            </div>
+
+                            </div>
+                                                        <div class="review_section review_actions helpful_right">
+                                <ul class="review_actions">
+                                                                            <li class="review_action review_helpful">
+                                            <div class="review_helpful">
+    <div class="rating_thumbs">
+        			<div class="helpful_summary thumb_count">
+				<a href="/login">
+				<span class="total_ups">0</span>
+				of 
+				<span class="total_thumbs">5</span>
+				users found this helpful
+                </a>
+			</div>
+                <div style="clear:both;"></div>
+    </div>
+</div>
+                                        </li>
+                                                                                                                                            </ul>
+                            </div>
+                            
+                                                    </div>
+                    </div></div></div></div>
+                </li>
+                                            </ol>
+                                                                </div>
+    </div>
+
+    </div>
+</div>
+
+            
+            
+<script type='text/javascript'>
+  
+  //override amzn vars
+  var pageGuid = window.utag_data ? window.utag_data._pageViewGuid : "";
+  window.amzn_assoc_subtag = pageGuid;
+  window.amzn_assoc_title = "Shop Related Deals";
+  window.amzn_assoc_rows = "1";
+  window.amzn_assoc_rating = "false";
+  window.amzn_assoc_design = "standard_grid";
+  
+</script>
+
+<link rel="stylesheet" href="/css/global/amazon.src.css" type="text/css"/>
+
+<div id="tv-game-music-amazon-shopping-unit">
+  <div id="amzn-assoc-ad-59f8e9e4-5bed-4576-aacb-15693482f182" class="subrow pad_top2"></div>
+
+  <script type="text/plain" class="optanon-category-2" async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=59f8e9e4-5bed-4576-aacb-15693482f182"></script>
+</div>
+
+
+                
+            
+                    </div>
+        <div class="right" style="width:300px">
+            
+            
+
+                <div class="module supplements_module" id="supplementary-nav">
+    <div class="head head_type_1"><div class="head_wrap"><h2 class="module_title">Essential Links</h2></div></div>
+    <div class="body">
+        <div class="body_wrap">
+                        <div id="supplementary-items" class="supplements supplement_links">
+                <ol class="supplements supplement_links">
+                                                                                                    <li class="supplement supplement_link">
+                                <a class="section dw_tag {'tag':'supplementary-nav;item;1'}" href="https://www.metacritic.com/browse/albums/release-date/new-releases/name?view=condensed">New & Recent Releases A-Z by Artist</a>
+                            </li>
+                                                                                                                            <li class="supplement supplement_link">
+                                <a class="section dw_tag {'tag':'supplementary-nav;item;2'}" href="https://www.metacritic.com/browse/albums/release-date/available/date?view=condensed">New & Recent Releases by Date</a>
+                            </li>
+                                                                                                                            <li class="supplement supplement_link">
+                                <a class="section dw_tag {'tag':'supplementary-nav;item;3'}" href="https://www.metacritic.com/browse/albums/release-date/coming-soon/date">Upcoming Release Calendar</a>
+                            </li>
+                                                                                                                            <li class="supplement supplement_link">
+                                <a class="section dw_tag {'tag':'supplementary-nav;item;4'}" href="https://www.metacritic.com/browse/albums/score/metascore/year?sort=desc&year_selected=2021">2021 High Scores</a>
+                            </li>
+                                                                                                                            <li class="supplement supplement_link">
+                                <a class="section dw_tag {'tag':'supplementary-nav;item;5'}" href="/feature/best-albums-of-the-decade-2010s">Best Albums of the Decade</a>
+                            </li>
+                                                                                                                            <li class="supplement supplement_link">
+                                <a class="section dw_tag {'tag':'supplementary-nav;item;6'}" href="https://www.metacritic.com/browse/albums/score/metascore/all?sort=desc">All-Time High Scores</a>
+                            </li>
+                                                                                                                            <li class="supplement supplement_link">
+                                <a class="section dw_tag {'tag':'supplementary-nav;item;7'}" href="https://www.metacritic.com/browse/albums/artist/a?num_items=100">A-Z Index of Artists</a>
+                            </li>
+                                                                                                        </ol>
+            </div>
+                                    <div id="supplementary-articles" class="supplements supplement_articles">
+                <ol class="supplements supplement_articles">
+                                                                                                    <li class="supplement supplement_link">
+                                <a class="dw_tag {'tag':'supplementary-nav;article;1'}" href="/pictures/best-albums-of-2021-at-midyear">Best Albums of 2021 So Far</a>
+                            </li>
+                                                                                                                                                    </ol>
+                <div class="more_supplements more_articles">
+                    
+                    <a class="dw_tag {'tag':'supplementary-nav;more-articles'}" href="/feature">More articles &raquo;</a>
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+
+
+            
+                
+        <div id="recirculation_ad" class="ad_unit pad_btm1 pad_top1">
+
+            <script type="text/javascript">
+            
+                            pushToDisplay('recirculation_ad', null, 'recirculation', false, null, false);
+                    </script>
+    
+    </div>
+    
+    
+            
+                            
+                        
+                
+    
+    
+        <div class="module products_module list_product_titles_widget_module  contain_module">
+        <div class="head head_type_1"><div class="head_wrap"><h2 class="module_title"><a href="/browse/albums/release-date/new-releases/date">Current Music Releases</a></h2><div class="more"><span class="more_item"><a href="/browse/albums/release-date/new-releases/date">Full List &raquo;</a></span></div></div></div>
+                  
+        <div class="body">
+                                                                                <div class="tabs ">
+        <div class="tab_wrap">
+                            <ul class="tabs tabs_type_1">            <li class="tab tab_type_1 tab_metascore first">
+                                    <span class="active"><span>By Metascore</span></span>
+                            </li>
+                                                        <li class="tab tab_type_1 tab_userscore last">
+                                                        <a  href="/music/the-myth-of-the-happily-ever-after/biffy-clyro?recent-sort=userscore"><span>By user score</span></a>
+                            </li>
+            </ul>            
+    
+    
+            </div>
+    </div>
+    
+    
+
+                        <div class="body_wrap">
+                
+                <div class="product_titles">
+    <table class="score_title_table">
+                                                                            
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/dejs-vu-50th-anniversary-deluxe-edition/crosby-stills-nash-young">
+<span class="metascore_w small release positive">95</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/dejs-vu-50th-anniversary-deluxe-edition/crosby-stills-nash-young">
+                    Déjà Vu [50th Anniversary Deluxe Edition]
+                    </a>
+        
+                    <span class="sub_title">- Crosby, Stills, Nash & Young</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/the-myth-of-the-happily-ever-after/biffy-clyro">
+<span class="metascore_w small release positive">93</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/the-myth-of-the-happily-ever-after/biffy-clyro">
+                    The Myth of the Happily Ever After
+                    </a>
+        
+                    <span class="sub_title">- Biffy Clyro</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/one-foot-in-front-of-the-other-mixtape/griff">
+<span class="metascore_w small release positive">93</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/one-foot-in-front-of-the-other-mixtape/griff">
+                    One Foot in Front of the Other [Mixtape]
+                    </a>
+        
+                    <span class="sub_title">- Griff</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/prioritise-pleasure/self-esteem">
+<span class="metascore_w small release positive">92</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/prioritise-pleasure/self-esteem">
+                    Prioritise Pleasure
+                    </a>
+        
+                    <span class="sub_title">- Self Esteem</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/all-things-must-pass-50th-anniversary-super-deluxe-edition-box-set/george-harrison">
+<span class="metascore_w small release positive">92</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/all-things-must-pass-50th-anniversary-super-deluxe-edition-box-set/george-harrison">
+                    All Things Must Pass [50th Anniversary Super Deluxe Edition] [Box Set]
+                    </a>
+        
+                    <span class="sub_title">- George Harrison</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/glow-on/turnstile">
+<span class="metascore_w small release positive">92</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/glow-on/turnstile">
+                    Glow On
+                    </a>
+        
+                    <span class="sub_title">- Turnstile</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/sabotage-super-deluxe-edition-box-set/black-sabbath">
+<span class="metascore_w small release positive">92</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/sabotage-super-deluxe-edition-box-set/black-sabbath">
+                    Sabotage [Super Deluxe Edition] [Box Set]
+                    </a>
+        
+                    <span class="sub_title">- Black Sabbath</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/were-all-alone-in-this-together/dave">
+<span class="metascore_w small release positive">92</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/were-all-alone-in-this-together/dave">
+                    We're All Alone In This Together
+                    </a>
+        
+                    <span class="sub_title">- Dave</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/access-denied/ray-blk">
+<span class="metascore_w small release positive">92</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/access-denied/ray-blk">
+                    Access Denied
+                    </a>
+        
+                    <span class="sub_title">- Ray BLK</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/let-it-be-2021-mix-super-deluxe-edition-box-set/the-beatles">
+<span class="metascore_w small release positive">91</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/let-it-be-2021-mix-super-deluxe-edition-box-set/the-beatles">
+                    Let It Be [2021 Mix] [Super Deluxe Edition] [Box Set]
+                    </a>
+        
+                    <span class="sub_title">- The Beatles</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/blue-weekend/wolf-alice">
+<span class="metascore_w small release positive">91</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/blue-weekend/wolf-alice">
+                    Blue Weekend
+                    </a>
+        
+                    <span class="sub_title">- Wolf Alice</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/a-love-supreme-live-in-seattle/john-coltrane">
+<span class="metascore_w small release positive">90</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/a-love-supreme-live-in-seattle/john-coltrane">
+                    A Love Supreme: Live In Seattle
+                    </a>
+        
+                    <span class="sub_title">- John Coltrane</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/live-in-stuttgart-1975/can">
+<span class="metascore_w small release positive">90</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/live-in-stuttgart-1975/can">
+                    Live in Stuttgart 1975
+                    </a>
+        
+                    <span class="sub_title">- Can</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/pink-noise/laura-mvula">
+<span class="metascore_w small release positive">89</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/pink-noise/laura-mvula">
+                    Pink Noise
+                    </a>
+        
+                    <span class="sub_title">- Laura Mvula</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/bright-green-field/squid">
+<span class="metascore_w small release positive">89</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/bright-green-field/squid">
+                    Bright Green Field
+                    </a>
+        
+                    <span class="sub_title">- Squid</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/long-lost/lord-huron">
+<span class="metascore_w small release positive">88</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/long-lost/lord-huron">
+                    Long Lost
+                    </a>
+        
+                    <span class="sub_title">- Lord Huron</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/conquering/employed-to-serve">
+<span class="metascore_w small release positive">88</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/conquering/employed-to-serve">
+                    Conquering
+                    </a>
+        
+                    <span class="sub_title">- Employed to Serve</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/sometimes-i-might-be-introvert/little-simz">
+<span class="metascore_w small release positive">88</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/sometimes-i-might-be-introvert/little-simz">
+                    Sometimes I Might Be Introvert
+                    </a>
+        
+                    <span class="sub_title">- Little Simz</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/call-me-if-you-get-lost/tyler-the-creator">
+<span class="metascore_w small release positive">88</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/call-me-if-you-get-lost/tyler-the-creator">
+                    Call Me If You Get Lost
+                    </a>
+        
+                    <span class="sub_title">- Tyler, The Creator</span>
+            </td>
+</tr>
+
+                                                                        
+    
+
+<tr class="score_title_row">
+    <td class="score_col">
+                                    
+
+        
+    <a class="metascore_anchor" href="/music/jubilee/japanese-breakfast">
+<span class="metascore_w small release positive">88</span>
+    </a>
+
+                        </td>
+    <td class="title_col">
+                    <a class="product_title" href="/music/jubilee/japanese-breakfast">
+                    Jubilee
+                    </a>
+        
+                    <span class="sub_title">- Japanese Breakfast</span>
+            </td>
+</tr>
+
+            </table>
+
+
+    </div>
+
+
+            </div>
+        </div>
+
+        		            <div class="foot">
+        <div class="foot_wrap">
+                    
+            <div class="more">
+                <span class="more_item"><a href="/browse/albums/release-date/new-releases/date">All Current Music &raquo;</a></span>
+            </div>
+                </div>
+    </div>
+
+
+    </div>
+
+            
+            
+                
+        <div id="mpu_bottom" class="ad_unit">
+
+            <script type="text/javascript">
+            
+                            pushToDisplay('mpu_bottom', null, 'bottom', false, null, false);
+                    </script>
+    
+    </div>
+    
+            </div>
+    </div>
+</div>
+
+            </div>
+                    </div>
+    </div>
+        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                        
+        <div id="leader_bottom" class="ad_unit">
+
+            <script type="text/javascript">
+            
+                            pushToDisplay('leader_bottom', null, 'bottom', false, null, false);
+                    </script>
+    
+    </div>
+    
+    
+            </div>
+
+    
+    <div id="mastfoot">
+            <footer id="bottom_footer">
+    <div id="providers">
+	<a href="https://www.allmusic.com" target="_blank">Music title data, credits, and images provided by <span>AMG</span></a>
+	<span class="link_divider">|</span><a href="https://www.imdb.com" target="_blank">Movie title data, credits, and poster art provided by <span>IMDb</span></a>
+	<span class="link_divider">|</span><a href="https://www.internetvideoarchive.com" target="_blank">Video and Images provided by <span>IVA</span></a>
+    <div id="trademark">
+        We Deal With Criticism<sup>&reg;</sup>&nbsp;
+	</div>
+</div>
+
+
+            <div class="site_links upper">
+                    <a href="https://www.metacritic.com/movie">
+                <span>
+                                            Movies
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/tv">
+                <span>
+                                            TV
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/music">
+                <span>
+                                            Music
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/game/playstation-4">
+                <span>
+                                            PS4
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/game/xbox-one">
+                <span>
+                                            XboxOne
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/game/switch">
+                <span>
+                                            Switch
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/game/pc">
+                <span>
+                                            PC
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/game/wii-u">
+                <span>
+                                            WiiU
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/game/3ds">
+                <span>
+                                            3DS
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/game/playstation-vita">
+                <span>
+                                            PS Vita
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/game/ios">
+                <span>
+                                            iOS
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/feature">
+                <span>
+                                            Reports
+                                    </span>
+            </a>
+                    <a href="https://www.metacritic.com/rss">
+                <span>
+                                            RSS Feeds
+                                    </span>
+            </a>
+                </div>
+    
+    <div class="pad_top1 pad_btm1">
+        <div class="social_icons">
+            <a href="https://www.facebook.com/Metacritic" target="_blank" rel="noopener" class="social_round"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.instagram.com/metacritic/" target="_blank" rel="noopener"><i class="fa fa-instagram"></i></a>
+            <a href="https://twitter.com/metacritic" target="_blank" rel="noopener" class="social_round"><i class="fa fa-twitter"></i></a>
+        </div>
+    </div>
+
+    <div class="about_cbs">
+        <div class="footer_about_links">
+            <a class="first" href="https://careers.redventures.com/" target="_blank">Careers</a>
+            <span class="link_divider">|</span><a href="https://www.metacritic.com/faq">FAQ</a>
+            <span class="link_divider">|</span><a href="https://www.metacritic.com/about-metacritic">About Metacritic</a>
+            <span class="link_divider">|</span><a href="https://metacritic.zendesk.com/hc/en-us">Help & Support</a>
+            <span class="link_divider">|</span><a href="https://www.metacritic.com/contact-us">Contact</a>
+        </div>
+        <div class="footer_about_links">
+            <span class="link_divider">|</span><span><a href="https://privacyportal.onetrust.com/webform/79ba7c84-ebc2-4740-8d11-bf1cc4501e59/ae88e03f-2b16-4276-9980-27124ba4b2c1" target="_blank">Do Not Sell My Information</a></span>
+            <span class="link_divider">|</span><span id="footer_privacy"><a href="https://redventures.com/privacy-policy.html" target="_blank">Privacy Policy</a></span>
+            <span class="link_divider">|</span><span id="footer_cookie"><a class="ot-sdk-show-settings">Cookie Settings</a></span>
+            <span class="link_divider">|</span><span id="footer_terms"><a href="https://redventures.com/CMG-terms-of-use.html" target="_blank">Terms of Use</a></span>
+                            <span class="link_divider">|</span><span id="footer_attribution"><a href="https://www.cnet.com/" target="_blank">CNET</a></span>
+                    </div>
+        <div id="footer_rights" class="pad_btm2">
+            &copy; 2021 METACRITIC, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.
+        </div>
+    </div>
+</footer>
+
+    </div>
+
+    
+    
+
+</div>
+
+<div id="site_scripts" class="dw_tracking">
+     
+<script type="text/javascript">
+    
+    if (self != top) {
+        top.location = self.location;
+    }
+</script>
+
+                
+                                        
+
+    
+
+
+<script language="JavaScript" type="text/javascript">
+    utag_data.session = MetaC.adSession() + ':' + MetaC.adSubses();
+            
+        utag_data.bkPath = "/22309610186/aw-metacritic/music";
+                    
+    
+    
+    if ( window.eventAmazonBuyView ) {
+        utag_data.eventAmazonBuyView = 1;
+    }
+    if ( window.eventAmazonPivView ) {
+        utag_data.eventAmazonPivView = 1;
+    }
+    
+</script>
+
+
+
+
+
+
+
+    <script type="text/javascript" src="https://urs.metacritic.com/sdk/urs.js"></script>
+
+
+    <script type="text/javascript">
+        if ( window.MetaC && MetaC.URS ) {
+            MetaC.URS.config(227, false);
+        }
+    </script>
+
+
+
+
+    
+<script type="text/javascript">
+    window.cbsoptanon.onScriptsReady(function(cmp) {
+        //
+        // fire off tealium if the banner is not present after
+        // onetrust has loaded. (cbsoptanon has a promise polyfill)
+        //
+        cmp.ot.awaitInitialConsent(function() {
+            (function(a,b,c,d){
+            a='//tags.tiqcdn.com/utag/redventures/metacriticsite/prod/utag.js';
+            b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+            a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+            })();
+        });
+    });
+</script>
+
+
+
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            setTimeout(function(){
+                MetaC.checkOmniEvents();
+            }, 300);
+        });
+    </script>
+
+
+
+<script type="text/javascript">
+    
+    dwVars = {"siteId":"50","onId":"48","ptId":"6346","ctype":"entitytype;entityid","cval":"release;41138"};
+    if (typeof DW == "object"){
+        DW.pageParams = dwVars;
+        DW.regSilo = '12';
+        DW.clear();
+    }
+</script>
+
+
+
+<script>
+    var cbsiApexGlobal = {
+        'SITE': dwVars.siteId,
+        'NODE': dwVars.onId,
+        'PTYPE':dwVars.ptId
+    };
+</script>
+
+
+
+
+<script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-22577913-5']);
+    _gaq.push(['_setCustomVar',1,'PageType',dwVars.ptId,3]);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['nT._setAccount', 'UA-27653683-1']);
+    _gaq.push(['nT._setAllowLinker', true]);
+    _gaq.push(['nT._setSampleRate', '1']);
+    _gaq.push(['nT._trackPageview']);
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>
+    gdprConsentCallback('facebook', function () {
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId      : '123113677890173',
+                version    : 'v2.6',
+                channelUrl : 'https://www.metacritic.com/static/fbchannel.html',
+                status     : true,
+                xfbml      : true,
+                cookie     : true
+                });
+            MetaC.FB.initialized();
+            };
+        
+        (function(d, s, id){
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    }, {}, 'social');
+    
+</script>
+
+
+
+<script>
+    gdprConsentCallback('twitter', function () {
+        window.twttr = (function (d,s,id) {
+        var t, js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+        js.src="https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+        return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+        }(document, "script", "twitter-wjs"));
+
+        twttr.ready(function (twttr) {
+            MetaC.Twitter.initialized();
+        });
+    }, {}, 'social');
+</script>
+
+
+
+
+
+
+
+    <script>
+    BidBarrel.queue.push(function(resolve){
+        let __pv = MetaC.handlePageViewCount();
+
+        BidBarrel.initialize({
+            dfpPath: "/22309610186/aw-metacritic/music",
+            targeting: {
+                auto: true, 
+                cookie: {
+                    consolidate: true
+                }
+            },
+            pageTargeting: {
+                vguid: MC_UUID,
+                ptype: utag_data.pageType,
+                ftag: "",
+                ttag: "",
+                env: window.MC_ISQA ? "stage" : "prod"
+            }
+        })
+        resolve();
+            
+        BidBarrel.setTargeting({"vguid": MC_UUID});
+        BidBarrel.setTargeting({"session": MetaC.adSession()});
+        BidBarrel.setTargeting({"subses": MetaC.adSubses()});
+        BidBarrel.setTargeting({"env": "prod"});
+        BidBarrel.setTargeting({"pv": __pv});
+        BidBarrel.setTargeting({"ptype": "product_overview"});
+
+        if (MC_USER_LOGGED_IN){
+            BidBarrel.setTargeting({"user": "registered"});
+        }else{
+            BidBarrel.setTargeting({"user": "anon"});
+        }
+
+                    BidBarrel.setTargeting({"artist": "Pokey LaFarge"});
+                    BidBarrel.setTargeting({"genre": "poprock"});
+                    BidBarrel.setTargeting({"score": "93"});
+        
+        
+                    var parts = window.location.hash.split("=");
+            if ( parts.length > 1 && parts[0] == '#ftag' ) {
+                BidBarrel.setTargeting({"ftag": parts[1]});
+            }
+        
+        BidBarrel.auction(window.metac_ads_pushdisplay);
+
+        
+        
+        BidBarrel.on(["mobile_nav_ad_omni.identified", "nav_ad_omni.identified"], function(adIdentity, unitConfig, gptRenderedEventObj){
+            if ( Array.isArray(adIdentity.size) && adIdentity.size.join('x') === "6x6" ) {
+                window.top.document.getElementById(adIdentity.code).style.display="none";
+            }
+        });
+        
+    });
+</script>
+
+
+
+
+
+<script type='text/javascript'>
+    
+    // immediate function to scope initialization
+    (function(){
+        var mc_chartbeat_page_types = ["front_door", "section_door", "article", "image_gallery", "product_overview", "product_tvepisode", "product_tvseason", "list_page"];
+        var mc_utag_page_type = "product_overview";
+
+        // only load chartbeat based on page_type
+        if (mc_chartbeat_page_types.includes(mc_utag_page_type)){
+            // If its an image gallery, it gets convaluted, see if you have a firstPhotoIdx, if you do not its a door
+            // We say /pictures/recommend is a image_gallery in utag, when its really a door
+            if (mc_utag_page_type == "image_gallery"){
+                                    mc_utag_page_type = "section_door";
+                            }
+            if (window.VideoStrategy){
+                window['_cbv_strategies'] = window['_cbv_strategies'] || [];
+                window['_cbv_strategies'].push(window.VideoStrategy);
+            }
+
+            var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+            _sf_async_config.uid = 66142;
+            _sf_async_config.domain = 'metacritic.com';
+            _sf_async_config.useCanonical = true;
+            _sf_async_config.flickerControl = false;
+            _sf_async_config.useCanonicalDomain = true;
+            _sf_async_config.sections = mc_utag_page_type;
+            // make sure its an article, image galleries are stories and will have an author, but we only tag
+            // authors name(s) on article pages, on other pages, just pass empty string
+            if (mc_utag_page_type == "article"){
+                _sf_async_config.authors = '';
+            } else {
+                _sf_async_config.authors = '';
+            }
+
+            var _cbq = window._cbq = (window._cbq || []);
+
+                            _cbq.push(['_acct', 'anon']);
+            
+            window._sf_endpt = (new Date()).getTime();
+        }
+    })();
+    
+</script>
+<script type="text/plain" class="optanon-category-2" async src="https://static.chartbeat.com/js/chartbeat_video.js" charset="utf-8"></script>
+
+
+
+
+    
+    
+    <script>
+    	if (typeof cbsiLoadOffer == "function"){
+                cbsiLoadOffer(cbsiApexGlobal,1000);
+        }
+    </script>
+    
+</div>
+
+</body>
+</html>
+
+
