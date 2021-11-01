@@ -8,7 +8,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
 import tkinter as tk
 from tkinter import ttk
-from meta_scrape import metaScrape
+from scrape import meta_scrape
 from playlist_app import get_week_num
 from credentials.config import scrape_path, clean_path
 from dedup_csv import dedup_meta_scrape
@@ -41,7 +41,7 @@ def data_list():
     return scrape_dict
 # import scrape module and set to week_num variable to value in week field
 def scrape():
-    metaScrape(week_num.get())
+    meta_scrape(week_num.get())
     print(week_num)
 # dedup csv file for db
 def dedup():

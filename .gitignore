@@ -35,3 +35,5 @@ apps/.DS_Store
 apps/.DS_Store
 apps/.DS_Store
 apps/.DS_Store
+data/clean_meta_scrape.csv
+data/meta_scrape.csv

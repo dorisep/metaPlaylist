@@ -7,10 +7,8 @@ import csv
 from datetime import datetime
 import playlist_app
 
-
-
-
-def metaScrape(week_num):
+def meta_scrape(week_num):
+    week_num = week_num
     url_for_scrape = 'https://www.metacritic.com/browse/albums/release-date/new-releases/date'
     user_agent = {'User-agent': 'Mozilla/5.0'}
     # send response
@@ -81,8 +79,9 @@ def metaScrape(week_num):
     fields = ['artist', 'album', 'date', 'week_num', 'meta_score', 'user_score'] 
     # create variable for data to be written
     data = zip(albums_dict['artist'], albums_dict['album'], albums_dict['date'], albums_dict['week_num'], albums_dict['meta_score'], albums_dict['user_score'])
-    return albums_dict
-def scrape_reviews(albums_dict):
+    return write_csv(albums_dict, week_num)
+
+def scrape_reviews(albums_dict, week_num):
     artists = albums_dict['artist']
     for artist in artists:
         url_for_reviews = f'https://www.metacritic.com/music/the-myth-of-the-happily-ever-after/{artist}'
@@ -91,12 +90,12 @@ def scrape_reviews(albums_dict):
         response_reviews = requests.get(url_for_reviews, headers = user_agent)
         # scrape website into variable to parse
         soup_reviews = BeautifulSoup(response_reviews.text, 'html.parser')
-        print(soup_reviews)
+        # print(soup_reviews)
     playlist_app.create_playlist(week_num)
     return albums_dict
 
 
-def write_csv(albums_dict):
+def write_csv(albums_dict, week_num):
     # write dictionary to csv
     # csv variables
     output_path = os.path.join('..', 'data', 'meta_scrape.csv')
@@ -113,6 +112,6 @@ def write_csv(albums_dict):
             )
     with open(output_path, 'a') as csvfile:
         writer = csv.writer(csvfile)
-        for key, value in albums_dict.items():
+        for d in data:
             writer.writerow(d)
     return playlist_app.create_playlist(week_num)

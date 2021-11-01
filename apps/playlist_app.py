@@ -66,7 +66,7 @@ def get_track_features(track_uris):
             })
         # print(response.url)
         b = response.json()
-        return print(b)
+        # return print(b)
 
 def get_album_tracks(album_ids):
     track_uris = []
@@ -101,7 +101,7 @@ def search_for_albums(week_num, csv_path):
     with open(csv_path, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            print(row['week_num'])
+            # print(row['week_num'])
 #         filter for artists and albums from current week
             if int(row['week_num'])== week_num:
                 artists.append(row['artist'])
@@ -125,7 +125,7 @@ def search_for_albums(week_num, csv_path):
     return(get_album_tracks(album_ids))
 
 def add_tracks_to_playlist(week_num, playlist_id):
-    print(week_num)
+    # print(week_num)
     track_uris = [track for track in search_for_albums(week_num, csv_path)]
     track_limit = 100 
     # using list comprehension 

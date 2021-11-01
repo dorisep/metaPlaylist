@@ -1,18 +1,13 @@
 artist,album,date,week_num,meta_score,user_score
 Pokey LaFarge,In the Blossom of Their Shade,"October 15, 2021",41,85,0
 Hayden Thorpe,Moondust for My Diamond,"October 15, 2021",41,77,0
-Coldplay,Music of the Spheres,"October 15, 2021",41,57,64
+Coldplay,Music of the Spheres,"October 15, 2021",41,57,64\
 FINNEAS,Optimist,"October 15, 2021",41,71,89
 Remi Wolf,Juno,"October 15, 2021",41,91,88
 Frank Carter & the Rattlesnakes,Sticky,"October 15, 2021",41,78,0
 Pinkpantheress,to hell with it [Mixtape],"October 15, 2021",41,89,97
 Joy Crookes,Skin,"October 15, 2021",41,89,80
 The Beatles,Let It Be [2021 Mix] [Super Deluxe Edition] [Box Set],"October 15, 2021",41,94,93
-FINNEAS,Optimist,"October 15, 2021",41,74,87
-Remi Wolf,Juno,"October 15, 2021",41,92,81
-Pinkpantheress,to hell with it [Mixtape],"October 15, 2021",41,89,95
-Joy Crookes,Skin,"October 15, 2021",41,89,73
-The Beatles,Let It Be [2021 Mix] [Super Deluxe Edition] [Box Set],"October 15, 2021",41,93,88
 Tom Morello,The Atlas Underground Fire,"October 15, 2021",41,66,0
 Lilly Hiatt,Lately,"October 15, 2021",41,77,0
 Jason Isbell and the 400 Unit,Georgia Blue,"October 15, 2021",41,77,0
@@ -73,9 +68,6 @@ Fucked Up,Year of the Horse,"September 17, 2021",37,83,0
 RP Boo,Established!,"September 17, 2021",37,79,0
 Billy Idol,The Roadside [EP],"September 17, 2021",37,68,0
 Injury Reserve,By The Time I Get To Phoenix,"September 15, 2021",37,84,86
-Kacey Musgraves,Star-Crossed,"September 10, 2021",36,78,80
-Injury Reserve,By The Time I Get To Phoenix,"September 15, 2021",37,84,88
-Kacey Musgraves,Star-Crossed,"September 10, 2021",36,78,81
 Low,Hey What,"September 10, 2021",36,84,88
 Amyl and the Sniffers,Comfort To Me,"September 10, 2021",36,85,90
 Common,"A Beautiful Revolution, Vol. 2","September 10, 2021",36,72,82
@@ -110,6 +102,7 @@ Iron Maiden,Senjutsu,"September 3, 2021",35,83,88
 Drake,Certified Lover Boy,"September 3, 2021",35,61,35
 Lady Gaga,Dawn of Chromatica,"September 3, 2021",35,74,96
 Suuns,The Witness,"September 3, 2021",35,80,0
+Coldplay,Music of the Spheres,"October 15, 2021",41,57,64
 Little Simz,Sometimes I Might Be Introvert,"September 3, 2021",35,88,92
 Iron Maiden,Senjutsu,"September 3, 2021",35,83,90
 DJ Seinfeld,Mirrors,"September 3, 2021",35,74,0
@@ -135,4 +128,4 @@ Haiku Salut,"Hill, The Light, The Ghost","August 27, 2021",34,83,0
 Yann Tiersen,Kerber,"August 27, 2021",34,81,0
 Thalia Zedek Band,Perfect Vision,"August 27, 2021",34,71,0
 Midwife,Luminol,"August 27, 2021",34,81,0
-Midwife,Luminol,"August 27, 2021",34,81,0
+Injury Reserve,By The Time I Get To Phoenix,"September 15, 2021",37,84,86
