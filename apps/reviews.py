@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from pathlib import Path
 import re
-from pathlib import Path
+
 ###
 # pickle import for large dataframes
 ###
