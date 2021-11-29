@@ -1,17 +1,15 @@
-import json
-import sqlite3
+from flask import Flask
+from flask_sqlalchemy import SQLAlchemy
 
-with sqlite3.connect('test.db') as conn:
-    cursor = conn.cursor()
-    cursor.execute("SELECT * FROM mytable WHERE column=?;", [key])
-    data = cursor.fetchall()
-    json.dumps(data)
+app = Flask(__name__)
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////tmp/test.db'
+db = SQLAlchemy(app)
 
 
+class User(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    username = db.Column(db.String(80), unique=True, nullable=False)
+    email = db.Column(db.String(120), unique=True, nullable=False)
 
-# def get_my_jsonified_data(key):
-#     with sqlite3.connect('test.db') as conn:
-#         cursor = conn.cursor()
-#         cursor.execute("SELECT * FROM mytable WHERE column=?;", [key])
-#         data = cursor.fetchall()
-#         return json.dumps(data)
+    def __repr__(self):
+        return '<User %r>' % self.username
