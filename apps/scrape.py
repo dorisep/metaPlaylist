@@ -34,7 +34,7 @@ def meta_scrape(week_num):
         albums_dict['date'].append(_.find('div', class_='clamp-details').find('span').text)
         # scrape meta_score, handle for changes in class name, convert data type of score to int and append to dict
         # except set to pass since all alubms have a score
-
+        
         try:
             albums_dict['meta_score'].append(int(_.find('div', class_='metascore_w large release positive').text))  
         except:

@@ -1,5 +1,5 @@
 import sqlite3
-import pandas
+import pandas as pd
 
 def create_meta_db():
     # create connection to db
@@ -26,8 +26,13 @@ def create_meta_db():
                                 week_num INTEGER, 
                                 meta_score INTEGER, 
                                 user_score INTEGER,
+                                album_img TEXT,
+                                crit_rev_num INTEGER,
+                                user_rev_num INTEGER,
+                                record_label TEXT,
+                                album_genre TEXT,
+                                album_year  INTERGER,
                                 artist_id INTEGER,
-                                FOREIGN KEY(artist_id) REFERENCES artist (artist_id)
                             );'''
 
     features_table_schema = '''CREATE TABLE features(
@@ -59,3 +64,10 @@ def create_meta_db():
     cursor.execute(album_table_schema)
     print('table 3 created')
     cursor.close()
+
+def csv_to_df():
+    scrape_df = pd.read('full_scrape_20yr')
+
+def load_artists(df):
+    artist_df = df['artist']
+    artist_df.df.to_sql
