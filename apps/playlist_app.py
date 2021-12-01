@@ -13,11 +13,9 @@ from credentials.config import *
 def refresh_accesss_token():
     client_creds = f'{client_id}:{client_secret}'
     client_creds_b64 = base64.b64encode(client_creds.encode())
-
     refresh_token_header = {
         'Authorization' : f'Basic {client_creds_b64.decode()}'
     }
-
     # def refresh_playlist_token():
     refresh_url =  'https://accounts.spotify.com/api/token'
     refresh_params = {
@@ -26,9 +24,7 @@ def refresh_accesss_token():
     }
     r_token = requests.post(refresh_url, data=refresh_params, headers=refresh_token_header)
     refresh_response = r_token.json()
-
     access_token = refresh_response['access_token']
-
     return access_token
 
 

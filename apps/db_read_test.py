@@ -1,15 +1,21 @@
-from flask import Flask
-from flask_sqlalchemy import SQLAlchemy
+import sqlite3
+import json
 
-app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////tmp/test.db'
-db = SQLAlchemy(app)
+# def query_artist(artist):
+#     command = ("select * from albums where artist = ?;", [artist])
+#     return command
 
+# print(query_artist('Twin Shadow'))
+artist = 'Twin Shadow'
+# queries_dict = {"ar_query": query_artist}
+# test = queries_dict["ar_query"]("Twin Shadow")
+# create context manager
+command = (f"select * from albums where artist = '{artist}'")
 
-class User(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    username = db.Column(db.String(80), unique=True, nullable=False)
-    email = db.Column(db.String(120), unique=True, nullable=False)
-
-    def __repr__(self):
-        return '<User %r>' % self.username
+with sqlite3.connect('meta_music.db') as conn:
+# create cursor
+    cur = conn.cursor()
+# query db
+    cur.execute(command)
+    query = cur.fetchall()
+    print(json.dumps(query))
