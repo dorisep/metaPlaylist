@@ -1,7 +1,7 @@
-class MetaDB:
 from pathlib import Path
 import sqlite3
 
+class SQLite:
     """
     A minimal sqlite3 context handler that removes pretty much all
     boilerplate code from the application level.
@@ -20,3 +20,5 @@ import sqlite3
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.connection.close()
+
+

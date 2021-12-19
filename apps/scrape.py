@@ -36,7 +36,7 @@ def meta_scrape(week_num):
         # except set to pass since all alubms have a score
         
         try:
-            albums_dict['meta_score'].append(int(_.find('div', class_='metascore_w large release positive').text))  
+            albums_dict['meta_score'].append(int(_.find('div', class_='metascore_w large release positive').text))
         except:
             pass
         try:
