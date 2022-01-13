@@ -1,11 +1,10 @@
-import json
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 import os
 import csv
 from datetime import datetime
 import playlist_app
+import re
 
 def meta_scrape(week_num):
     week_num = week_num
@@ -23,7 +22,6 @@ def meta_scrape(week_num):
     # create/initialize dictionary 
     albums_dict = {'artist':[], 'album':[], 'date':[], 'week_num':[], 'meta_score': [], 'user_score':[]}
 
-    soup_score.find_all('td', class_='clamp-summary-wrap')
     # create soup 
     for _ in soup_score.find_all('td', class_='clamp-summary-wrap'):
         # scrape album name
@@ -31,55 +29,41 @@ def meta_scrape(week_num):
         # scrape artist name and strip white space and extra characters
         albums_dict['artist'].append(_.find('div', class_='artist').text.strip().lstrip('by '))
         # scrape date
-        albums_dict['date'].append(_.find('div', class_='clamp-details').find('span').text)
-        # scrape meta_score, handle for changes in class name, convert data type of score to int and append to dict
-        # except set to pass since all alubms have a score
+        date_string = (_.find('div', class_='clamp-details').find('span').text)
+        date_obj = datetime.strptime(date_string, '%B %d, %Y')
+        albums_dict['date'].append(date_obj)
+        albums_dict['week_num'].append(date_obj.isocalendar()[1])
+        # for dates in albums_dict['date']:
         
-        try:
-            albums_dict['meta_score'].append(int(_.find('div', class_='metascore_w large release positive').text))
-        except:
-            pass
-        try:
-            albums_dict['meta_score'].append(int(_.find('div', class_='metascore_w large release mixed').text))  
-        except:
-            pass 
-        try:
-            albums_dict['meta_score'].append(int(_.find('div', class_='metascore_w large release negative').text))  
-        except:
-            pass
-        # scrape user score, handle errors for tbd/class name and append to temp list
-        try:
-            userP.append(float(_.find('div', class_='metascore_w user large release positive').text))  
-        except:
-            userP.append(0)
-        try:
-            userM.append(float(_.find('div', class_='metascore_w user large release mixed').text))  
-        except:
-            userM.append(0)
-        try:
-            userN.append(float(_.find('div', class_='metascore_w user large release negative').text))  
-        except:
-            userN.append(0)
-            
-    # merge user score by filtering scores from tbd using data type in temporary lists, convert data type of scores to int and append to dictionary        
-    for a, b, c in zip(userP, userM, userN):
-        if isinstance(a, float):
-            albums_dict['user_score'].append(int(a * 10))
-        elif isinstance(b, float):
-            albums_dict['user_score'].append(int(b * 10))
-        elif isinstance(c, float):
-            albums_dict['user_score'].append(int(c * 10))
+        #  (dates)
+        #  )
+        # )
+        # 
+        # albums_dict['week_num'].append(
+        # Handle for varaitions in classes for critic name by pattern matching with regular expression.
+        # then scrape critic and user scores
+        meta_critic_pattern = re.compile('^metascore_w large')
+        meta_user_pattern = re.compile('^metascore_w user')
+        albums_dict['meta_score'].append(int(_.find('div', class_= meta_critic_pattern).text))
+        user_string = (_.find('div', class_= meta_user_pattern).text)
+        # Handle for variations in classes for user by filtering out scores from strings to ints
+        if user_string == 'tbd':
+            albums_dict['user_score'].append(user_string)
         else:
-            albums_dict['user_score'].append(c)
+            user_score = int(float(user_string)*10)
+            albums_dict['user_score'].append(user_score)
+
 # create week_num key and values for weekly scrape
-    for dates in albums_dict['date']:
-        albums_dict['week_num'].append((datetime.strptime(dates, '%B %d, %Y')).isocalendar()[1])
+    print(albums_dict['date'])
+    print(albums_dict['week_num'])
+    # for release_date in albums_dict['date']:
+    #     albums_dict['week_num'].append((datetime.strptime(release_date, '%B %d, %Y')).isocalendar()[1])
     # write dictionary to csv
     # create header
     fields = ['artist', 'album', 'date', 'week_num', 'meta_score', 'user_score'] 
     # create variable for data to be written
     data = zip(albums_dict['artist'], albums_dict['album'], albums_dict['date'], albums_dict['week_num'], albums_dict['meta_score'], albums_dict['user_score'])
-    return write_csv(albums_dict, week_num)
+    # return write_csv(albums_dict, week_num)
 
 def scrape_reviews(albums_dict, week_num):
     artists = albums_dict['artist']
@@ -110,8 +94,10 @@ def write_csv(albums_dict, week_num):
             albums_dict['meta_score'], 
             albums_dict['user_score']
             )
+    # output to csv
     with open(output_path, 'a') as csvfile:
         writer = csv.writer(csvfile)
         for d in data:
             writer.writerow(d)
+    # call create playlist script       
     return playlist_app.create_playlist(week_num)

@@ -2,7 +2,7 @@ import os
 from tkinter import *
 import csv
 import numpy as np
-from more_itertools import unique_everseen
+# from more_itertools import unique_everseen
 import matplotlib
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
@@ -42,7 +42,7 @@ def data_list():
 # import scrape module and set to week_num variable to value in week field
 def scrape():
     meta_scrape(week_num.get())
-    print(week_num)
+    # print(week_num)
 # dedup csv file for db
 def dedup():
     dedup_meta_scrape(scrape_path, clean_path)
