@@ -29,17 +29,14 @@ def meta_scrape(week_num):
         # scrape artist name and strip white space and extra characters
         albums_dict['artist'].append(_.find('div', class_='artist').text.strip().lstrip('by '))
         # scrape date
+        ###
+        #sqlite doesn't support datetime objects date column will be string
+        #make an objec of date to extract week num
+        ###
         date_string = (_.find('div', class_='clamp-details').find('span').text)
         date_obj = datetime.strptime(date_string, '%B %d, %Y')
-        albums_dict['date'].append(date_obj)
-        albums_dict['week_num'].append(date_obj.isocalendar()[1])
-        # for dates in albums_dict['date']:
-        
-        #  (dates)
-        #  )
-        # )
-        # 
-        # albums_dict['week_num'].append(
+        albums_dict['date'].append(date_string)
+        albums_dict['week_num'].append(int(date_obj.isocalendar()[1]))
         # Handle for varaitions in classes for critic name by pattern matching with regular expression.
         # then scrape critic and user scores
         meta_critic_pattern = re.compile('^metascore_w large')
@@ -53,13 +50,7 @@ def meta_scrape(week_num):
             user_score = int(float(user_string)*10)
             albums_dict['user_score'].append(user_score)
 
-# create week_num key and values for weekly scrape
-    print(albums_dict['date'])
-    print(albums_dict['week_num'])
-    # for release_date in albums_dict['date']:
-    #     albums_dict['week_num'].append((datetime.strptime(release_date, '%B %d, %Y')).isocalendar()[1])
-    # write dictionary to csv
-    # create header
+    # create fields for csv
     fields = ['artist', 'album', 'date', 'week_num', 'meta_score', 'user_score'] 
     # create variable for data to be written
     data = zip(albums_dict['artist'], albums_dict['album'], albums_dict['date'], albums_dict['week_num'], albums_dict['meta_score'], albums_dict['user_score'])

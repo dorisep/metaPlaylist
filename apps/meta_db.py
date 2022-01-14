@@ -9,16 +9,16 @@ def create_meta_db():
     cursor = connection.cursor()
 
     # drop tables if they exists
-    cursor.execute('DROP TABLE IF EXISTS artists')
-    cursor.execute('DROP TABLE IF EXISTS albums')
-    cursor.execute('DROP TABLE IF EXISTS features')
+    # cursor.execute('DROP TABLE IF EXISTS artists')
+    # cursor.execute('DROP TABLE IF EXISTS albums')
+    # cursor.execute('DROP TABLE IF EXISTS features')
 
     # create sql tables for artists, albums, and track features
-    artist_table_schema ='''CREATE TABLE artists (
+    artist_table_schema ='''CREATE TABLE IF NOT EXISTS artists (
                             artist_id INTERGER PRIMARY KEY, 
                             artist TEXT NOT NULL);'''
 
-    album_table_schema = '''CREATE TABLE albums (
+    album_table_schema = '''CREATE TABLE IF NOT EXISTS albums (
                                 album_id INTERGER PRIMARY KEY,
                                 artist TEXT NOT NULL,
                                 album TEXT NOT NULL, 
@@ -35,7 +35,7 @@ def create_meta_db():
                                 artist_id INTEGER,
                             );'''
 
-    features_table_schema = '''CREATE TABLE features(
+    features_table_schema = '''CREATE TABLE IF NOT EXISTS features(
                                 feature_id INTEGER, 
                                 danceability REAL, 
                                 energy REAL,
