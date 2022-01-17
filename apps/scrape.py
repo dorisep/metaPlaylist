@@ -7,6 +7,7 @@ import playlist_app
 import re
 
 def meta_scrape(week_num):
+    print(f'meta_scrap called, week num =  {week_num}')
     week_num = week_num
     url_for_scrape = 'https://www.metacritic.com/browse/albums/release-date/new-releases/date'
     user_agent = {'User-agent': 'Mozilla/5.0'}
@@ -39,10 +40,11 @@ def meta_scrape(week_num):
         albums_dict['week_num'].append(int(date_obj.isocalendar()[1]))
         # Handle for varaitions in classes for critic name by pattern matching with regular expression.
         # then scrape critic and user scores
-        meta_critic_pattern = re.compile('^metascore_w large')
-        meta_user_pattern = re.compile('^metascore_w user')
-        albums_dict['meta_score'].append(int(_.find('div', class_= meta_critic_pattern).text))
-        user_string = (_.find('div', class_= meta_user_pattern).text)
+        # meta_critic_pattern = re.compile('^metascore_w large')
+        # meta_user_pattern = re.compile('^metascore_w user')
+        # print(_.find('div', class_= meta_critic_pattern))
+        albums_dict['meta_score'].append(int(_.find_all('div', class_= ['metascore_w large']).text))
+        user_string = (_.find('div', class_= 'metascore_w user').text)
         # Handle for variations in classes for user by filtering out scores from strings to ints
         if user_string == 'tbd':
             albums_dict['user_score'].append(user_string)
@@ -54,9 +56,11 @@ def meta_scrape(week_num):
     fields = ['artist', 'album', 'date', 'week_num', 'meta_score', 'user_score'] 
     # create variable for data to be written
     data = zip(albums_dict['artist'], albums_dict['album'], albums_dict['date'], albums_dict['week_num'], albums_dict['meta_score'], albums_dict['user_score'])
-    # return write_csv(albums_dict, week_num)
+    print('meta_scrape complete')
+    return write_csv(albums_dict, week_num)
 
 def scrape_reviews(albums_dict, week_num):
+    print('scrape_reviews called')
     artists = albums_dict['artist']
     for artist in artists:
         url_for_reviews = f'https://www.metacritic.com/music/the-myth-of-the-happily-ever-after/{artist}'
@@ -71,6 +75,7 @@ def scrape_reviews(albums_dict, week_num):
 
 
 def write_csv(albums_dict, week_num):
+    print('write_csv called')
     # write dictionary to csv
     # csv variables
     output_path = os.path.join('..', 'data', 'meta_scrape.csv')
@@ -90,5 +95,5 @@ def write_csv(albums_dict, week_num):
         writer = csv.writer(csvfile)
         for d in data:
             writer.writerow(d)
-    # call create playlist script       
+    # call create playlist script      
     return playlist_app.create_playlist(week_num)

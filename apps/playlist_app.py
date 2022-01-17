@@ -4,13 +4,14 @@ import base64
 import csv
 import json
 import re
-from datetime import datetime
+import datetime
 from spotify_client import *
 from credentials.config import *
 
 
 
 def refresh_accesss_token():
+    print('refresh token called')
     client_creds = f'{client_id}:{client_secret}'
     client_creds_b64 = base64.b64encode(client_creds.encode())
     refresh_token_header = {
@@ -36,12 +37,16 @@ csv_path = os.path.join('..', 'data', 'meta_scrape.csv')
 # replace all cases of week_num with this funciton variable: get_week_num()
 ###
 def get_week_num():
+    
     my_date = datetime.date.today() 
+    print( my_date.isocalendar())
     year, week_num, day_of_week = my_date.isocalendar()
     this_week = week_num
+    print(f'week_num called {this_week}')
     return this_week
 
 def get_track_features(track_uris):
+    print('get_track_features called')
     playlist_token = refresh_accesss_token()
     track_ids = [track[14:] for track in track_uris]
     track_limit = 100 
@@ -65,6 +70,7 @@ def get_track_features(track_uris):
         # return print(b)
 
 def get_album_tracks(album_ids):
+    print('get_album_tracks called')
     track_uris = []
 #     request_data = json.dumps(uris)
     for album_id in album_ids:
@@ -84,6 +90,7 @@ def get_album_tracks(album_ids):
     return track_uris
 
 def search_for_albums(week_num, csv_path):
+    print('search for albums called')
     artists=[]
     albums=[]
     meta_score=[]
@@ -121,6 +128,7 @@ def search_for_albums(week_num, csv_path):
     return(get_album_tracks(album_ids))
 
 def add_tracks_to_playlist(week_num, playlist_id):
+    print('add tracks called')
     # print(week_num)
     track_uris = [track for track in search_for_albums(week_num, csv_path)]
     track_limit = 100 
@@ -142,8 +150,8 @@ def add_tracks_to_playlist(week_num, playlist_id):
     return
 
 def create_playlist(week_num):
-
-    # week_num = get_week_num()
+    print('create playlist called')
+    week_num = get_week_num()
     request_body = json.dumps({
         'name': f'2021-week {week_num} scrape',
         'description': f'metacritic rated albums for the {week_num}th of the year',
