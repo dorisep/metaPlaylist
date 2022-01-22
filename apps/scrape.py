@@ -7,7 +7,7 @@ import playlist_app
 import re
 
 def meta_scrape(week_num):
-    print(f'meta_scrap called, week num =  {week_num}')
+    print(f'meta_scrape called, week num =  {week_num}')
     week_num = week_num
     url_for_scrape = 'https://www.metacritic.com/browse/albums/release-date/new-releases/date'
     user_agent = {'User-agent': 'Mozilla/5.0'}
@@ -15,14 +15,8 @@ def meta_scrape(week_num):
     response_score = requests.get(url_for_scrape, headers = user_agent)
     # scrape website into variable to parse
     soup_score = BeautifulSoup(response_score.text, 'html.parser')
-    
-    # create temporary lists for user scores
-    userP = []
-    userM = []
-    userN = []
     # create/initialize dictionary 
     albums_dict = {'artist':[], 'album':[], 'date':[], 'week_num':[], 'meta_score': [], 'user_score':[]}
-
     # create soup 
     for _ in soup_score.find_all('td', class_='clamp-summary-wrap'):
         # scrape album name
@@ -40,11 +34,11 @@ def meta_scrape(week_num):
         albums_dict['week_num'].append(int(date_obj.isocalendar()[1]))
         # Handle for varaitions in classes for critic name by pattern matching with regular expression.
         # then scrape critic and user scores
-        # meta_critic_pattern = re.compile('^metascore_w large')
-        # meta_user_pattern = re.compile('^metascore_w user')
-        # print(_.find('div', class_= meta_critic_pattern))
-        albums_dict['meta_score'].append(int(_.find_all('div', class_= ['metascore_w large']).text))
-        user_string = (_.find('div', class_= 'metascore_w user').text)
+        meta_critic_pattern = re.compile('^metascore_w large')
+        meta_user_pattern = re.compile('^metascore_w user')
+        print(_.find('div', class_= meta_critic_pattern))
+        albums_dict['meta_score'].append(int(_.find('div', class_= meta_critic_pattern).text))
+        user_string = (_.find('div', class_= meta_user_pattern).text)
         # Handle for variations in classes for user by filtering out scores from strings to ints
         if user_string == 'tbd':
             albums_dict['user_score'].append(user_string)
