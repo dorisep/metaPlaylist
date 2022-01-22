@@ -36,7 +36,6 @@ def meta_scrape(week_num):
         # then scrape critic and user scores
         meta_critic_pattern = re.compile('^metascore_w large')
         meta_user_pattern = re.compile('^metascore_w user')
-        print(_.find('div', class_= meta_critic_pattern))
         albums_dict['meta_score'].append(int(_.find('div', class_= meta_critic_pattern).text))
         user_string = (_.find('div', class_= meta_user_pattern).text)
         # Handle for variations in classes for user by filtering out scores from strings to ints
@@ -63,7 +62,6 @@ def scrape_reviews(albums_dict, week_num):
         response_reviews = requests.get(url_for_reviews, headers = user_agent)
         # scrape website into variable to parse
         soup_reviews = BeautifulSoup(response_reviews.text, 'html.parser')
-        # print(soup_reviews)
     playlist_app.create_playlist(week_num)
     return albums_dict
 
